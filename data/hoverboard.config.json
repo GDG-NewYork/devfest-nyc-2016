@@ -218,6 +218,11 @@
       "name": "gplus",
       "nickname": "102033742326416578905",
       "url": "https://plus.google.com/102033742326416578905"
+    },
+    {
+      "name": "github",
+      "nickname": "GDG New York",
+      "url": "https://github.com/gdg-newyork"
     }
   ],
 
@@ -250,10 +255,5 @@
       "/images/backgrounds/location_2.jpg",
       "/images/backgrounds/location_3.jpg"
     ]
-  },
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
-  "callToAction": {
-    "videoTitle": "action-title",
-    "videoId": "DfMnJAzOFng"
   }
 }
