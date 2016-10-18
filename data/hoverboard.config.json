@@ -3,11 +3,11 @@
     "home": {
       "headerSettings": {
         "backgroundColor": "#FF9800",
-        "backgroundImage": "/images/backgrounds/home.png",
-        "fontColor": "#fff",
+        "backgroundImage": "/images/backgrounds/banner.png",
+        "fontColor": "#000",
         "tabBarColor": "#fff",
         "video": {
-          "title": "GDG DevFest Ukraine 2016",
+          "title": "GDG DevFest NYC 2016",
           "youtubeId": "DfMnJAzOFng",
           "text": "See how it was in 2015"
         },
