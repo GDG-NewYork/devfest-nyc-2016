@@ -56,6 +56,7 @@
   "attendees"               : "Attendees",
   "days"                    : "Days",
   "sessions"                : "Talks",
+  "workshops"               : "Workshops",
   "tracks"                  : "Tracks",
 
   "social-title"            : "Social",
@@ -76,8 +77,8 @@
   "action-title"            : "GDG DevFest 2015",
   "action"                  : "See how it was",
   "location-title"          : "Flatiron School, NYC",
-  "location-description"    : "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event",
-  "location-address"        : "Shchyretska St, 36",
+  "location-description"    : "Flatiron School is an outcomes-focused coding bootcamp that has helped thousands of learners become valuable programmers.",
+  "location-address"        : "11 Broadway #260, New York, NY 10004",
 
   "organizer"               : "Organizer",
   "about-organizers"        : "<a href='http://meetup.com/gdgnyc' target='_blank'>GDG New York</a> is proud to organize the 2016 DevFest NYC",
