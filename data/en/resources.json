@@ -4,7 +4,7 @@
   "dates" : "Nov 19-20 2016",
 
   "home"    : "Home",
-  "blog"    : "Blog",
+  "blog"    : "News",
   "speakers": "Speakers",
   "schedule": "Schedule",
   "team"    : "Team",
@@ -43,14 +43,14 @@
   "early-ticket"            : "Early Bird",
   "early-ticket-starts"     : "Oct 19",
   "early-ticket-ends"       : "Nov 1",
-  "early-ticket-info"       : "Or first 30 tickets",
+  "early-ticket-info"       : "limited quantities available",
 
   "lazy-ticket"             : "Regular",
   "lazy-ticket-starts"      : "Oct 19",
   "lazy-ticket-ends"        : "Nov 18",
 
   "team-page-title"         : "Team",
-  "team-page-text"          : "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
+  "team-page-text"          : "DevFest NYC is a community-run and volunteer-driven conference for developers, by developers, and organized by Google Developer Group (New York). Our team consists of designers, developers, students and professionals who share a common love for technology and community.<br/><br/> This year, we have an ambitious program with multiple tracks including a technical program, workshops, codelabs and a hackathon. We could not have done it without the people listed here!",
 
   "description"             : "A community-run conference focused on emerging technologies and software development tools and practices in the fields of mobile and web development, virtual reality, cloud computing, machine learning and physical web",
   "attendees"               : "Attendees",

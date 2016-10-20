@@ -1,15 +1,11 @@
-Ukrainian Google Developers Groups are proud to announce the fifth annual GDG DevFest 2016 which is the biggest Google related event in Ukraine carefully crafted by GDG community! The event will take place on **9-10th of September** in **Lviv**.
 
-### What to expect
+Welcome to DevFest NYC 2016, the first 2-day developer conference organized by the Google Developer Community. The event will take place on **19-20th of November** in **Flatiron School**, with one special "GoLang Training" track being hosted at our other venue partner, **General Assembly**. The two venues will be ticketed separately so please reserve your seat accordingly.
 
-* In 2015 the conference was visited by 500+ attendees and 30 speakers from all over the world and this year -  **expanded speakers’ geography** from companies like Google, Intel etc. and more [Google Developer Experts](https://developers.google.com/experts/about)!
-* Every year more than 80% of our participants are experienced developers, so DFUA will keep technical hardcore without any marketing nonsense.
-* 3 parallel tracks dedicated to **Android**, **Web** & **Cloud** technologies.
-* **Expanded workshop area** where participants will have an opportunity to get some new practical skills from the best developers in Google-related technologies.
+### What to expect: General Assembly 
 
-So hurry up to book tickets to the Lviv, cultural capital of Ukraine as you’ll get a huge inspiration to create your cool projects after these days in the company of coders, hackers, geeks and just experts of our industry.
+* 
 
-### Festival organizers
+### What to expect: Flatiron School
 
 [Google Developer Group Lviv](http://lviv.gdg.org.ua/) (GDG Lviv) in conjunction with the Google development groups from all over Ukraine. GDG aims to share experiences and gain new knowledge. Each group - is open to all community of developers that create exciting projects and share their experience with passion about Google technologies.
 

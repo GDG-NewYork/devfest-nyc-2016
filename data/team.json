@@ -1,217 +1,188 @@
 [
+
   {
-    "title": "Core Team",
+    "title": "DevFest Organizers",
     "members": [
       {
-        "name": "Oleh Zasadnyy",
-        "photoUrl": "/images/people/oleh_zasadnyy.jpg",
+        "name": "Nitya Narasimhan",
+        "photoUrl": "https://pbs.twimg.com/profile_images/1575967831/nitya_profile_400x400.jpg",
         "socials": [
           {
             "icon": "gplus",
-            "link": "https://plus.google.com/+OlehZasadnyy",
+            "link": "https://plus.google.com/+NityaNarasimhan",
             "name": "Google+"
           },
           {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/oleh.zasadnyy",
-            "name": "Facebook"
+            "icon": "github",
+            "link": "https://www.github.com/nitya",
+            "name": "GitHub"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/ozasadnyy",
+            "link": "https://twitter.com/nitya",
             "name": "Twitter"
           },
-          {
-            "icon": "website",
-            "link": "http://o.zasadnyy.com/",
-            "name": "Blog"
-          }
-        ],
-        "title": "Website and sponsors"
-      },
-      {
-        "name": "Sofiya Huts",
-        "photoUrl": "/images/people/sofiya_huts.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+SofiaHuts",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/sophie.huts.7",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Social and media"
-      },
-      {
-        "name": "Vitaliy Zasadnyy",
-        "photoUrl": "/images/people/vitaliy_zasadnyy.jpg",
-        "socials": [
           {
             "icon": "linkedin",
-            "link": "https://www.linkedin.com/in/zasadnyy",
-            "name": "Linkedin"
+            "link": "http://linkedin.com/in/nityan",
+            "name": "Linked In"
+          }
+        ],
+        "title": "GDG New York & Hudson Valley, Machine Learning Program"
+      },
+      {
+        "name": "Ralph Yozzo",
+        "photoUrl": "https://avatars2.githubusercontent.com/u/167614?v=3&s=466",
+        "socials": [
+          {
+            "icon": "github",
+            "link": "https://www.github.com/fedex1",
+            "name": "GitHub"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/zasadnyy",
+            "link": "https://twitter.com/nitya",
             "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://v.zasadnyy.com/",
-            "name": "Blog"
           }
         ],
-        "title": "Speakers"
+        "title": "GDG New York, Firebase/Cloud Program"
       },
       {
-        "name": "Marta Maxymiak",
-        "photoUrl": "/images/people/marta_maxymiak.jpg",
+        "name": "Gautam Arora",
+        "photoUrl": "https://pbs.twimg.com/profile_images/757311899688112129/mtVriIJm_400x400.jpg",
         "socials": [
           {
-            "icon": "gplus",
-            "link": "https://plus.google.com/104036874811391520583",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/marta.maxymiak",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Party and happiness"
-      },
-      {
-        "name": "Ostap Andrusiv",
-        "photoUrl": "/images/people/ostap_andrusiv.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://google.com/+OstapAndrusiv",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/ostap.andrusiv",
-            "name": "Facebook"
+            "icon": "github",
+            "link": "https://www.github.com/gautamarora",
+            "name": "GitHub"
           },
           {
             "icon": "twitter",
-            "link": "https://twitter.com/p1f",
-            "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://andrusiv.com/",
-            "name": "Blog"
-          }
-        ],
-        "title": "Sponsors"
-      },
-      {
-        "name": "Vasylyna Mytsak",
-        "photoUrl": "/images/people/vasylyna_mytsak.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+ВасилинаМицак",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/vasylyna.mytsak",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Party and happiness"
-      },
-      {
-        "name": "Volodya Karpliuk",
-        "photoUrl": "/images/people/volodya_karpliuk.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+VolodyaKarpliuk23",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/volodya.karpluk",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/keyv23",
+            "link": "https://twitter.com/gautam",
             "name": "Twitter"
           }
         ],
-        "title": "Speakers"
-      },
-      {
-        "name": "Diana Pinchuk",
-        "photoUrl": "/images/people/diana_pinchuk.jpg",
-        "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+DianaPinchuk",
-            "name": "Google+"
-          },
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/diana.pinchuk.9",
-            "name": "Facebook"
-          }
-        ],
-        "title": "Social and media"
+        "title": "GDG New York, Web/PWA Program"
       }
     ]
   },
+
   {
     "title": "Program Committee",
     "members": [
       {
-        "name": "Ihor Dvoretskyi",
-        "photoUrl": "/images/people/ihor_dvoretskyi.jpg",
+        "name": "Leigh Scherrer",
+        "photoUrl": "https://pbs.twimg.com/profile_images/762299156471934976/F5kZbSE0_400x400.jpg",
         "socials": [
-          {
-            "icon": "facebook",
-            "link": "https://www.facebook.com/idvoretskyi",
-            "name": "Facebook"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/idvoretskyi",
-            "name": "Twitter"
-          }
         ],
-        "title": "Cloud stream"
+        "title": "Web/PWA Program"
       },
       {
-        "name": "Dmytro Danylyk",
-        "photoUrl": "/images/people/dmytro_danylyk.jpg",
+        "name": "Mikhail Nakhimovich",
+        "photoUrl": "https://pbs.twimg.com/profile_images/735455823938396161/DmC7AtFP.jpg",
         "socials": [
-          {
-            "icon": "gplus",
-            "link": "https://plus.google.com/+DmytroDanylyk",
-            "name": "Google+"
-          },
-          {
-            "icon": "twitter",
-            "link": "https://twitter.com/dmytrodanylyk",
-            "name": "Twitter"
-          },
-          {
-            "icon": "website",
-            "link": "http://www.dmytrodanylyk.com/#/about",
-            "name": "Website"
-          }
         ],
-        "title": "Android Stream"
+        "title": "Android Program"
+      },
+      {
+        "name": "Lakshma Devarapalli",
+        "photoUrl": "http://photos3.meetupstatic.com/photos/member/8/1/1/1/highres_248553041.jpeg",
+        "socials": [
+        ],
+        "title": "Codelabs Track"
+      },
+      {
+        "name": "Sreeprasad Govindankutty",
+        "photoUrl": "http://photos3.meetupstatic.com/photos/member/5/8/6/d/member_11242637.jpeg",
+        "socials": [
+        ],
+        "title": "Hackathon Track"
+      },
+      {
+        "name": "Peter Rood",
+        "photoUrl": "http://photos1.meetupstatic.com/photos/member/2/9/5/highres_254880661.jpeg",
+        "socials": [
+        ],
+        "title": "Hackathon Track"
+      }
+    ]
+  },
+
+
+  {
+    "title": "Operations & Planning",
+    "members": [
+      {
+        "name": "Sid Watal",
+        "photoUrl": "http://photos3.meetupstatic.com/photos/member/6/b/7/f/highres_248607519.jpeg",
+        "socials": [
+        ],
+        "title": "Sponsorships"
+      },
+      {
+        "name": "Anand Safi",
+        "photoUrl": "http://photos1.meetupstatic.com/photos/member/9/3/6/4/highres_214657732.jpeg",
+        "socials": [
+        ],
+        "title": "Slack Boss"
+      },
+      {
+        "name": "Dhruv Patel",
+        "photoUrl": "http://photos2.meetupstatic.com/photos/member/4/5/6/d/member_254777773.jpeg",
+        "socials": [
+        ],
+        "title": "Website"
+      },
+      {
+        "name": "Joey Mejias",
+        "photoUrl": "http://photos3.meetupstatic.com/photos/member/1/6/1/f/member_242585663.jpeg",
+        "socials": [
+        ],
+        "title": "Social Media, MC"
+      },
+      {
+        "name": "Raghav Bansal",
+        "photoUrl": "http://photos2.meetupstatic.com/photos/member/3/0/7/b/member_257532411.jpeg",
+        "socials": [
+        ],
+        "title": "Social Media, MC"
+      },
+      {
+        "name": "Guillermo Sainz",
+        "photoUrl": "http://photos2.meetupstatic.com/photos/member/9/e/d/4/member_254500660.jpeg",
+        "socials": [
+        ],
+        "title": "Design, Digital Marketing"
+      }
+    ]
+  },
+
+
+  {
+    "title": "Hackathon Mentors",
+    "members": [
+      {
+        "name": "Justin Mae",
+        "photoUrl": "http://photos1.meetupstatic.com/photos/member/3/a/5/4/member_130154932.jpeg",
+        "socials": [
+        ],
+        "title": "Firebase, Android"
+      },
+      {
+        "name": "Mark Pytel",
+        "photoUrl": "http://photos4.meetupstatic.com/photos/member/c/d/3/7/member_246172535.jpeg",
+        "socials": [
+        ],
+        "title": "Web, PWA"
+      },
+      {
+        "name": "Kathy Chang",
+        "photoUrl": "http://photos4.meetupstatic.com/photos/member/1/9/f/a/member_259686650.jpeg",
+        "socials": [
+        ],
+        "title": "Machine Learning"
       }
     ]
   }
+
 ]

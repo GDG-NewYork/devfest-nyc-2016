@@ -1,3 +1,4 @@
+
 GDG DevFest Ukraine 2016 has been announced! The 5th edition of the biggest conference about Google technologies in Ukraine will take on **September 9-10** in an ancient city of Lviv.
 
 That means that it is time to open [call for talk submissions](http://bit.ly/df16-c4p). If you are passionate about your work and want to share your experience with the biggest tech audience in Ukraine, you knocked on the right door.
@@ -77,6 +78,8 @@ Our team prepared set of interesting topics in but if you have any cool idea you
 **Please note:** There is no guarantee that a submission will be put onto the conference agenda! The program committee picks the most interesting talk proposals and informs the selected submitters until July 17, 2016.
 
 Any questions? Email organizers at [devfest@gdg.org.ua](mailto:devfest@gdg.org.ua)
+
+
 
 
 
