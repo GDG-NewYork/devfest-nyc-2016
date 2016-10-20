@@ -14,112 +14,185 @@
         ]
     },
 
-    "1900": {
-        "id": 1900,
-        "title": "Lunch",
-        "description": "TBA",
-        "image": "/images/dfnyc/lunch.jpeg"
-        },
-
     "1901": {
         "id": 1901,
         "title": "Registration",
         "description": "Get your badge, grab some coffee, and network.",
-        "image": "/images/dfnyc/coffee.jpeg"
-    },
-
-    "1902": {
-        "id": 1902,
-        "title": "Announcements",
-        "description": "Welcome from GDG Organizers. Get a sense of tracks and options. Then off we go..",
         "image": "/images/dfnyc/nyc.jpeg"
     },
+    "1902": {
+        "id": 1902,
+        "title": "Announcements, Day 1",
+        "description": "Welcome from GDG Organizers. Get a sense of tracks and options. Then off we go..",
+        "image": "/images/dfnyc/talk.jpeg"
+    },
+    "19029": {
+        "id": 19029,
+        "title": "Hackathon Kickoff",
+        "description": "Hackathon Begins. Teams talk to your mentors, and away you go."
+    },
 
 
-
-    "1903": {
-        "id": 1903,
+    "19030": {
+        "id": 19030,
         "title": "Workshop 1",
         "description": "TBA",
-        "image": "/images/dfnyc/workshop.jpeg"
+        "image": "/images/dfnyc/workshop.jpeg",
+        "tags": [
+            "TBA"
+        ]
     },
+    "19031": {
+        "id": 19031,
+        "title": "Workshop 1",
+        "tags": [
+            "TBA"
+        ]
+    },
+    "19032": {
+        "id": 19032,
+        "title": "Workshop 1",
+        "tags": [
+            "TBA"
+        ]
+    },
+
     "1904": {
         "id": 1904,
         "title": "Tech Talk 1",
         "description": "TBA",
-        "image": "/images/dfnyc/talk.jpeg"
+        "tags": [
+            "TBA"
+        ]
     },
     "1905": {
         "id": 1905,
         "title": "Tech Talk 2",
         "description": "TBA",
-        "image": "/images/dfnyc/talk.jpeg"
+        "tags": [
+            "TBA"
+        ]
     },
     "1906": {
         "id": 1906,
         "title": "Tech Talk 3",
         "description": "TBA",
-        "image": "/images/dfnyc/talk.jpeg"
+        "tags": [
+            "TBA"
+        ]
     },
 
 
+    "1900": {
+        "id": 1900,
+        "title": "Lunch",
+        "description": "TBA",
+        "image": "/images/dfnyc/lunch.jpeg"
+    },
 
-    "1907": {
-        "id": 1907,
+
+    "19070": {
+        "id": 19070,
         "title": "Workshop 2",
         "description": "TBA",
-        "image": "/images/dfnyc/workshop.jpeg"
+        "image": "/images/dfnyc/workshop.jpeg",
+        "tags": [
+            "TBA"
+        ]
+    },
+    "19071": {
+        "id": 19071,
+        "title": "Workshop 2",
+        "tags": [
+            "TBA"
+        ]
+    },
+    "19072": {
+        "id": 19072,
+        "title": "Workshop 2",
+        "tags": [
+            "TBA"
+        ]
     },
 
     "1908": {
         "id": 1908,
         "title": "Tech Talk 4",
-        "description": "TBA",
-        "image": "/images/dfnyc/talk.jpeg"
+        "description": "TBA"
     },
-
     "1909": {
         "id": 1909,
         "title": "Tech Talk 5",
         "description": "TBA",
-        "image": "/images/dfnyc/talk.jpeg"
+        "tags": [
+            "TBA"
+        ]
     },
-
     "1910": {
         "id": 1910,
         "title": "Tech Talk 6",
         "description": "TBA",
-        "image": "/images/dfnyc/talk.jpeg"
+        "tags": [
+            "TBA"
+        ]
     },
 
 
+    "19069": {
+        "id": 19069,
+        "title": "Coffee Break",
+        "description": "Get your badge, grab some coffee, and network.",
+        "image": "/images/dfnyc/coffee.jpeg"
+    },
 
-    "1911": {
-        "id": 1911,
+
+    "19110": {
+        "id": 19110,
         "title": "Workshop 3",
         "description": "TBA",
-        "image": "/images/dfnyc/workshop.jpeg"
+        "image": "/images/dfnyc/workshop.jpeg",
+        "tags": [
+            "TBA"
+        ]
+    },
+    "19111": {
+        "id": 19111,
+        "title": "Workshop 3",
+        "tags": [
+            "TBA"
+        ]
+    },
+    "19112": {
+        "id": 19112,
+        "title": "Workshop 3",
+        "tags": [
+            "TBA"
+        ]
     },
 
     "1912": {
         "id": 1912,
         "title": "Tech Talk 7",
         "description": "TBA",
-        "image": "/images/dfnyc/talk.jpeg"
+        "tags": [
+            "TBA"
+        ]
     },
-
     "1913": {
         "id": 1913,
         "title": "Tech Talk 8",
         "description": "TBA",
-        "image": "/images/dfnyc/talk.jpeg"
+        "tags": [
+            "TBA"
+        ]
     },
-
     "1914": {
         "id": 1914,
         "title": "Tech Talk 9",
         "description": "TBA",
-        "image": "/images/dfnyc/talk.jpeg"
+        "tags": [
+            "TBA"
+        ]
     },
 
 
@@ -127,8 +200,140 @@
         "id": 1915,
         "title": "Wrap-up (Day 1)",
         "description": "Wrap-up & Announcements for Day 2",
-        "image": "/images/dfnyc/nyc.jpeg"
+        "image": "/images/dfnyc/talk.jpeg"
     },
+
+
+
+
+    "2002": {
+        "id": 2002,
+        "title": "Announcements, Day 2",
+        "description": "Welcome from GDG Organizers. Get a sense of tracks and options. Then off we go..",
+        "image": "/images/dfnyc/talk.jpeg"
+    },
+    "20029": {
+        "id": 20029,
+        "title": "Hackathon Continues",
+        "description": "Hackathon Continues. Teams check-in with mentors."
+    },
+
+    "20030": {
+        "id": 20030,
+        "title": "Workshop 4",
+        "description": "TBA",
+        "image": "/images/dfnyc/workshop.jpeg",
+        "tags": [
+            "TBA"
+        ]
+    },
+    "20031": {
+        "id": 20031,
+        "title": "Workshop 4",
+        "tags": [
+            "TBA"
+        ]
+    },
+    "20032": {
+        "id": 20032,
+        "title": "Workshop 4",
+        "tags": [
+            "TBA"
+        ]
+    },
+
+    "2004": {
+        "id": 2004,
+        "title": "Tech Talk 10",
+        "description": "TBA",
+        "tags": [
+            "TBA"
+        ]
+    },
+    "2005": {
+        "id": 2005,
+        "title": "Tech Talk 11",
+        "description": "TBA",
+        "tags": [
+            "TBA"
+        ]
+    },
+    "2006": {
+        "id": 2006,
+        "title": "Tech Talk 12",
+        "description": "TBA",
+        "tags": [
+            "TBA"
+        ]
+    },
+
+
+    "2000": {
+        "id": 1900,
+        "title": "Lunch",
+        "description": "TBA",
+        "image": "/images/dfnyc/lunch.jpeg"
+    },
+
+
+    "2008": {
+        "id": 2008,
+        "title": "Hackathon Presentations",
+        "description": "TBA",
+        "image": "/images/dfnyc/bulbs.jpeg"
+    },
+    "20000": {
+        "id": 20000,
+        "title": "Hackathon Pitch Prep",
+        "description": "TBA",
+        "image": "/images/dfnyc/hack.jpeg"
+    },
+
+    "2009": {
+        "id": 2009,
+        "title": "Audience Vote",
+        "description": "TBA",
+        "tags": [
+            "TBA"
+        ]
+    },
+    "2010": {
+        "id": 2010,
+        "title": "Judges Vote",
+        "description": "TBA",
+        "tags": [
+            "TBA"
+        ]
+    },
+
+
+    "2011": {
+        "id": 2011,
+        "title": "Coffee Break & Survey",
+        "description": "TBA",
+        "image": "/images/dfnyc/coffee.jpeg"
+    },
+
+
+    "2012": {
+        "id": 2012,
+        "title": "Prizes & Raffle",
+        "description": "TBA",
+        "tags": [
+            "TBA"
+        ]
+    },
+
+    "2015": {
+        "id": 2015,
+        "title": "It's a Wrap!",
+        "description": "Thank you!!",
+        "image": "/images/dfnyc/thanks.jpeg"
+    },
+
+
+
+
 
 
 
