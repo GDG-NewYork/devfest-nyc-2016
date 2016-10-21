@@ -81,8 +81,37 @@
         ]
     },
 
+
     "3": {
         "id": 3,
+        "featured": true,
+        "name": "Yufeng Guo",
+        "title": "Developer Advocate, Google Cloud Team",
+        "company": "Google",
+        "companyLogo": "/images/dfnyc/logo_google.png",
+        "country": "New York, USA",
+        "photoUrl": "/images/dfnyc/speaker_yufeng.jpg",
+        "shortBio": "Developer Advocate, Google Cloud Team.",
+        "bio": "Yufeng has been building computers since elementary school and lives at the intersection of hardware and software. As a Google Developer Advocate, Yufeng bridges the gap between the developer community and engineering teams.  He is interested in combining IoT devices, big data, and machine learning, and loves learning new technologies.",
+        "tags": [
+            "MachineLearning",
+            "GoogleCloud",
+            "TensorFlow"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/YufengG/"
+            }
+        ]
+    },
+
+    "4": {
+        "id": 4,
         "featured": true,
         "name": "Leigh Scherrer",
         "title": "Web Developer & Instructor",
@@ -122,8 +151,8 @@
         ]
     },
 
-    "4": {
-        "id": 4,
+    "5": {
+        "id": 5,
         "featured": false,
         "name": "Jeffrey E Katz",
         "title": "Lead Instructor",
@@ -162,8 +191,8 @@
         ]
     },
 
-    "5": {
-        "id": 5,
+    "6": {
+        "id": 6,
         "featured": true,
         "name": "Sophie DeBenedetto",
         "title": "Web Development Instructor,",
@@ -203,34 +232,6 @@
                 "icon": "link",
                 "name": "Blog",
                 "link": "http://www.thegreatcodeadventure.com/"
-            }
-        ]
-    },
-
-    "6": {
-        "id": 6,
-        "featured": true,
-        "name": "Yufeng Guo",
-        "title": "Developer Advocate, Google Cloud Team",
-        "company": "Google",
-        "companyLogo": "/images/dfnyc/logo_google.png",
-        "country": "New York, USA",
-        "photoUrl": "/images/dfnyc/speaker_yufeng.jpg",
-        "shortBio": "Developer Advocate, Google Cloud Team.",
-        "bio": "Yufeng has been building computers since elementary school and lives at the intersection of hardware and software. As a Google Developer Advocate, Yufeng bridges the gap between the developer community and engineering teams.  He is interested in combining IoT devices, big data, and machine learning, and loves learning new technologies.",
-        "tags": [
-            "MachineLearning",
-            "GoogleCloud",
-            "TensorFlow"
-        ],
-        "badges": [
-
-        ],
-        "socials": [
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/YufengG/"
             }
         ]
     },
@@ -313,146 +314,6 @@
 
     "9": {
         "id": 9,
-        "featured": true,
-        "name": "Murat Yener",
-        "title": "Android Geek & Google Developer Expert",
-        "company": "Intel",
-        "companyLogo": "/images/dfnyc/logo_intel.png",
-        "country": "Mountain View, USA",
-        "photoUrl": "https://pbs.twimg.com/profile_images/707094519951429632/rUnMDUrX.jpg",
-        "shortBio": "Code geek, Open Source committer, Java Champion and Google Developer Expert (Android) working at Intel",
-        "bio": "Murat Yener is a code geek, open source committer, Java Champion and Google Developer Expert on Android, who is working at Intel as an Android developer. He is the author of Expert Android Studio and Professional Java EE Design Patterns books from Wiley. He has extensive experience with developing Android, Java, web, JavaEE, and OSGi applications, in addition to teaching courses and mentoring. Murat is an  Eclipse committer and one of the initial committers of the Eclipse Libra project. Murat has been a user group leader at GDG Istanbul since 2009, organizing, participating, and speaking at events. He is also a regular speaker at major conferences such as DroidCon, JavaOne and Devoxx.",
-        "tags": [
-            "Android",
-            "Java",
-            "GDE",
-            "Open Source"
-        ],
-        "badges": [
-
-        ],
-        "socials": [
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/chrisgaun"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/Chris_Gaun"
-            },
-            {
-                "icon": "github",
-                "name": "GitHub",
-                "link": "https://github.com/apprenda"
-            }
-        ]
-    },
-
-    "10": {
-        "id": 10,
-        "featured": false,
-        "name": "Liam Spradlin",
-        "title": "Design Lead, Touchlab",
-        "company": "Google",
-        "companyLogo": "images/dfnyc/logo_touchlab.png",
-        "country": "New York, USA",
-        "photoUrl": "images/dfnyc/speaker_liam.jpeg",
-        "shortBio": "Design Lead, TouchLab. Google Developer Expert",
-        "bio": "Design Lead, TouchLab. Google Developer Expert",
-        "tags": [
-            "Design",
-            "Android"
-        ],
-        "badges": [
-
-        ],
-        "socials": [
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/liamspradlin/"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/LiamSpradlin/"
-            },
-            {
-                "icon": "github",
-                "name": "GitHub",
-                "link": "https://github.com/liamspradlin/"
-            }
-        ]
-    },
-
-    "11": {
-        "id": 11,
-        "featured": false,
-        "name": "Mika Sibony",
-        "title": "Software Engineer",
-        "company": "Google",
-        "companyLogo": "/images/dfnyc/logo_google.png",
-        "country": "Mountain View, USA",
-        "photoUrl": "/images/dfnyc/speaker_mika.jpg",
-        "shortBio": "Software Engineer, Google Firebase Team.",
-        "bio": "Software Engineer, Google Firebase Team",
-        "tags": [
-            "firebase",
-            "analytics"
-        ],
-        "badges": [
-
-        ],
-        "socials": [
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/michalsibony/"
-            }
-        ]
-    },
-
-    "12": {
-        "id": 11,
-        "featured": false,
-        "name": "Frank Van Puffelen",
-        "title": "Developer Advocate, Firebase",
-        "company": "Google",
-        "companyLogo": "/images/dfnyc/logo_google.png",
-        "country": "Mountain View, USA",
-        "photoUrl": "https://pbs.twimg.com/profile_images/501368041267933187/gNk85_-j_400x400.jpeg",
-        "shortBio": "Software Engineer, Google Firebase Team.",
-        "bio": "Software Engineer, Google Firebase Team",
-        "tags": [
-            "firebase",
-            "analytics"
-        ],
-        "badges": [
-
-        ],
-        "socials": [
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/frankvanpuffelen/"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/puf"
-            },
-            {
-                "icon": "github",
-                "name": "GitHub",
-                "link": "https://github.com/puf/"
-            }
-        ]
-    },
-
-    "13": {
-        "id": 13,
         "featured": false,
         "name": "Faisal Abid",
         "title": "Google Developer Expert, Web Technologies",
@@ -490,13 +351,13 @@
         ]
     },
 
-    "14": {
-        "id": 14,
+    "10": {
+        "id": 10,
         "featured": false,
         "name": "Mike Nakhimovich",
         "title": "Senior Android Engineer",
         "company": "New York Times",
-        "companyLogo": "/images/dfnyc/logo_google.png",
+        "companyLogo": "/images/dfnyc/logo_nytimes.png",
         "country": "New York, USA",
         "photoUrl": "https://pbs.twimg.com/profile_images/735455823938396161/DmC7AtFP.jpg",
         "shortBio": "Google Developer Expert (Android). Android Developer @New York Times",
@@ -524,6 +385,183 @@
                 "icon": "github",
                 "name": "GitHub",
                 "link": "https://github.com/puf/"
+            }
+        ]
+    },
+
+    "11": {
+        "id": 11,
+        "featured": true,
+        "name": "Murat Yener",
+        "title": "Android Geek & Google Developer Expert",
+        "company": "Intel",
+        "companyLogo": "/images/dfnyc/logo_intel.png",
+        "country": "Mountain View, USA",
+        "photoUrl": "https://pbs.twimg.com/profile_images/707094519951429632/rUnMDUrX.jpg",
+        "shortBio": "Code geek, Open Source committer, Java Champion and Google Developer Expert (Android) working at Intel",
+        "bio": "Murat Yener is a code geek, open source committer, Java Champion and Google Developer Expert on Android, who is working at Intel as an Android developer. He is the author of Expert Android Studio and Professional Java EE Design Patterns books from Wiley. He has extensive experience with developing Android, Java, web, JavaEE, and OSGi applications, in addition to teaching courses and mentoring. Murat is an  Eclipse committer and one of the initial committers of the Eclipse Libra project. Murat has been a user group leader at GDG Istanbul since 2009, organizing, participating, and speaking at events. He is also a regular speaker at major conferences such as DroidCon, JavaOne and Devoxx.",
+        "tags": [
+            "Android",
+            "Java",
+            "GDE",
+            "Open Source"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/chrisgaun"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/Chris_Gaun"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/apprenda"
+            }
+        ]
+    },
+
+    "12": {
+        "id": 12,
+        "featured": false,
+        "name": "Liam Spradlin",
+        "title": "Design Lead, Touchlab",
+        "company": "Google",
+        "companyLogo": "images/dfnyc/logo_touchlab.png",
+        "country": "New York, USA",
+        "photoUrl": "images/dfnyc/speaker_liam.jpeg",
+        "shortBio": "Design Lead, TouchLab. Google Developer Expert",
+        "bio": "Design Lead, TouchLab. Google Developer Expert",
+        "tags": [
+            "Design",
+            "Android"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/liamspradlin/"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/LiamSpradlin/"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/liamspradlin/"
+            }
+        ]
+    },
+
+    "13": {
+        "id": 13,
+        "featured": false,
+        "name": "Mika Sibony",
+        "title": "Software Engineer",
+        "company": "Google",
+        "companyLogo": "/images/dfnyc/logo_google.png",
+        "country": "Mountain View, USA",
+        "photoUrl": "/images/dfnyc/speaker_mika.jpg",
+        "shortBio": "Software Engineer, Google Firebase Team.",
+        "bio": "Software Engineer, Google Firebase Team",
+        "tags": [
+            "firebase",
+            "analytics"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/michalsibony/"
+            }
+        ]
+    },
+
+    "14": {
+        "id": 14,
+        "featured": false,
+        "name": "Frank Van Puffelen",
+        "title": "Developer Advocate, Firebase",
+        "company": "Google",
+        "companyLogo": "/images/dfnyc/logo_google.png",
+        "country": "Mountain View, USA",
+        "photoUrl": "https://pbs.twimg.com/profile_images/501368041267933187/gNk85_-j_400x400.jpeg",
+        "shortBio": "Software Engineer, Google Firebase Team.",
+        "bio": "Software Engineer, Google Firebase Team",
+        "tags": [
+            "firebase",
+            "analytics"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/frankvanpuffelen/"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/puf"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/puf/"
+            }
+        ]
+    },
+
+    "15": {
+        "id": 15,
+        "featured": true,
+        "name": "Andreas Mueller",
+        "title": "Research Engineer, Machine Learning Author, scikit-learn Core Developer",
+        "company": "Center for Data Science at NYU,",
+        "companyLogo": "/images/dfnyc/logo_nyu.png",
+        "country": "New York, USA",
+        "photoUrl": "https://pbs.twimg.com/profile_images/626083612459462657/P_fICj8M.jpg",
+        "shortBio": "Author, 'Introduction to Machine Learning with Python' and scikit-learn enthusiast",
+        "bio": " working on open source and open science. Machine learner, python geek and scikit-learn enthusiast.",
+        "tags": [
+            "python",
+            "machine-learning"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/andreas-mueller-b370265a/"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/amuellerml"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/amueller/"
             }
         ]
     }
