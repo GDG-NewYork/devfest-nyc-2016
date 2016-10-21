@@ -1,6 +1,50 @@
 {
+
     "1": {
         "id": 1,
+        "featured": true,
+        "name": "Joshua Gordon",
+        "title": "Developr Advocate",
+        "company": "Google",
+        "companyLogo": "/images/dfnyc/logo_google.png",
+        "country": "New York, USA",
+        "photoUrl": "https://pbs.twimg.com/profile_images/727563430052253700/BOeTAInh.jpg",
+        "shortBio": "Josh Gordon is a Developer Advocate at Google working on TensorFlow.",
+        "bio": "Josh Gordon is a Developer Advocate at Google working on TensorFlow. He’s interested in teaching and computer science education. He can often be found exploring central park on his bike. ",
+        "tags": [
+            "Machine Learning",
+            "Tensor Flow",
+            "Android", "Python"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/joshuabendergordon"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/random_forests/"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/random-forests"
+            },
+            {
+                "icon": "gplus",
+                "name": "Google+",
+                "link": "https://plus.google.com/+JBGordon"
+            }
+        ]
+    },
+
+    "2": {
+        "id": 2,
         "featured": true,
         "name": "Jeffrey Posnick",
         "title": "Chrome Developer Relations",
@@ -37,64 +81,24 @@
         ]
     },
 
-    "2": {
-        "id": 2,
-        "featured": true,
-        "name": "Joshua Gordon",
-        "title": "Developr Advocate",
-        "company": "Google",
-        "companyLogo": "/images/dfnyc/logo_google.png",
-        "country": "New York, USA",
-        "photoUrl": "https://pbs.twimg.com/profile_images/727563430052253700/BOeTAInh.jpg",
-        "shortBio": "Josh Gordon is a Developer Advocate at Google working on TensorFlow.",
-        "bio": "Josh Gordon is a Developer Advocate at Google working on TensorFlow. He’s interested in teaching and computer science education. He can often be found exploring central park on his bike. ",
-        "tags": [
-            "Web",
-            "Progressive Web Apps",
-            "Chrome DevTools"
-        ],
-        "badges": [
-
-        ],
-        "socials": [
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/joshuabendergordon"
-            },
-            {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/random_forests/"
-            },
-            {
-                "icon": "github",
-                "name": "GitHub",
-                "link": "https://github.com/random-forests"
-            },
-            {
-                "icon": "gplus",
-                "name": "Google+",
-                "link": "https://plus.google.com/+JBGordon"
-            }
-        ]
-    },
-
-
     "3": {
         "id": 3,
         "featured": true,
-        "name": "TBD",
-        "title": "TBD",
-        "company": "Google",
-        "companyLogo": "http://placehold.it/100x20",
+        "name": "Leigh Scherrer",
+        "title": "Web Developer & Instructor",
+        "company": "The Flatiron School",
+        "companyLogo": "/images/dfnyc/fs-logo.png",
         "country": "New York, USA",
-        "photoUrl": "http://placehold.it/400x400.jpg",
-        "shortBio": "Short Bio TBA.",
-        "bio": "Long Bio TBA ",
+        "photoUrl": "https://pbs.twimg.com/profile_images/762299156471934976/F5kZbSE0.jpg",
+        "shortBio": "Web Developer, Teacher, & Lover of Most Things JavaScript and Ruby",
+        "bio": "Web Developer, Teacher, & Lover of Most Things JavaScript and Ruby",
         "tags": [
-            "TBD",
-            "TBD"
+            "Web",
+            "JavaScript",
+            "Ruby",
+            "Web",
+            "React",
+            "Workshop"
         ],
         "badges": [
 
@@ -117,20 +121,24 @@
             }
         ]
     },
+
     "4": {
         "id": 4,
         "featured": false,
-        "name": "TBD",
-        "title": "TBD",
-        "company": "Google",
-        "companyLogo": "http://placehold.it/100x20",
+        "name": "Jeffrey E Katz",
+        "title": "Lead Instructor",
+        "company": "The Flatiron School",
+        "companyLogo": "/images/dfnyc/fs-logo.png",
         "country": "New York, USA",
-        "photoUrl": "http://placehold.it/400x400.jpg",
-        "shortBio": "Short Bio TBA.",
+        "photoUrl": "/images/dfnyc/speaker_katz.png",
+        "shortBio": "Lead Instructor, Web Development",
         "bio": "Long Bio TBA ",
         "tags": [
-            "TBD",
-            "TBD"
+            "Rails",
+            "Design Patterns",
+            "JavaScript",
+            "Web",
+            "Workshop"
         ],
         "badges": [
 
@@ -153,20 +161,24 @@
             }
         ]
     },
+
     "5": {
         "id": 5,
-        "featured": false,
-        "name": "TBD",
-        "title": "TBD",
-        "company": "Google",
-        "companyLogo": "http://placehold.it/100x20",
+        "featured": true,
+        "name": "Sophie DeBenedetto",
+        "title": "Web Development Instructor,",
+        "company": "The Flatiron School",
+        "companyLogo": "/images/dfnyc/fs-logo.png",
         "country": "New York, USA",
-        "photoUrl": "http://placehold.it/400x400.jpg",
-        "shortBio": "Short Bio TBA.",
-        "bio": "Long Bio TBA ",
+        "photoUrl": "https://avatars1.githubusercontent.com/u/8999596?v=3&s=400",
+        "shortBio": "Web Development Instructor",
+        "bio": "Web developer and teacher, always looking for the next bug to squash, always working to give my students the love of that chase. Areas of interest include Ruby on Rails, Ember, React + Redux. Dabbles in Elixir and Phoenix. ",
         "tags": [
-            "TBD",
-            "TBD"
+            "Rails",
+            "Design Patterns",
+            "JavaScript",
+            "Web",
+            "Workshop"
         ],
         "badges": [
 
@@ -175,70 +187,69 @@
             {
                 "icon": "linkedin",
                 "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/TBD/"
+                "link": "https://www.linkedin.com/in/sophiedebenedetto"
             },
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/TBD/"
+                "link": "https://twitter.com/sm_debenedetto"
             },
             {
                 "icon": "github",
                 "name": "GitHub",
-                "link": "https://github.com/TBD/"
+                "link": "https://github.com/SophieDeBenedetto"
+            },
+            {
+                "icon": "link",
+                "name": "Blog",
+                "link": "http://www.thegreatcodeadventure.com/"
             }
         ]
     },
+
     "6": {
         "id": 6,
-        "featured": false,
-        "name": "TBD",
-        "title": "TBD",
+        "featured": true,
+        "name": "Yufeng Guo",
+        "title": "Developer Advocate, Google Cloud Team",
         "company": "Google",
-        "companyLogo": "http://placehold.it/100x20",
+        "companyLogo": "/images/dfnyc/logo_google.png",
         "country": "New York, USA",
-        "photoUrl": "http://placehold.it/400x400.jpg",
-        "shortBio": "Short Bio TBA.",
-        "bio": "Long Bio TBA ",
+        "photoUrl": "/images/dfnyc/speaker_yufeng.jpg",
+        "shortBio": "Developer Advocate, Google Cloud Team.",
+        "bio": "Yufeng has been building computers since elementary school and lives at the intersection of hardware and software. As a Google Developer Advocate, Yufeng bridges the gap between the developer community and engineering teams.  He is interested in combining IoT devices, big data, and machine learning, and loves learning new technologies.",
         "tags": [
-            "TBD",
-            "TBD"
+            "MachineLearning",
+            "GoogleCloud",
+            "TensorFlow"
         ],
         "badges": [
 
         ],
         "socials": [
             {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/TBD/"
-            },
-            {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/TBD/"
-            },
-            {
-                "icon": "github",
-                "name": "GitHub",
-                "link": "https://github.com/TBD/"
+                "link": "https://twitter.com/YufengG/"
             }
         ]
     },
+
     "7": {
         "id": 7,
-        "featured": false,
-        "name": "TBD",
-        "title": "TBD",
+        "featured": true,
+        "name": "Chris Gaun",
+        "title": "Cloud Technologies Expert",
         "company": "Google",
-        "companyLogo": "http://placehold.it/100x20",
+        "companyLogo": "/images/dfnyc/logo_apprenda.png",
         "country": "New York, USA",
-        "photoUrl": "http://placehold.it/400x400.jpg",
-        "shortBio": "Short Bio TBA.",
-        "bio": "Long Bio TBA ",
+        "photoUrl": "https://pbs.twimg.com/profile_images/720983826688786433/Rpx2knU8.jpg",
+        "shortBio": "Physics nerd turned tech geek at Apprenda and rocking Kubernetes",
+        "bio": "Physics nerd turned tech geek at Apprenda and rocking Kubernetes. He formerly worked as an analyst at Gartner covering public IaaS. ",
         "tags": [
-            "TBD",
-            "TBD"
+            "Kubernetes",
+            "Containers",
+            "CloudComputing"
         ],
         "badges": [
 
@@ -247,34 +258,36 @@
             {
                 "icon": "linkedin",
                 "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/TBD/"
+                "link": "https://www.linkedin.com/in/chrisgaun"
             },
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/TBD/"
+                "link": "https://twitter.com/Chris_Gaun"
             },
             {
                 "icon": "github",
                 "name": "GitHub",
-                "link": "https://github.com/TBD/"
+                "link": "https://github.com/apprenda"
             }
         ]
     },
+
     "8": {
         "id": 8,
         "featured": false,
-        "name": "TBD",
-        "title": "TBD",
-        "company": "Google",
-        "companyLogo": "http://placehold.it/100x20",
+        "name": "Ike Arias",
+        "title": "Cloud Technologies Expert",
+        "company": "Apprenda",
+        "companyLogo": "/images/dfnyc/logo_apprenda.png",
         "country": "New York, USA",
-        "photoUrl": "http://placehold.it/400x400.jpg",
-        "shortBio": "Short Bio TBA.",
-        "bio": "Long Bio TBA ",
+        "photoUrl": "https://pbs.twimg.com/profile_images/765632294740758528/BQSxFvlg.jpg",
+        "shortBio": "Ike Arias runs global team of engineers at Apprenda. His team of developers solely focus on contributing to upstream Kubernetes.",
+        "bio": "Ike Arias runs global team of engineers at Apprenda. His team of developers solely focus on contributing to upstream Kubernetes.",
         "tags": [
-            "TBD",
-            "TBD"
+            "Kubernetes",
+            "Containers",
+            "CloudComputing"
         ],
         "badges": [
 
@@ -283,34 +296,37 @@
             {
                 "icon": "linkedin",
                 "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/TBD/"
+                "link": "https://www.linkedin.com/in/ikester"
             },
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/TBD/"
+                "link": "https://twitter.com/iketweets/"
             },
             {
                 "icon": "github",
                 "name": "GitHub",
-                "link": "https://github.com/TBD/"
+                "link": "https://github.com/apprenda/"
             }
         ]
     },
+
     "9": {
         "id": 9,
-        "featured": false,
-        "name": "TBD",
-        "title": "TBD",
-        "company": "Google",
-        "companyLogo": "http://placehold.it/100x20",
-        "country": "New York, USA",
-        "photoUrl": "http://placehold.it/400x400.jpg",
-        "shortBio": "Short Bio TBA.",
-        "bio": "Long Bio TBA ",
+        "featured": true,
+        "name": "Murat Yener",
+        "title": "Android Geek & Google Developer Expert",
+        "company": "Intel",
+        "companyLogo": "/images/dfnyc/logo_intel.png",
+        "country": "Mountain View, USA",
+        "photoUrl": "https://pbs.twimg.com/profile_images/707094519951429632/rUnMDUrX.jpg",
+        "shortBio": "Code geek, Open Source committer, Java Champion and Google Developer Expert (Android) working at Intel",
+        "bio": "Murat Yener is a code geek, open source committer, Java Champion and Google Developer Expert on Android, who is working at Intel as an Android developer. He is the author of Expert Android Studio and Professional Java EE Design Patterns books from Wiley. He has extensive experience with developing Android, Java, web, JavaEE, and OSGi applications, in addition to teaching courses and mentoring. Murat is an  Eclipse committer and one of the initial committers of the Eclipse Libra project. Murat has been a user group leader at GDG Istanbul since 2009, organizing, participating, and speaking at events. He is also a regular speaker at major conferences such as DroidCon, JavaOne and Devoxx.",
         "tags": [
-            "TBD",
-            "TBD"
+            "Android",
+            "Java",
+            "GDE",
+            "Open Source"
         ],
         "badges": [
 
@@ -319,34 +335,35 @@
             {
                 "icon": "linkedin",
                 "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/TBD/"
+                "link": "https://www.linkedin.com/in/chrisgaun"
             },
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/TBD/"
+                "link": "https://twitter.com/Chris_Gaun"
             },
             {
                 "icon": "github",
                 "name": "GitHub",
-                "link": "https://github.com/TBD/"
+                "link": "https://github.com/apprenda"
             }
         ]
     },
+
     "10": {
         "id": 10,
         "featured": false,
-        "name": "TBD",
-        "title": "TBD",
+        "name": "Liam Spradlin",
+        "title": "Design Lead, Touchlab",
         "company": "Google",
-        "companyLogo": "http://placehold.it/100x20",
+        "companyLogo": "images/dfnyc/logo_touchlab.png",
         "country": "New York, USA",
-        "photoUrl": "http://placehold.it/400x400.jpg",
-        "shortBio": "Short Bio TBA.",
-        "bio": "Long Bio TBA ",
+        "photoUrl": "images/dfnyc/speaker_liam.jpeg",
+        "shortBio": "Design Lead, TouchLab. Google Developer Expert",
+        "bio": "Design Lead, TouchLab. Google Developer Expert",
         "tags": [
-            "TBD",
-            "TBD"
+            "Design",
+            "Android"
         ],
         "badges": [
 
@@ -355,17 +372,158 @@
             {
                 "icon": "linkedin",
                 "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/TBD/"
+                "link": "https://www.linkedin.com/in/liamspradlin/"
             },
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/TBD/"
+                "link": "https://twitter.com/LiamSpradlin/"
             },
             {
                 "icon": "github",
                 "name": "GitHub",
-                "link": "https://github.com/TBD/"
+                "link": "https://github.com/liamspradlin/"
+            }
+        ]
+    },
+
+    "11": {
+        "id": 11,
+        "featured": false,
+        "name": "Mika Sibony",
+        "title": "Software Engineer",
+        "company": "Google",
+        "companyLogo": "/images/dfnyc/logo_google.png",
+        "country": "Mountain View, USA",
+        "photoUrl": "/images/dfnyc/speaker_mika.jpg",
+        "shortBio": "Software Engineer, Google Firebase Team.",
+        "bio": "Software Engineer, Google Firebase Team",
+        "tags": [
+            "firebase",
+            "analytics"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/michalsibony/"
+            }
+        ]
+    },
+
+    "12": {
+        "id": 11,
+        "featured": false,
+        "name": "Frank Van Puffelen",
+        "title": "Developer Advocate, Firebase",
+        "company": "Google",
+        "companyLogo": "/images/dfnyc/logo_google.png",
+        "country": "Mountain View, USA",
+        "photoUrl": "https://pbs.twimg.com/profile_images/501368041267933187/gNk85_-j_400x400.jpeg",
+        "shortBio": "Software Engineer, Google Firebase Team.",
+        "bio": "Software Engineer, Google Firebase Team",
+        "tags": [
+            "firebase",
+            "analytics"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/frankvanpuffelen/"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/puf"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/puf/"
+            }
+        ]
+    },
+
+    "13": {
+        "id": 13,
+        "featured": false,
+        "name": "Faisal Abid",
+        "title": "Google Developer Expert, Web Technologies",
+        "company": "",
+        "companyLogo": "",
+        "country": "Toronto, Canada",
+        "photoUrl": "https://pbs.twimg.com/profile_images/609773106312413184/DYeKjqPx.jpg",
+        "shortBio": "Entrepreneur. Google Developer Expert. ",
+        "bio": "Faisal is an entrepreneur and engineer. He is also a programming language enthusiast and loves solving software engineering challenges across the stack",
+        "tags": [
+            "Android",
+            "Web",
+            "Firebase",
+            "gde"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/faisalabid"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/faisalabid"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/FaisalAbid"
+            }
+        ]
+    },
+
+    "14": {
+        "id": 14,
+        "featured": false,
+        "name": "Mike Nakhimovich",
+        "title": "Senior Android Engineer",
+        "company": "New York Times",
+        "companyLogo": "/images/dfnyc/logo_google.png",
+        "country": "New York, USA",
+        "photoUrl": "https://pbs.twimg.com/profile_images/735455823938396161/DmC7AtFP.jpg",
+        "shortBio": "Google Developer Expert (Android). Android Developer @New York Times",
+        "bio": "Google Developer Expert Android, Android Developer @New York Times, CoFounder of http://friendlyrobot.nyc : NY's friendliest Android dev shop. ",
+        "tags": [
+            "android",
+            "performance",
+            "gde"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/frankvanpuffelen/"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/puf"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/puf/"
             }
         ]
     }
