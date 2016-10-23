@@ -108,17 +108,8 @@
 
       "links": [
         {
-          "text": "team",
-          "url": "/team/"
-        },
-        {
           "text": "cod",
           "url": "/cod/"
-        },
-        {
-          "text": "google-developers",
-          "url": "https://developers.google.com/",
-          "newTab": true
         },
         {
           "text": "meetup",
@@ -134,11 +125,6 @@
         {
           "text": "partnership-proposition",
           "url": "http://bit.ly/devfest16-nyc-sponsor",
-          "newTab": true
-        },
-        {
-          "text": "media-kit",
-          "url": "http://bit.ly/devfest16-nyc-media",
           "newTab": true
         }
       ]
