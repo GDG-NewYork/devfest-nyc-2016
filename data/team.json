@@ -68,7 +68,7 @@
   },
 
   {
-    "title": "Program Committee",
+    "title": "Planning Committee",
     "members": [
       {
         "name": "Leigh Scherrer",
@@ -92,27 +92,6 @@
         "title": "Codelabs Track"
       },
       {
-        "name": "Sreeprasad Govindankutty",
-        "photoUrl": "http://photos3.meetupstatic.com/photos/member/5/8/6/d/member_11242637.jpeg",
-        "socials": [
-        ],
-        "title": "Hackathon Track"
-      },
-      {
-        "name": "Peter Rood",
-        "photoUrl": "http://photos1.meetupstatic.com/photos/member/2/9/5/highres_254880661.jpeg",
-        "socials": [
-        ],
-        "title": "Hackathon Track"
-      }
-    ]
-  },
-
-
-  {
-    "title": "Planning & Operations",
-    "members": [
-      {
         "name": "Sid Watal",
         "photoUrl": "http://photos3.meetupstatic.com/photos/member/6/b/7/f/highres_248607519.jpeg",
         "socials": [
@@ -120,67 +99,67 @@
         "title": "Sponsorships"
       },
       {
-        "name": "Anand Safi",
-        "photoUrl": "http://photos1.meetupstatic.com/photos/member/9/3/6/4/highres_214657732.jpeg",
+        "name": "Guillermo Sainz",
+        "photoUrl": "http://photos2.meetupstatic.com/photos/member/9/e/d/4/member_254500660.jpeg",
         "socials": [
         ],
-        "title": "Slack Boss"
-      },
-      {
-        "name": "Dhruv Patel",
-        "photoUrl": "http://photos2.meetupstatic.com/photos/member/4/5/6/d/member_254777773.jpeg",
-        "socials": [
-        ],
-        "title": "Website"
+        "title": "Digital Marketing"
       },
       {
         "name": "Joey Mejias",
         "photoUrl": "http://photos3.meetupstatic.com/photos/member/1/6/1/f/member_242585663.jpeg",
         "socials": [
         ],
-        "title": "Social Media, MC"
+        "title": "Social Media"
       },
       {
-        "name": "Raghav Bansal",
-        "photoUrl": "http://photos2.meetupstatic.com/photos/member/3/0/7/b/member_257532411.jpeg",
+        "name": "Anand Safi",
+        "photoUrl": "http://photos1.meetupstatic.com/photos/member/9/3/6/4/highres_214657732.jpeg",
         "socials": [
         ],
-        "title": "Social Media, MC"
+        "title": "Communications"
       },
-      {
-        "name": "Guillermo Sainz",
-        "photoUrl": "http://photos2.meetupstatic.com/photos/member/9/e/d/4/member_254500660.jpeg",
-        "socials": [
-        ],
-        "title": "Design, Digital Marketing"
-      }
     ]
   },
 
 
   {
-    "title": "Hackathon Mentors",
+    "title": "Hackathon Team",
     "members": [
+      {
+        "name": "Sreeprasad Govindankutty",
+        "photoUrl": "http://photos3.meetupstatic.com/photos/member/5/8/6/d/member_11242637.jpeg",
+        "socials": [
+        ],
+        "title": "Hackathon Co-Chair"
+      },
+      {
+        "name": "Peter Rood",
+        "photoUrl": "http://photos1.meetupstatic.com/photos/member/2/9/5/highres_254880661.jpeg",
+        "socials": [
+        ],
+        "title": "Hackathon Co-Chair"
+      },
       {
         "name": "Justin Mae",
         "photoUrl": "http://photos1.meetupstatic.com/photos/member/3/a/5/4/member_130154932.jpeg",
         "socials": [
         ],
-        "title": "Firebase, Android"
+        "title": "Firebase, Android Mentor"
       },
       {
         "name": "Mark Pytel",
         "photoUrl": "http://photos4.meetupstatic.com/photos/member/c/d/3/7/member_246172535.jpeg",
         "socials": [
         ],
-        "title": "Web, PWA"
+        "title": "Web, PWA Mentor"
       },
       {
         "name": "Kathy Chang",
         "photoUrl": "http://photos4.meetupstatic.com/photos/member/1/9/f/a/member_259686650.jpeg",
         "socials": [
         ],
-        "title": "Machine Learning"
+        "title": "Machine Learning Mentor"
       }
     ]
   }

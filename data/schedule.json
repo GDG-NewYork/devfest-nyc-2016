@@ -3,99 +3,36 @@
         "date": "2016-11-19",
         "dateReadable": "November 19",
         "tracks": [
-            { "title": "Lecture Hall" },
-            { "title": "Workshop Studio" },
-            { "title": "Hackathon" },
-            { "title": "Codelabs" }
+            { "title": "Day 1" }
         ],
+
         "timeslots": [
+            { "startTime": "08:00", "endTime": "9:00", "sessions": [[ 19001 ]]},
+            { "startTime": "09:00", "endTime": "9:30", "sessions": [[ 19002 ]]},
 
-            {
-            "startTime": "08:00", "endTime": "9:00", "sessions": [
-                [1901]
-            ]},
+            { "startTime": "09:30", "endTime": "17:30", "sessions": [[ 19100 ]]},
 
-            {
-            "startTime": "09:00", "endTime": "09:30", "sessions": [
-                [1902]
-            ]},
-
-            {
-            "startTime": "09:30", "endTime": "17:30", "sessions": [
-                [19029]
-            ]},
+            { "startTime": "09:30", "endTime": "11:30", "sessions": [[ 19301 ]]},
+            { "startTime": "09:30", "endTime": "10:10", "sessions": [[ 19201 ]]},
+            { "startTime": "10:10", "endTime": "10:50", "sessions": [[ 19202 ]]},
+            { "startTime": "10:50", "endTime": "11:30", "sessions": [[ 19203 ]]},
 
 
-
-            {
-            "startTime": "09:30", "endTime": "10:10", "sessions": [
-                [1904],
-                [19030]
-            ]},
-            {
-            "startTime": "10:10", "endTime": "10:50", "sessions": [
-                [1905],
-                [19031]
-            ]},
-            {
-            "startTime": "10:50", "endTime": "11:30", "sessions": [
-                [1906],
-                [19032]
-            ]},
+            { "startTime": "11:30", "endTime": "13:30", "sessions": [[ 19302 ]]},
+            { "startTime": "11:30", "endTime": "12:10", "sessions": [[ 19204 ]]},
+            { "startTime": "12:10", "endTime": "12:50", "sessions": [[ 19205 ]]},
+            { "startTime": "12:50", "endTime": "13:30", "sessions": [[ 19206 ]]},
 
 
+            { "startTime": "13:30", "endTime": "15:30", "sessions": [[ 19303 ]]},
+            { "startTime": "13:30", "endTime": "14:10", "sessions": [[ 19207 ]]},
+            { "startTime": "14:10", "endTime": "14:40", "sessions": [[ 19208 ]]},
+            { "startTime": "14:40", "endTime": "15:30", "sessions": [[ 19209 ]]},
 
-            {
-            "startTime": "11:30", "endTime": "13:00", "sessions": [
-                [1900]
-            ]},
-
-
-            {
-            "startTime": "13:00", "endTime": "13:40", "sessions": [
-                [1908],
-                [19070]
-            ]},
-            {
-            "startTime": "13:40", "endTime": "14:20", "sessions": [
-                [1909],
-                [19071]
-            ]},
-            {
-            "startTime": "14:20", "endTime": "15:00", "sessions": [
-                [1910],
-                [19072]
-            ]},
-
-
-            {
-            "startTime": "15:00", "endTime": "15:30", "sessions": [
-                [19069]
-            ]},
-
-
-            {
-            "startTime": "15:30", "endTime": "16:10", "sessions": [
-                [1912],
-                [19110]
-            ]},
-            {
-            "startTime": "16:10", "endTime": "16:50", "sessions": [
-                [1913],
-                [19111]
-            ]},
-            {
-            "startTime": "16:50", "endTime": "17:30", "sessions": [
-                [1914],
-                [19112]
-            ]},
-
-
-            {
-            "startTime": "17:30", "endTime": "18:00", "sessions": [
-                [1915]
-            ]}
-
+            { "startTime": "15:30", "endTime": "17:30", "sessions": [[ 19304 ]]},
+            { "startTime": "15:30", "endTime": "16:10", "sessions": [[ 19210 ]]},
+            { "startTime": "16:10", "endTime": "16:40", "sessions": [[ 19211 ]]},
+            { "startTime": "16:40", "endTime": "17:30", "sessions": [[ 19212 ]]}
         ]
     },
 
@@ -103,78 +40,35 @@
         "date": "2016-11-20",
         "dateReadable": "November 20",
         "tracks": [
-            { "title": "Lecture Hall" },
-            { "title": "Workshop Studio" },
-            { "title": "Hackathon" },
-            { "title": "Codelabs" }
+            { "title": "Day 2" }
         ],
+
         "timeslots": [
+            { "startTime": "09:00", "endTime": "9:30", "sessions": [[ 20002 ]]},
+            { "startTime": "09:30", "endTime": "13:30", "sessions": [[ 20100 ]]},
 
-            {
-            "startTime": "09:00", "endTime": "09:30", "sessions": [
-                [2002]
-            ]},
-
-            {
-            "startTime": "09:30", "endTime": "17:30", "sessions": [
-                [20029]
-            ]},
+            { "startTime": "09:30", "endTime": "11:30", "sessions": [[ 20301 ]]},
+            { "startTime": "09:30", "endTime": "10:10", "sessions": [[ 20201 ]]},
+            { "startTime": "10:10", "endTime": "10:50", "sessions": [[ 20202 ]]},
+            { "startTime": "10:50", "endTime": "11:30", "sessions": [[ 20203 ]]},
 
 
+            { "startTime": "11:30", "endTime": "13:30", "sessions": [[ 20302 ]]},
+            { "startTime": "11:30", "endTime": "12:10", "sessions": [[ 20204 ]]},
+            { "startTime": "12:10", "endTime": "12:50", "sessions": [[ 20205 ]]},
+            { "startTime": "12:50", "endTime": "13:30", "sessions": [[ 20206 ]]},
 
-            {
-            "startTime": "09:30", "endTime": "10:10", "sessions": [
-                [2004],
-                [20030]
-            ]},
-            {
-            "startTime": "10:10", "endTime": "10:50", "sessions": [
-                [2005],
-                [20031]
-            ]},
-            {
-            "startTime": "10:50", "endTime": "11:30", "sessions": [
-                [2006],
-                [20032]
-            ]},
+            { "startTime": "13:00", "endTime": "14:00", "sessions": [[ 20003 ]]},
 
+            { "startTime": "13:30", "endTime": "15:00", "sessions": [[ 20101 ]]},
+            { "startTime": "13:30", "endTime": "14:10", "sessions": [[ 20207 ]]},
+            { "startTime": "14:10", "endTime": "14:40", "sessions": [[ 20208 ]]},
 
-            {
-            "startTime": "11:30", "endTime": "13:30", "sessions": [
-                [2000],
-                [20000]
-            ]},
+            { "startTime": "15:00", "endTime": "16:00", "sessions": [[ 20102 ]]},
+            { "startTime": "16:00", "endTime": "16:30", "sessions": [[ 20103 ]]},
+            { "startTime": "16:30", "endTime": "17:00", "sessions": [[ 20104 ]]},
 
-
-            {
-            "startTime": "13:30", "endTime": "15:00", "sessions": [
-                [2008]
-            ]},
-
-
-            {
-            "startTime": "15:00", "endTime": "15:30", "sessions": [
-                [2009],
-                [2010]
-            ]},
-
-
-            {
-            "startTime": "15:30", "endTime": "16:00", "sessions": [
-                [2011]
-            ]},
-
-
-            {
-            "startTime": "16:00", "endTime": "16:30", "sessions": [
-                [2012]
-            ]},
-
-            {
-            "startTime": "16:30", "endTime": "17:00", "sessions": [
-                [2015]
-            ]}
-
+            { "startTime": "17:00", "endTime": "17:30", "sessions": [[ 20004 ]]}
         ]
     }
 
