@@ -99,104 +99,165 @@
 
     "19201": {
         "id": 19201,
-        "title": "Tech Talk SAT-1",
-        "description": "TBA"
+        "title": "Starry Night with TensorFlow",
+        "description": "Deep Learning has led to impressive results in image classification, but can also be used to explore new possibilities in art. In this talk, I'll introduce Deep Learning using examples in TensorFlow, and demo open source code you can use to train your own image classifier, and create your own dreamlike and blended artwork. At the end, I'll share my favorite educational resources you can use to learn more about machine learning, and of course all about TensorFlow.",
+        "speakers": [ 1],
+        "language": "English",
+        "complexity": "Beginner",
+        "tags": [
+            "Machine Learning", "Android"
+        ]
     },
     "19202": {
         "id": 19202,
-        "title": "Tech Talk SAT-2",
-        "description": "TBA"
+        "title": "Engineering Open Source Machine Learning Sofware",
+        "description": "TBA",
+        "speakers": [ 15],
+        "language": "English",
+        "complexity": "Beginner",
+        "tags": [
+            "Machine Learning", "Open Source"
+        ]
     },
     "19203": {
         "id": 19203,
-        "title": "Tech Talk SAT-3",
-        "description": "TBA"
+        "title": "Cloud Machine Learning APIs for fun and profit with Harry Potter",
+        "description": "The entranceways to the dorms at Hogwarts were guarded by paintings that talked and asked for passwords. In this talk, see a real-world Harry Potter style personal 'security' system that can understand spoken passwords and see the people and objects that wish to gain entrance. Learn about how machine learning APIs will enable the next generation of smart devices, and explore other applications of machine learning in the real-world, both in present and in the future.",
+        "speakers": [ 3],
+        "language": "English",
+        "complexity": "Beginner",
+        "tags": [
+            "Machine Learning", "Cloud"
+        ]
     },
+
+
     "19204": {
         "id": 19204,
-        "title": "Tech Talk SAT-4",
-        "description": "TBA"
+        "title": "Tools & Libraries for Progressive Web Apps",
+        "description": "TBA",
+        "speakers": [ 2],
+        "tags": [
+            "Web", "Tools"
+        ]
     },
     "19205": {
         "id": 19205,
-        "title": "Tech Talk SAT-5",
-        "description": "TBA"
+        "title": "Firebase/Android TBA",
+        "description": "TBA",
+        "speakers": [ 9],
+        "tags": [
+            "Android", "Cloud", "Firebase"
+        ]
     },
     "19206": {
         "id": 19206,
-        "title": "Tech Talk SAT-6",
-        "description": "TBA"
+        "title": "Polymer & Web Components TBA",
+        "description": "TBA",
+        "speakers": [ ],
+        "tags": [
+            "Web", "Firebase"
+        ]
     },
+
+
     "19207": {
         "id": 19207,
-        "title": "Tech Talk SAT-7",
-        "description": "TBA"
+        "title": "Intro to Kubernetes",
+        "description": "This on-demand community webinar is a perfect opportunity for anyone from a software engineering or systems / DevOps background to learn about Kubernetes fundamentals — including the history, origins and technical architecture of this exciting open source software project that is changing the game for Internet-scale computing in organizations of all sizes.",
+        "speakers": [ 7],
+        "language": "English",
+        "complexity": "Beginner",
+        "tags": [
+            "Containers", "Kubernetes", "Cloud","IoT"
+        ]
     },
+
     "19208": {
         "id": 19208,
-        "title": "Tech Talk SAT-8",
-        "description": "TBA"
+        "title": "Firebase Primitives",
+        "description": "TBA",
+        "speakers": [ 14],
+        "tags": [
+            "Firebase", "Mobile", "Web"
+        ]
     },
+
     "19209": {
         "id": 19209,
-        "title": "Tech Talk SAT-9",
-        "description": "TBA"
+        "title": "Firebase Analytics",
+        "description": "TBA",
+        "speakers": [ 13],
+        "tags": [
+            "Firebase", "Mobile", "Web","Analytics"
+        ]
     },
+
+
     "19210": {
         "id": 19210,
-        "title": "Tech Talk SAT-10",
-        "description": "TBA"
+        "title": "Android and the Seven Dwarfs",
+        "description": "Android is a great OS and it's Java based programming environment has offered an easy learning curve, great adaptation but also brought its own pitfalls and problems. The httpclient shipped with android is buggy and outdated, Java's programming model does not encourage developers to use separate threads for non-ui related tasks, use of anonymous inner classes for listeners create a burden and ugly code and of course this list goes on. This talk will focus on seven great open source libraries which do fix Android's programming model, the way jquery fixes javascript. The libraries will be covered with example code, advantages, disadvantages, internals and when to use them.",
+        "speakers": [ 11],
+        "tags": [
+            "Android", "Mobile", "Libraries","Open Source"
+        ]
     },
     "19211": {
         "id": 19211,
-        "title": "Tech Talk SAT-11",
-        "description": "TBA"
+        "title": "Pixel perfect and practical: Everyday Android design workflows",
+        "description": "In this session, we'll explore some common everyday workflows involved in Android design and walk through them step by step. (More details coming soon)",
+        "speakers": [ 12],
+        "tags": [
+            "Android", "Mobile", "Libraries","Open Source"
+        ]
     },
     "19212": {
         "id": 19212,
-        "title": "Tech Talk SAT-12",
+        "title": "Android Talk TBA",
         "description": "TBA"
     },
 
 
     "20201": {
         "id": 20201,
-        "title": "Tech Talk SUN-13",
+        "title": "Tech Talk / Code Lab  (PWA)",
         "description": "TBA"
     },
     "20202": {
         "id": 20202,
-        "title": "Tech Talk SUN-14",
+        "title": "Tech Talk / Code Lab (VR)",
         "description": "TBA"
     },
     "20203": {
         "id": 20203,
-        "title": "Tech Talk SUN-15",
+        "title": "Tech Talk / Code Lab (Firebase) ",
         "description": "TBA"
     },
+
     "20204": {
         "id": 20204,
-        "title": "Tech Talk SUN-16",
+        "title": "Tech Talk / Code Lab (Android Wear) ",
         "description": "TBA"
     },
     "20205": {
         "id": 20205,
-        "title": "Tech Talk SUN-17",
+        "title": "Tech Talk / Code Lab (Physical Web) ",
         "description": "TBA"
     },
     "20206": {
         "id": 20206,
-        "title": "Tech Talk SUN-18",
+        "title": "Tech Talk / Code Lab (Mobile Vision API)",
         "description": "TBA"
     },
     "20207": {
         "id": 20207,
-        "title": "Tech Talk SUN-19",
+        "title": "Tech Talk / Code Lab (Firebase Analytics)",
         "description": "TBA"
     },
     "20208": {
         "id": 20208,
-        "title": "Tech Talk SUN-20",
+        "title": "Tech Talk / Code Lab (PolymerFire)",
         "description": "TBA"
     },
 
@@ -204,57 +265,60 @@
 
     "19301": {
         "id": 19301,
-        "title": "Workshop SAT-1",
+        "title": "Workshop TBA (SAT-4-Android/Firebase)",
         "description": "TBA",
         "image": "/images/dfnyc/bg.jpg",
         "tags": [
-            "Android"
+            "Firebase"
         ]
     },
     "19302": {
         "id": 19302,
-        "title": "Workshop SAT-2",
-        "description": "TBA",
+        "title": "Android Performance Workshop",
+        "description": "We will be going through an interactive workshop fixing common performance issues.  Topics will include: speeding up json serialization, scroll performance and startup time.",
         "image": "/images/dfnyc/bg.jpg",
+        "speakers": [ 10 ],
         "tags": [
-            "Android"
+            "Android", "Performance"
         ]
     },
     "19303": {
         "id": 19303,
-        "title": "Workshop SAT-3",
-        "description": "TBA",
+        "title": "Crash Course: React and Redux",
+        "description": "This introductory workshop will show you the basics of using React, a popular JavaScript UI library. We'll create React components and learn how to implement Redux, a flux-based library that holds our application state, to consume and display data from a third-party API. You'll walk away armed with knowledge and a sweet mini-app!",
         "image": "/images/dfnyc/bg.jpg",
+        "speakers": [ 4,5,6 ],
         "tags": [
-            "Android"
+            "React", "Redux", "Web Development", "JavaScript"
         ]
     },
     "19304": {
         "id": 19304,
-        "title": "Workshop SAT-4",
+        "title": "Workshop TBA (SAT-3-Cloud)",
         "description": "TBA",
         "image": "/images/dfnyc/bg.jpg",
         "tags": [
-            "Android"
+            "Cloud"
         ]
     },
 
     "20301": {
         "id": 20301,
-        "title": "Workshop SUN-5",
-        "description": "TBA",
+        "title": "Tensor Flow & Deep Learning (without a Phd)",
+        "description": "Google has recently open-sourced its framework for machine learning and neural networks called Tensorflow. With this new tool, deep machine learning transitions from an area of research into mainstream software engineering. In this session, we will teach you how to choose the right neural network for your problem and how to make it behave. Familiarity with differential equations is no longer required. Instead, a couple of lines of Tensor Flow Python, and a bag of `tricks of the trade` will do the job. No previous Python knowledge required,",
         "image": "/images/dfnyc/bg.jpg",
+        "speakers": [ 3 ],
         "tags": [
-            "Android"
+            "Machine Learning"
         ]
     },
     "20302": {
         "id": 20302,
-        "title": "Workshop SUN-6",
+        "title": "Virtual Reality & Unity ",
         "description": "TBA",
         "image": "/images/dfnyc/bg.jpg",
         "tags": [
-            "Android"
+            "VR", "Mobile"
         ]
     },
     "20303": {

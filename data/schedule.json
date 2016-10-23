@@ -23,6 +23,7 @@
             { "startTime": "12:10", "endTime": "12:50", "sessions": [[ 19205 ]]},
             { "startTime": "12:50", "endTime": "13:30", "sessions": [[ 19206 ]]},
 
+            { "startTime": "13:00", "endTime": "14:00", "sessions": [[ 19003 ]]},
 
             { "startTime": "13:30", "endTime": "15:30", "sessions": [[ 19303 ]]},
             { "startTime": "13:30", "endTime": "14:10", "sessions": [[ 19207 ]]},
@@ -32,7 +33,9 @@
             { "startTime": "15:30", "endTime": "17:30", "sessions": [[ 19304 ]]},
             { "startTime": "15:30", "endTime": "16:10", "sessions": [[ 19210 ]]},
             { "startTime": "16:10", "endTime": "16:40", "sessions": [[ 19211 ]]},
-            { "startTime": "16:40", "endTime": "17:30", "sessions": [[ 19212 ]]}
+            { "startTime": "16:40", "endTime": "17:30", "sessions": [[ 19212 ]]},
+
+            { "startTime": "17:30", "endTime": "17:30", "sessions": [[ 19004 ]]}
         ]
     },
 

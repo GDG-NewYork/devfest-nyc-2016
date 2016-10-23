@@ -6,11 +6,6 @@
         "name": "Google",
         "url": "http://google.com",
         "logoUrl": "../images/dfnyc/logo_google.png"
-      },
-      {
-        "name": "New York Times",
-        "url": "https://generalassemb.ly",
-        "logoUrl": "../images/dfnyc/logo_nyt.png"
       }
     ]
   },

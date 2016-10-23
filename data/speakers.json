@@ -372,19 +372,14 @@
         ],
         "socials": [
             {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/frankvanpuffelen/"
-            },
-            {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/puf"
+                "link": "https://twitter.com/friendlymikhail"
             },
             {
                 "icon": "github",
                 "name": "GitHub",
-                "link": "https://github.com/puf/"
+                "link": "http://github.com/digitalbuddha"
             }
         ]
     },
