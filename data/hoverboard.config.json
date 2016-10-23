@@ -92,14 +92,8 @@
   ],
 
   "url": "https://devfestnyc.com/",
-  "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
-  },
 
   "partnershipProposition": "http://bit.ly/devfest16-nyc-sponsor",
-
-  "disqusShortName": "hoverboard-gdg-x",
 
   "languages": [
     {
@@ -195,16 +189,12 @@
       "caption": "days"
     },
     {
-      "counter": 4,
+      "counter": 5,
       "caption": "tracks"
     },
     {
-      "counter": 12,
-      "caption": "sessions"
-    },
-    {
-      "counter": 4,
-      "caption": "workshops"
+      "counter": 20,
+      "caption": "talks"
     }
   ],
   "hashtag": "dfua",
@@ -225,18 +215,6 @@
       "url": "https://github.com/gdg-newyork"
     }
   ],
-
-  "tweetsSource": "/data/tweets.json",
-  "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
-    "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
-      "small": [
-        "/images/backgrounds/2015_2.jpg",
-        "/images/backgrounds/2015_3.jpg"
-      ]
-    }
-  },
 
   "location": {
     "apiKey": "",
