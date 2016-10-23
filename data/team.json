@@ -45,7 +45,7 @@
             "name": "Twitter"
           }
         ],
-        "title": "GDG New York, Firebase/Cloud Program"
+        "title": "GDG New York, Cloud Program"
       },
       {
         "name": "Gautam Arora",
@@ -62,20 +62,21 @@
             "name": "Twitter"
           }
         ],
-        "title": "GDG New York, Web/PWA Program"
+        "title": "GDG New York, WebDev Program"
       }
     ]
   },
 
+
   {
-    "title": "Planning Committee",
+    "title": "Program & Planning",
     "members": [
       {
         "name": "Leigh Scherrer",
         "photoUrl": "https://pbs.twimg.com/profile_images/762299156471934976/F5kZbSE0_400x400.jpg",
         "socials": [
         ],
-        "title": "Web/PWA Program"
+        "title": "WebDev Program"
       },
       {
         "name": "Mikhail Nakhimovich",
@@ -89,7 +90,7 @@
         "photoUrl": "http://photos3.meetupstatic.com/photos/member/8/1/1/1/highres_248553041.jpeg",
         "socials": [
         ],
-        "title": "Codelabs Track"
+        "title": "Codelabs Program"
       },
       {
         "name": "Sid Watal",
@@ -99,11 +100,11 @@
         "title": "Sponsorships"
       },
       {
-        "name": "Guillermo Sainz",
-        "photoUrl": "http://photos2.meetupstatic.com/photos/member/9/e/d/4/member_254500660.jpeg",
+        "name": "Anand Safi",
+        "photoUrl": "http://photos1.meetupstatic.com/photos/member/9/3/6/4/highres_214657732.jpeg",
         "socials": [
         ],
-        "title": "Digital Marketing"
+        "title": "Communications"
       },
       {
         "name": "Joey Mejias",
@@ -113,53 +114,60 @@
         "title": "Social Media"
       },
       {
-        "name": "Anand Safi",
-        "photoUrl": "http://photos1.meetupstatic.com/photos/member/9/3/6/4/highres_214657732.jpeg",
+        "name": "Guillermo Sainz",
+        "photoUrl": "http://photos2.meetupstatic.com/photos/member/9/e/d/4/member_254500660.jpeg",
         "socials": [
         ],
-        "title": "Communications"
+        "title": "Digital Marketing"
       },
+      {
+        "name": "Raghav Bansal",
+        "photoUrl": "http://photos2.meetupstatic.com/photos/member/3/0/7/b/member_257532411.jpeg",
+        "socials": [
+        ],
+        "title": "Social Media"
+      }
     ]
   },
 
 
   {
-    "title": "Hackathon Team",
+    "title": "Hackathon",
     "members": [
       {
         "name": "Sreeprasad Govindankutty",
         "photoUrl": "http://photos3.meetupstatic.com/photos/member/5/8/6/d/member_11242637.jpeg",
         "socials": [
         ],
-        "title": "Hackathon Co-Chair"
+        "title": "Hackathon Chair"
       },
       {
         "name": "Peter Rood",
         "photoUrl": "http://photos1.meetupstatic.com/photos/member/2/9/5/highres_254880661.jpeg",
         "socials": [
         ],
-        "title": "Hackathon Co-Chair"
+        "title": "Hackathon Chair"
       },
       {
         "name": "Justin Mae",
         "photoUrl": "http://photos1.meetupstatic.com/photos/member/3/a/5/4/member_130154932.jpeg",
         "socials": [
         ],
-        "title": "Firebase, Android Mentor"
+        "title": "Hackathon Mentor"
       },
       {
         "name": "Mark Pytel",
         "photoUrl": "http://photos4.meetupstatic.com/photos/member/c/d/3/7/member_246172535.jpeg",
         "socials": [
         ],
-        "title": "Web, PWA Mentor"
+        "title": "Hackathon Mentor"
       },
       {
         "name": "Kathy Chang",
         "photoUrl": "http://photos4.meetupstatic.com/photos/member/1/9/f/a/member_259686650.jpeg",
         "socials": [
         ],
-        "title": "Machine Learning Mentor"
+        "title": "Hackathon Mentor"
       }
     ]
   }
