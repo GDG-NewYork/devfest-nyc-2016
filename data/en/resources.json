@@ -66,10 +66,13 @@
   "click-to-view-photos"    : "Click here to view more photos",
   "partners"                : "Partners",
   "become-a-partner"        : "Become a partner",
-  "template-creator"        : "Template creator",
-  "general-partner"         : "General partner",
 
-  "featured-videos-title"   : "Featured #DFUA '15 Sessions",
+  "template-creator"        : "Template creator",
+  "venue-partner"           : "Venue Partners",
+  "event-sponsor"           : "Event Sponsors",
+  "community-partner"       : "Community Partners",
+
+  "featured-videos-title"   : "Featured Sessions",
   "featured-videos-view-all": "View all videos",
   "featured-people-title"   : "Our Speakers",
   "featured-people-view-all": "View all speakers",
@@ -80,12 +83,12 @@
   "location-description"    : "Flatiron School is an outcomes-focused coding bootcamp that has helped thousands of learners become valuable programmers.",
   "location-address"        : "11 Broadway #260, New York, NY 10004",
 
-  "organizer"               : "Organizer",
-  "about-organizers"        : "<a href='http://meetup.com/gdgnyc' target='_blank'>GDG New York</a> is proud to organize the 2016 DevFest NYC",
+  "organizer"               : "About The Organizers",
+  "about-organizers"        : "DevFestNYC is organized by members of <a href='http://meetup.com/gdgnyc' target='_blank'>GDG New York</a>, a community-led technology organization with a focus on mobile, web and cloud computing, machine learning and other emerging technologies.",
   "open-team-page"          : "Open team page",
 
-  "what-is-gdg"             : "What is GDG?",
-  "about-gdg"               : "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+  "what-is-gdg"             : "About the Event",
+  "about-gdg"               : "DevFest is an annual conference run by Google Developer Group chapters worldwide. It is a conference for developers, by developers. DevFest NYC has five tracks - tech talks, workshops, codelabs, hackathon & GoLang training",
 
   "read-more"               : "Read more",
   "copy-link"               : "Copy link",

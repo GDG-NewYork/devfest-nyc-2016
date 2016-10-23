@@ -1,6 +1,41 @@
 [
   {
-    "title": "general-partner",
+    "title": "event-sponsor",
+    "logos": [
+      {
+        "name": "Google",
+        "url": "http://google.com",
+        "logoUrl": "../images/dfnyc/logo_google.png"
+      },
+      {
+        "name": "New York Times",
+        "url": "https://generalassemb.ly",
+        "logoUrl": "../images/dfnyc/logo_nyt.png"
+      }
+    ]
+  },
+  {
+    "title": "community-partner",
+    "logos": [
+      {
+        "name": "GDG New York",
+        "url": "http://meetup.com/gdgnyc",
+        "logoUrl": "../images/dfnyc/logo-gdgnyc.png"
+      },
+      {
+        "name": "Women Techmakers",
+        "url": "https://womentechmakers.com",
+        "logoUrl": "../images/dfnyc/logo-wtm.png"
+      },
+      {
+        "name": "O'Reilly Partner",
+        "url": "https://oreilly.com",
+        "logoUrl": "../images/dfnyc/logo-oreilly.jpg"
+      }
+    ]
+  },
+  {
+    "title": "venue-partner",
     "logos": [
       {
         "name": "Flatiron School",
