@@ -94,9 +94,9 @@
         "shortBio": "Developer Advocate, Google Cloud Team.",
         "bio": "Yufeng has been building computers since elementary school and lives at the intersection of hardware and software. As a Google Developer Advocate, Yufeng bridges the gap between the developer community and engineering teams.  He is interested in combining IoT devices, big data, and machine learning, and loves learning new technologies.",
         "tags": [
-            "MachineLearning",
-            "GoogleCloud",
-            "TensorFlow"
+            "Machine Learning",
+            "Google Cloud",
+            "Tensor Flow"
         ],
         "badges": [
 
@@ -125,7 +125,6 @@
             "Web",
             "JavaScript",
             "Ruby",
-            "Web",
             "React",
             "Workshop"
         ],
@@ -250,7 +249,7 @@
         "tags": [
             "Kubernetes",
             "Containers",
-            "CloudComputing"
+            "Cloud Computing"
         ],
         "badges": [
 
@@ -288,7 +287,7 @@
         "tags": [
             "Kubernetes",
             "Containers",
-            "CloudComputing"
+            "Cloud Computing"
         ],
         "badges": [
 
@@ -327,7 +326,7 @@
             "Android",
             "Web",
             "Firebase",
-            "gde"
+            "GDE"
         ],
         "badges": [
 
@@ -363,9 +362,9 @@
         "shortBio": "Google Developer Expert (Android). Android Developer @New York Times",
         "bio": "Google Developer Expert Android, Android Developer @New York Times, CoFounder of http://friendlyrobot.nyc : NY's friendliest Android dev shop. ",
         "tags": [
-            "android",
-            "performance",
-            "gde"
+            "Android",
+            "Performance",
+            "GDE"
         ],
         "badges": [
 
@@ -499,8 +498,8 @@
         "shortBio": "Software Engineer, Google Firebase Team.",
         "bio": "Software Engineer, Google Firebase Team",
         "tags": [
-            "firebase",
-            "analytics"
+            "Firebase",
+            "Analytics"
         ],
         "badges": [
 
@@ -536,8 +535,8 @@
         "shortBio": "Author, 'Introduction to Machine Learning with Python' and scikit-learn enthusiast",
         "bio": " working on open source and open science. Machine learner, python geek and scikit-learn enthusiast.",
         "tags": [
-            "python",
-            "machine-learning"
+            "Python",
+            "Machine Learning"
         ],
         "badges": [
 
