@@ -110,8 +110,8 @@
     },
     "19202": {
         "id": 19202,
-        "title": "Engineering Open Source Machine Learning Sofware",
-        "description": "TBA",
+        "title": "Engineering Open Source Machine Learning Software",
+        "description": "This talk lays out the principles guiding the design of scikit-learn, focussing on usability and maintainability. I'm also discussing some continuing challenges, like feature creep and increasing complexity, and future directions.",
         "speakers": [ 15],
         "language": "English",
         "complexity": "Beginner",
