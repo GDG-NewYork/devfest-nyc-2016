@@ -74,6 +74,6 @@ _This current version is taken from the DevFest Code Of Conduct created by GDG S
 
 <h3> **Support** </h3>
 <p>
-Contact <a href="mailto:gdgnyc@gmail.com">**GDG New York**</a> or <a href="contact@devfestnyc.com"> **support@devfestnyc** </a> Or join our **DevFestNYC Slack** and use the support channel to make request
+Contact <a href="mailto:gdgnyc@gmail.com">**GDG New York**</a> or <a href="mailto:contact@devfestnyc.com"> **contact@devfestnyc** </a> Or join our **DevFestNYC Slack** and use the support channel to make request
 </p>
 </div>
