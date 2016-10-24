@@ -1,29 +1,31 @@
 [
   {
+    "id": "devfest-speaker-cfp",
+    "title": "DevFest: Call for Speakers",
+    "posted": "2016-10-22",
+    "primaryColor": "#5a7785",
+    "secondaryColor": "#455a64",
+    "image": "/images/dfnyc/talk.jpeg",
+    "brief": "Have expertise you want to share in mobile, web, wearable or cloud computing, machine learning or other emerging technologies. We're looking for demos, talks and workshops. Submit a proposal today!"
+  },
+
+  {
     "id": "devfest-golang-training",
     "title": "GoLang Track: Ultimate Go for Beginners",
     "posted": "2016-10-01",
     "primaryColor": "#5a7785",
     "secondaryColor": "#455a64",
-    "image": "/images/posts/summary.jpg",
+    "image": "/images/dfnyc/blog_golang.png",
     "brief": "Ultimate Go is a 2-day workshop for any intermediate-level developer who has some experience with other programming languages and wants to learn Go."
   },
+
   {
     "id": "devfest-hackathon-cfp",
     "title": "Hackathon Track: Call for Participation",
     "posted": "2016-10-07",
     "primaryColor": "#5a7785",
     "secondaryColor": "#455a64",
-    "image": "/images/posts/summary1.jpg",
-    "brief": "Ultimate Go is a 2-day workshop for any intermediate-level developer who has some experience with other programming languages and wants to learn Go."
-  },
-  {
-    "id": "devfest-golang-training",
-    "title": "Sessions Track: Call for Speakers",
-    "posted": "2016-10-01",
-    "primaryColor": "#5a7785",
-    "secondaryColor": "#455a64",
-    "image": "/images/posts/summary2.jpg",
-    "brief": "Ultimate Go is a 2-day workshop for any intermediate-level developer who has some experience with other programming languages and wants to learn Go."
+    "image": "/images/dfnyc/coffee.jpeg",
+    "brief": "Have an idea for a real-time, mobile or web app with a business value? Want to build and pitch it in 48 hours? Sign up for our hackathon now and work with our mentors to build that MVP"
   }
 ]

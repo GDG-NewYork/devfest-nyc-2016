@@ -83,11 +83,11 @@
   "location-description"    : "Flatiron School is an outcomes-focused coding bootcamp that has helped thousands of learners become valuable programmers.",
   "location-address"        : "11 Broadway #260, New York, NY 10004",
 
-  "organizer"               : "About The Organizers",
+  "organizer"               : "About GDG NYC",
   "about-organizers"        : "DevFestNYC is organized by members of <a href='http://meetup.com/gdgnyc' target='_blank'>GDG New York</a>, a community-led technology organization with a focus on mobile, web and cloud computing, machine learning and other emerging technologies.",
   "open-team-page"          : "Open team page",
 
-  "what-is-gdg"             : "About the Event",
+  "what-is-gdg"             : "About DevFest",
   "about-gdg"               : "DevFest is an annual conference run by Google Developer Group chapters worldwide. It is a conference for developers, by developers. DevFest NYC has five tracks - tech talks, workshops, codelabs, hackathon & GoLang training",
 
   "read-more"               : "Read more",
