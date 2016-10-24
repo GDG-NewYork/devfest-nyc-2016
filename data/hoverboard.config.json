@@ -92,7 +92,6 @@
   ],
 
   "url": "https://devfestnyc.com/",
-
   "partnershipProposition": "http://bit.ly/devfest16-nyc-sponsor",
 
   "languages": [
@@ -138,6 +137,10 @@
         "url": "mailto:contact@devfestnyc.com"
       }
     ]
+  },
+  
+  "callToAction": {
+    "url": "http://bit.ly/devfestnyc-2016-cfp"
   },
 
   "tickets": {
