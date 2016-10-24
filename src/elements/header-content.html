@@ -142,7 +142,9 @@
               </div>
               -->
               <div class="action-buttons">
-                <paper-button class="primary" on-tap="_scrollToTickets" raised>{{localize('buy-ticket')}}</paper-button>
+                <a href$="[[app.data.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
+                  <paper-button class="primary" raised>{{localize('buy-ticket')}}</paper-button>
+                </a>
               </div>
             </div>
           </div>
@@ -217,6 +219,10 @@
             behavior: 'smooth',
             target: HOVERBOARD.Elements.Scroller
           });
+        },
+
+        _trackBuyClick: function () {
+          HOVERBOARD.Analytics.trackEvent('ticket', 'buy_click', 'header');
         }
 
       });
