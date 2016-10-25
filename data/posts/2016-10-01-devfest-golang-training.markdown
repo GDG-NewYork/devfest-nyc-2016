@@ -49,6 +49,11 @@ An ability to use patterns and techniques to solve common problems
 
 <br/><br/>
 Bill is a Managing Partner at [Ardan Studios](https://www.ardanstudios.com/) in Miami, FL -- a mobile, web and systems development company.
+
 He is also the co-author of the book Go In Action, the author of the blog [GoingGo.Net](http://goinggo.net/), and the organizer for the Go and MongoDB meetups in Miami.
 
 ---
+
+<br/><br/>
+
+ [**PURCHASE ULTIMATE GO TICKETS FROM THE GENERAL ASSEMBLY WEBSITE HERE**](https://generalassemb.ly/education/devfestnyc-ultimate-go-training/new-york-city/30237) (while supplies last) 
