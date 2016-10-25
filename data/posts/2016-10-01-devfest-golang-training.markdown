@@ -1,9 +1,13 @@
 
 
 <br/><br/>
-We are super excited to be working with our secondary venue partners at General Assembly to offer a special _Ultimate Go_ training track. **Tickets for this event are sold separately**, with only a limited number of seats available. 
+<img align="left" src="/images/logos/GA.png" height="75px" style="margin:20px;"/>
 
- [**PURCHASE ULTIMATE GO TICKETS HERE**](https://generalassemb.ly/education/devfestnyc-ultimate-go-training/new-york-city/30237) (while supplies last) 
+We are super excited to be working with our second venue partner -- General Assembly -- to offer a special _Ultimate Go_ training track. **Tickets for this event are sold separately**, with only a limited number of seats available. 
+<br/><br/>
+
+
+ [**PURCHASE ULTIMATE GO TICKETS FROM THE GENERAL ASSEMBLY WEBSITE HERE**](https://generalassemb.ly/education/devfestnyc-ultimate-go-training/new-york-city/30237) (while supplies last) 
 
 ---
 <br/><br/>
