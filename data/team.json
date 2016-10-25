@@ -75,6 +75,16 @@
         "name": "Leigh Scherrer",
         "photoUrl": "https://pbs.twimg.com/profile_images/762299156471934976/F5kZbSE0_400x400.jpg",
         "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/leighsch",
+            "name": "Twitter"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/leighscherrer",
+            "name": "Linked In"
+          }
         ],
         "title": "WebDev Program"
       },
@@ -82,6 +92,16 @@
         "name": "Mikhail Nakhimovich",
         "photoUrl": "https://pbs.twimg.com/profile_images/735455823938396161/DmC7AtFP.jpg",
         "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/friendlymikhail",
+            "name": "Twitter"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/mikenakh",
+            "name": "Linked In"
+          }
         ],
         "title": "Android Program"
       },
@@ -96,6 +116,16 @@
         "name": "Sid Watal",
         "photoUrl": "http://photos3.meetupstatic.com/photos/member/6/b/7/f/highres_248607519.jpeg",
         "socials": [
+          {
+          "icon": "twitter",
+          "link": "https://twitter.com/butterandguns",
+          "name": "Twitter"
+        },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/sidwatal",
+            "name": "Linked In"
+          }
         ],
         "title": "Sponsorships"
       },
@@ -103,6 +133,16 @@
         "name": "Anand Safi",
         "photoUrl": "http://photos1.meetupstatic.com/photos/member/9/3/6/4/highres_214657732.jpeg",
         "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/anandsafi",
+            "name": "Twitter"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/anandsafi",
+            "name": "Linked In"
+          }
         ],
         "title": "Communications"
       },
@@ -110,6 +150,16 @@
         "name": "Joey Mejias",
         "photoUrl": "http://photos3.meetupstatic.com/photos/member/1/6/1/f/member_242585663.jpeg",
         "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/joeymejias",
+            "name": "Twitter"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/joeymejias",
+            "name": "Linked In"
+          }
         ],
         "title": "Social Media"
       },
@@ -117,6 +167,16 @@
         "name": "Guillermo Sainz",
         "photoUrl": "http://photos2.meetupstatic.com/photos/member/9/e/d/4/member_254500660.jpeg",
         "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/guillermosainz",
+            "name": "Twitter"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/gsainz",
+            "name": "Linked In"
+          }
         ],
         "title": "Digital Marketing"
       },
@@ -138,6 +198,11 @@
         "name": "Sreeprasad Govindankutty",
         "photoUrl": "http://photos3.meetupstatic.com/photos/member/5/8/6/d/member_11242637.jpeg",
         "socials": [
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/sreeprasadatrit",
+            "name": "Linked In"
+          }
         ],
         "title": "Hackathon Chair"
       },
@@ -145,6 +210,16 @@
         "name": "Peter Rood",
         "photoUrl": "http://photos1.meetupstatic.com/photos/member/2/9/5/highres_254880661.jpeg",
         "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/p3r__",
+            "name": "Twitter"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/peterood",
+            "name": "Linked In"
+          }
         ],
         "title": "Hackathon Chair"
       },
@@ -152,6 +227,11 @@
         "name": "Justin Mae",
         "photoUrl": "http://photos1.meetupstatic.com/photos/member/3/a/5/4/member_130154932.jpeg",
         "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/jmae1",
+            "name": "Twitter"
+          }
         ],
         "title": "Hackathon Mentor"
       },
@@ -159,6 +239,16 @@
         "name": "Mark Pytel",
         "photoUrl": "http://photos4.meetupstatic.com/photos/member/c/d/3/7/member_246172535.jpeg",
         "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/mark_pytel",
+            "name": "Twitter"
+          },
+          {
+            "icon": "linkedin",
+            "link": "https://www.linkedin.com/in/markpytel",
+            "name": "Linked In"
+          }
         ],
         "title": "Hackathon Mentor"
       },
