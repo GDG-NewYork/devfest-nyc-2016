@@ -265,11 +265,12 @@
 
     "19301": {
         "id": 19301,
-        "title": "Workshop TBA (SAT-4-Android/Firebase)",
-        "description": "TBA",
+        "title": "Getting Started with Kubernetes",
+        "description": "Kubernetes has become the Linux kernel for distributed application design and hosting. In this workshop we cover the different options for installing Kubernetes on a cloud and on a laptop. The attendees onboard a sample application to Kubernetes and learn about the most salient features. This session will also cover the use cases for Kubernetes and some of the most recent case studies.",
         "image": "/images/dfnyc/bg.jpg",
+        "speakers": [ 7],
         "tags": [
-            "Firebase"
+            "Cloud"
         ]
     },
     "19302": {
