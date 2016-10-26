@@ -471,8 +471,8 @@
         "shortBio": "Software Engineer, Google Firebase Team.",
         "bio": "Software Engineer, Google Firebase Team",
         "tags": [
-            "firebase",
-            "analytics"
+            "Firebase",
+            "Analytics"
         ],
         "badges": [
 
@@ -558,5 +558,48 @@
                 "link": "https://github.com/amueller/"
             }
         ]
+    },
+
+    "16": {
+      "id": 16,
+      "featured": true,
+      "name": "Oscar Perez",
+      "title": "Software Engineer II",
+      "company": "Condé Nast",
+      "companyLogo": "/images/dfnyc/logo_condenast.png",
+      "country": "New York, USA",
+      "photoUrl": "https://pbs.twimg.com/profile_images/522787248463286272/TluKZqsI.jpeg",
+      "shortBio": "Software Engineer at Condé Nast's Digital Strategies and Initiatives department. Student in the Georgia Tech's OMSCS program.",
+      "bio": "Oscar is a Software Engineer at Condé Nast. In the past he has worked at BlackBerry and a couple startups. Oscar has experience in desktop, mobile, and web development. He's also working on his Master's degree at Georgia Tech. While away from work/school, he's often found at the gym.",
+      "tags": [
+          "AMP",
+          "NodeJS",
+          "Web"
+      ],
+      "badges": [
+
+      ],
+      "socials": [
+          {
+              "icon": "linkedin",
+              "name": "LinkedIn",
+              "link": "https://www.linkedin.com/in/oscar-perez-4a968136"
+          },
+          {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "https://twitter.com/oscrperez/"
+          },
+          {
+              "icon": "github",
+              "name": "GitHub",
+              "link": "https://github.com/poscar"
+          },
+          {
+              "icon": "website",
+              "name": "Website",
+              "link": "http://oscaraperez.com"
+          }
+      ]
     }
 }
