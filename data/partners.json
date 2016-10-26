@@ -11,6 +11,11 @@
         "name": "NYT",
         "url": "http://developers.nytimes.com",
         "logoUrl": "../images/dfnyc/logo_nyt_dev.png"
+      },
+      {
+        "name": "Condé Nast",
+        "url": "http://creativity.condenast.com/",
+        "logoUrl": "../images/dfnyc/logo_condenast.png"
       }
     ]
   },
