@@ -601,5 +601,47 @@
               "link": "http://oscaraperez.com"
           }
       ]
+    },
+
+    "17": {
+      "id": 17,
+      "featured": true,
+      "name": "Lex Dreitser",
+      "title": "Founder",
+      "company": "VRVU",
+      "companyLogo": "/images/dfnyc/logo-vrvu.png",
+      "country": "New York, USA",
+      "photoUrl": "/images/dfnyc/speaker_lex.jpg",
+      "shortBio": "Lex is an award winning VR/AR developer, founder of VRVU, and host of the Build-Run podcast.",
+      "bio": "Lex is an award winning VR/AR developer. Over 90% of Virtual Reality is made with Unity®. Lex is likely the foremost Unity® expert in NYC. When he’s not deep in code, developing the future of VR/AR for major brands, he runs NYC VR University – an official Unity® meetup where he and his team teach the community how to make VR and AR for free. He hosts a 360 video podcast for Unity® developers called Build and Run Build-Run.com. Join him on VRathon.com, an episodic iterative VR hackathon where you’re able to participate through 360 video.",
+      "tags": [
+          "Unity",
+          "Virtual Reality"
+      ],
+      "badges": [
+
+      ],
+      "socials": [
+          {
+              "icon": "linkedin",
+              "name": "LinkedIn",
+              "link": "https://www.linkedin.com/in/gurunyc"
+          },
+          {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "https://twitter.com/lexunity"
+          },
+          {
+              "icon": "github",
+              "name": "GitHub",
+              "link": "https://github.com/dreitser"
+          },
+          {
+              "icon": "website",
+              "name": "Website",
+              "link": "http://vrvu.com"
+          }
+      ]
     }
 }
