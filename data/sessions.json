@@ -176,7 +176,7 @@
     "19208": {
         "id": 19208,
         "title": "Firebase Primitives",
-        "description": "TBA",
+        "description": "Firebase helps mobile and web developers create extraordinary apps. It abstracts complex infrastructure and simplifies the development process. By using Firebase, developers can build the best user experience in the shortest amount of time, all without having to spin up servers or manage infrastructure. We explore how Firebase authenticates users and synchronizes data by creating an app on stage. You’ll experience first hand how easy it is to build with Firebase!",
         "speakers": [ 14],
         "tags": [
             "Firebase", "Mobile", "Web"
@@ -214,51 +214,69 @@
     },
     "19212": {
         "id": 19212,
-        "title": "Android Talk TBA",
-        "description": "TBA"
+        "title": "Realm - A New Mobile Database and Object Framework",
+        "description": "So you need to store data in your mobile application? Great, now you need to work with SQLite. Writing SQL is great fun if you enjoy thinking about mapping your objects to a relational store over and over and over. But what if there was another solution? One that allowed you to work with objects and store them as such with a powerful query system. No transformations back and forth to a relational store. Well, you’re in luck, one does exist: Realm. Realm is a mobile object (MVCC) database that can do all of these things and more. In this session learn how you can rid yourself of SQL, SQLite and its binding chains so you can harness the power and speed of working with native objects in Realm.",
+        "speakers": [ 18],
+        "tags": [
+            "Android", "Mobile", "Database"
+        ]
     },
 
 
     "20201": {
         "id": 20201,
-        "title": "Tech Talk / Code Lab  (PWA)",
-        "description": "TBA"
+        "title": "Polymer 2.0: What is it, why do you care, when can you take it home.",
+        "description": "Polymer 2.0 is coming, look busy... Together we'll remember how the W3C has given us four really awesome news specs that come together like Voltron to empower front end developers like never before. We'll also look at how we've been making use of these powers, and the responsibilities that come with them, at PhotoShelter where web components continue to been a central part of major modernization work. Then we'll peer into the future and take a look at what's on deck with Polymer 2.0, some of the great new tools that will come with it, and how you too can start building the future, today!",
+        "speakers": [ 19],
+        "tags": [
+            "Polymer", "Web", "Web Components"
+        ]
     },
     "20202": {
         "id": 20202,
-        "title": "Tech Talk / Code Lab (VR)",
-        "description": "TBA"
+        "title": "GraphQL Talk: TBA",
+        "description": "TBA",
+        "tags": [
+            "GraphQL", "Mobile", "Web"
+        ]
     },
     "20203": {
         "id": 20203,
-        "title": "Tech Talk / Code Lab (Firebase) ",
-        "description": "TBA"
+        "title": "Angular2 Talk",
+        "description": "TBA",
+        "tags": [
+            "Angular2", "Web", "SEO"
+        ]
     },
 
     "20204": {
         "id": 20204,
-        "title": "Tech Talk / Code Lab (Android Wear) ",
-        "description": "TBA"
+        "title": "Tech Talk / Code Lab",
+        "description": "Codelabs [PWA / VR / Firebase / Android / Physical Web / Mobile Vision / Analytics / Polymer]"
     },
     "20205": {
         "id": 20205,
-        "title": "Tech Talk / Code Lab (Physical Web) ",
-        "description": "TBA"
+        "title": "Tech Talk / Code Lab",
+        "description": "Codelabs [PWA / VR / Firebase / Android / Physical Web / Mobile Vision / Analytics / Polymer]"
     },
     "20206": {
         "id": 20206,
-        "title": "Tech Talk / Code Lab (Mobile Vision API)",
-        "description": "TBA"
+        "title": "Tech Talk / Code Lab ",
+        "description": "Codelabs [PWA / VR / Firebase / Android / Physical Web / Mobile Vision / Analytics / Polymer]"
     },
     "20207": {
         "id": 20207,
-        "title": "Tech Talk / Code Lab (Firebase Analytics)",
-        "description": "TBA"
+        "title": "Panel A: What's Next for Machine Learning in an AI-First World?",
+        "description": "TBA",
+        "image": "/images/dfnyc/bg_robotai.jpeg",
+        "speakers": [ ]
     },
     "20208": {
         "id": 20208,
-        "title": "Tech Talk / Code Lab (PolymerFire)",
-        "description": "TBA"
+        "title": "Panel B: Competency or Autodidactism? The Future of Learning",
+        "description": "TBA",
+        "image": "/images/dfnyc/bg_learn.jpeg",
+        "speakers": [ ]
     },
 
 
@@ -295,7 +313,7 @@
     },
     "19304": {
         "id": 19304,
-        "title": "Workshop TBA (SAT-3-Cloud)",
+        "title": "Workshop TBA (SAT-3 PolymerFire/PWA?)",
         "description": "TBA",
         "image": "/images/dfnyc/bg.jpg",
         "tags": [
@@ -315,11 +333,12 @@
     },
     "20302": {
         "id": 20302,
-        "title": "Virtual Reality & Unity ",
-        "description": "TBA",
+        "title": "VR / AR / MR / 360 - Any sufficiently advanced technology is indistinguishable from magic.",
+        "description": "Lex Dreitser (Certified Unity® Developer) and special guests, will bring you abreast with Google's Daydream, Microsoft's HoloLens and every other major VR / AR / 360 product in the industry. He'll show you how to develop for every VR/AR platform, and inspire you not with his ability to quickly create VR/AR, but with yours...  If you bring your laptop with Unity (free) installed - you'll be able to follow along and see that it's really not magic!  No experience necessary the most novice and most experienced will all find this talk helpful.",
         "image": "/images/dfnyc/bg.jpg",
+        "speakers": [  17 ],
         "tags": [
-            "VR", "Mobile"
+            "VR/AR", "DayDream", "HoloLens"
         ]
     },
     "20303": {

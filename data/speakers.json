@@ -642,5 +642,82 @@
               "link": "http://vrvu.com"
           }
       ]
+    },
+
+    "18": {
+      "id": 18,
+      "featured": true,
+      "name": "Donn Felker",
+      "title": "Google Developer Expert",
+      "company": "Caster.io, Fragmented Podcast",
+      "companyLogo": "/images/dfnyc/logo-gde.png",
+      "country": "New York, USA",
+      "photoUrl": "https://pbs.twimg.com/profile_images/672192415105593344/BlDm62KP.jpg",
+      "shortBio": "Co-Host of the Fragmented Podcast. Lead instructor at Caster.IO. International Speaker on topics of Android and more. Author of multiple Android Books. Loves Chipotle and donuts.",
+      "bio": "Co-Host of the Fragmented Podcast. Lead instructor at Caster.IO. International Speaker on topics of Android and more. Author of multiple Android Books. Loves Chipotle and donuts.",
+      "tags": [
+          "Android",
+          "Realm",
+          "Mobile",
+          "Database"
+      ],
+      "badges": [
+
+      ],
+      "socials": [
+          {
+              "icon": "linkedin",
+              "name": "LinkedIn",
+              "link": "http://www.linkedin.com/in/donnfelker"
+          },
+          {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "http://www.twitter.com/donnfelker"
+          },
+          {
+              "icon": "github",
+              "name": "GitHub",
+              "link": "http://www.github.com/donnfelker"
+          },
+          {
+              "icon": "website",
+              "name": "Website",
+              "link": "http://www.donnfelker.com/"
+          }
+      ]
+    },
+
+    "19": {
+      "id": 19,
+      "featured": true,
+      "name": "Westbrook Johnson",
+      "title": "Front End Developer",
+      "company": "Photo Shelter",
+      "companyLogo": "/images/dfnyc/logo_photoshelter.png",
+      "country": "New York, USA",
+      "photoUrl": "/images/dfnyc/speaker_westbrook.png",
+      "shortBio": "Westbrook leads front end development at PhotoShelter where he and his team work to bring modern products to wide array of photographer and organizational user looking to manage media assets in the cloud. ",
+      "bio": "Westbrook leads front end development at PhotoShelter where he and his team work to bring modern products to wide array of photographer and organizational user looking to manage media assets in the cloud. With the advent of web components he envisions a revolution of new first class elements that make building high quality web experiences easier and faster than ever before. When he's not coding, you'll probably find him in front of a music stand with his trombone, or slurping a delicious bowl of ramen with him lovely wife.",
+      "tags": [
+          "Polymer",
+          "Web",
+          "Components"
+      ],
+      "badges": [
+
+      ],
+      "socials": [
+          {
+              "icon": "linkedin",
+              "name": "LinkedIn",
+              "link": "https://www.linkedin.com/in/westbrook-johnson-8a2a213"
+          },
+          {
+              "icon": "website",
+              "name": "Website",
+              "link": "http://www.photoshelter.com/about/index/team/westbrook-johnson/"
+          }
+      ]
     }
 }
