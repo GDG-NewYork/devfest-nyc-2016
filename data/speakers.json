@@ -316,16 +316,15 @@
         "featured": false,
         "name": "Faisal Abid",
         "title": "Google Developer Expert, Web Technologies",
-        "company": "",
-        "companyLogo": "",
+        "company": "Ven Chat",
+        "companyLogo": "/images/dfnyc/logo-gde.png",
         "country": "Toronto, Canada",
         "photoUrl": "https://pbs.twimg.com/profile_images/609773106312413184/DYeKjqPx.jpg",
-        "shortBio": "Entrepreneur. Google Developer Expert. ",
-        "bio": "Faisal is an entrepreneur and engineer. He is also a programming language enthusiast and loves solving software engineering challenges across the stack",
+        "shortBio": "Faisal is a Google Developer Expert, Entrepreneur and Engineer. He is a programming language enthusiast and loves solving software engineering challenges across the stack.",
+        "bio": "Faisal is a Google Developer Expert, Entrepreneur and Engineer. He is a programming language enthusiast and loves solving software engineering challenges across the stack.",
         "tags": [
-            "Android",
+            "Dart",
             "Web",
-            "Firebase",
             "GDE"
         ],
         "badges": [

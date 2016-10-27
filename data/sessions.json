@@ -143,20 +143,20 @@
     },
     "19205": {
         "id": 19205,
-        "title": "Firebase/Android TBA",
-        "description": "TBA",
+        "title": "Introduction to Google Flutter",
+        "description": "Have you heard of Flutter? Chances are no! Get a head start and learn about this upcoming technology that lets you write native apps running 60fps on both iOS and Android with the same codebase!",
         "speakers": [ 9],
         "tags": [
-            "Android", "Cloud", "Firebase"
+            "Dart", "Web", "Mobile"
         ]
     },
     "19206": {
         "id": 19206,
-        "title": "Polymer & Web Components TBA",
+        "title": "Accelerated Mobile Pages (AMP) In Production",
         "description": "TBA",
-        "speakers": [ ],
+        "speakers": [ 16],
         "tags": [
-            "Web", "Firebase"
+            "Web", "AMP"
         ]
     },
 
@@ -165,7 +165,7 @@
         "id": 19207,
         "title": "Intro to Kubernetes",
         "description": "This on-demand community webinar is a perfect opportunity for anyone from a software engineering or systems / DevOps background to learn about Kubernetes fundamentals — including the history, origins and technical architecture of this exciting open source software project that is changing the game for Internet-scale computing in organizations of all sizes.",
-        "speakers": [ 7],
+        "speakers": [ 7, 8],
         "language": "English",
         "complexity": "Beginner",
         "tags": [
