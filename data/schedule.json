@@ -67,11 +67,11 @@
             { "startTime": "13:30", "endTime": "14:10", "sessions": [[ 20207 ]]},
             { "startTime": "14:10", "endTime": "14:40", "sessions": [[ 20208 ]]},
 
-            { "startTime": "15:00", "endTime": "16:00", "sessions": [[ 20102 ]]},
-            { "startTime": "16:00", "endTime": "16:30", "sessions": [[ 20103 ]]},
-            { "startTime": "16:30", "endTime": "17:00", "sessions": [[ 20104 ]]},
+            { "startTime": "14:50", "endTime": "16:30", "sessions": [[ 20102 ]]},
+            { "startTime": "16:30", "endTime": "17:00", "sessions": [[ 20103 ]]},
+            { "startTime": "17:00", "endTime": "17:30", "sessions": [[ 20104 ]]},
 
-            { "startTime": "17:00", "endTime": "17:30", "sessions": [[ 20004 ]]}
+            { "startTime": "17:30", "endTime": "18:00", "sessions": [[ 20004 ]]}
         ]
     }
 

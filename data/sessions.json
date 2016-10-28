@@ -154,7 +154,7 @@
         "id": 19206,
         "title": "Accelerated Mobile Pages (AMP) In Production",
         "description": "TBA",
-        "speakers": [ 16],
+        "speakers": [ 20],
         "tags": [
             "Web", "AMP"
         ]
@@ -163,6 +163,41 @@
 
     "19207": {
         "id": 19207,
+        "title": "Fireside Chat: Sree Srinivasan, Chief Digial Office (NYC)",
+        "description": " ",
+        "speakers": [ ],
+        "language": "English",
+        "tags": [
+            "Technology", "Government"
+        ]
+    },
+
+    "19208": {
+        "id": 19208,
+        "title": "Panel: The Future of Education & Competency-Based Learning",
+        "description": " ",
+        "speakers": [ ],
+        "language": "English",
+        "tags": [
+            "Panel", "Education"
+        ]
+    },
+
+    "19209": {
+        "id": 19209,
+        "title": "Panel: The Future of Machine Learning",
+        "description": " ",
+        "speakers": [ ],
+        "language": "English",
+        "tags": [
+            "Panel", "Machine Learning"
+        ]
+    },
+
+
+
+    "19210": {
+        "id": 19210,
         "title": "Intro to Kubernetes",
         "description": "This on-demand community webinar is a perfect opportunity for anyone from a software engineering or systems / DevOps background to learn about Kubernetes fundamentals — including the history, origins and technical architecture of this exciting open source software project that is changing the game for Internet-scale computing in organizations of all sizes.",
         "speakers": [ 7, 8],
@@ -173,8 +208,8 @@
         ]
     },
 
-    "19208": {
-        "id": 19208,
+    "19211": {
+        "id": 19211,
         "title": "Firebase Primitives",
         "description": "Firebase helps mobile and web developers create extraordinary apps. It abstracts complex infrastructure and simplifies the development process. By using Firebase, developers can build the best user experience in the shortest amount of time, all without having to spin up servers or manage infrastructure. We explore how Firebase authenticates users and synchronizes data by creating an app on stage. You’ll experience first hand how easy it is to build with Firebase!",
         "speakers": [ 14],
@@ -183,8 +218,8 @@
         ]
     },
 
-    "19209": {
-        "id": 19209,
+    "19212": {
+        "id": 19212,
         "title": "Firebase Analytics",
         "description": "TBA",
         "speakers": [ 13],
@@ -194,8 +229,9 @@
     },
 
 
-    "19210": {
-        "id": 19210,
+
+    "20201": {
+        "id": 20201,
         "title": "Android and the Seven Dwarfs",
         "description": "Android is a great OS and it's Java based programming environment has offered an easy learning curve, great adaptation but also brought its own pitfalls and problems. The httpclient shipped with android is buggy and outdated, Java's programming model does not encourage developers to use separate threads for non-ui related tasks, use of anonymous inner classes for listeners create a burden and ugly code and of course this list goes on. This talk will focus on seven great open source libraries which do fix Android's programming model, the way jquery fixes javascript. The libraries will be covered with example code, advantages, disadvantages, internals and when to use them.",
         "speakers": [ 11],
@@ -203,8 +239,8 @@
             "Android", "Mobile", "Libraries","Open Source"
         ]
     },
-    "19211": {
-        "id": 19211,
+    "20202": {
+        "id": 20202,
         "title": "Pixel perfect and practical: Everyday Android design workflows",
         "description": "In this session, we'll explore some common everyday workflows involved in Android design and walk through them step by step. (More details coming soon)",
         "speakers": [ 12],
@@ -212,19 +248,19 @@
             "Android", "Mobile", "Libraries","Open Source"
         ]
     },
-    "19212": {
-        "id": 19212,
-        "title": "Realm - A New Mobile Database and Object Framework",
-        "description": "So you need to store data in your mobile application? Great, now you need to work with SQLite. Writing SQL is great fun if you enjoy thinking about mapping your objects to a relational store over and over and over. But what if there was another solution? One that allowed you to work with objects and store them as such with a powerful query system. No transformations back and forth to a relational store. Well, you’re in luck, one does exist: Realm. Realm is a mobile object (MVCC) database that can do all of these things and more. In this session learn how you can rid yourself of SQL, SQLite and its binding chains so you can harness the power and speed of working with native objects in Realm.",
-        "speakers": [ 18],
+    "20203": {
+        "id": 20203,
+        "title": "Smoke and Mirrors",
+        "description": "Have you ever watched a trick and wondered, how did they do that? I wonder the same when using some great apps. In this talk I am going to talk about some of the smoke and mirrors used in the framework and one of my favorite apps: Google photos. I will show you some of the tricks behind them and how you can use them in your app!",
+        "speakers": [ 16],
         "tags": [
-            "Android", "Mobile", "Database"
+            "Android", "Mobile"
         ]
     },
 
 
-    "20201": {
-        "id": 20201,
+    "20204": {
+        "id": 20204,
         "title": "Polymer 2.0: What is it, why do you care, when can you take it home.",
         "description": "Polymer 2.0 is coming, look busy... Together we'll remember how the W3C has given us four really awesome news specs that come together like Voltron to empower front end developers like never before. We'll also look at how we've been making use of these powers, and the responsibilities that come with them, at PhotoShelter where web components continue to been a central part of major modernization work. Then we'll peer into the future and take a look at what's on deck with Polymer 2.0, some of the great new tools that will come with it, and how you too can start building the future, today!",
         "speakers": [ 19],
@@ -232,51 +268,44 @@
             "Polymer", "Web", "Web Components"
         ]
     },
-    "20202": {
-        "id": 20202,
-        "title": "GraphQL Talk: TBA",
+    "20205": {
+        "id": 20205,
+        "title": "Angular2 For Startups",
         "description": "TBA",
         "tags": [
-            "GraphQL", "Mobile", "Web"
+            "Angular2", "Web"
         ]
     },
-    "20203": {
-        "id": 20203,
-        "title": "Angular2 Talk",
-        "description": "TBA",
+    "20206": {
+        "id": 20206,
+        "title": "Angular2 & SEO",
+        "description": "In most JS frameworks, having dynamic metadata driven by route dependencies can be tricky. In most cases Google (and other search engines) will run an AJAX Crawl, and your JS to update the page may not work. In this talk we will go over the value of SEO, how to implement dynamic metadata, and a quick bit on how to make sure you're getting crawled correctly.",
+        "speakers": [ 21],
         "tags": [
             "Angular2", "Web", "SEO"
         ]
     },
 
-    "20204": {
-        "id": 20204,
-        "title": "Tech Talk / Code Lab",
-        "description": "Codelabs [PWA / VR / Firebase / Android / Physical Web / Mobile Vision / Analytics / Polymer]"
-    },
-    "20205": {
-        "id": 20205,
-        "title": "Tech Talk / Code Lab",
-        "description": "Codelabs [PWA / VR / Firebase / Android / Physical Web / Mobile Vision / Analytics / Polymer]"
-    },
-    "20206": {
-        "id": 20206,
-        "title": "Tech Talk / Code Lab ",
-        "description": "Codelabs [PWA / VR / Firebase / Android / Physical Web / Mobile Vision / Analytics / Polymer]"
-    },
+
+
     "20207": {
         "id": 20207,
-        "title": "Panel A: What's Next for Machine Learning in an AI-First World?",
-        "description": "TBA",
-        "image": "/images/dfnyc/bg_robotai.jpeg",
-        "speakers": [ ]
+        "title": "Realm - A New Mobile Database and Object Framework",
+        "description": "So you need to store data in your mobile application? Great, now you need to work with SQLite. Writing SQL is great fun if you enjoy thinking about mapping your objects to a relational store over and over and over. But what if there was another solution? One that allowed you to work with objects and store them as such with a powerful query system. No transformations back and forth to a relational store. Well, you’re in luck, one does exist: Realm. Realm is a mobile object (MVCC) database that can do all of these things and more. In this session learn how you can rid yourself of SQL, SQLite and its binding chains so you can harness the power and speed of working with native objects in Realm.",
+        "speakers": [ 18],
+        "tags": [
+            "Android", "Mobile", "Database"
+        ]
     },
     "20208": {
         "id": 20208,
-        "title": "Panel B: Competency or Autodidactism? The Future of Learning",
-        "description": "TBA",
-        "image": "/images/dfnyc/bg_learn.jpeg",
-        "speakers": [ ]
+        "title": "TBA - Graph QL talk",
+        "description": " "
+    },
+    "20209": {
+        "id": 20209,
+        "title": "TBA ",
+        "description": " "
     },
 
 
