@@ -6,14 +6,14 @@ Our 2016 DevFest Hackathon is inspired by our [2015 FireHacks](https://firehack.
 ### **THE PLAN**
 But we hope to do things a little differently this year. 
 * We are limiting the Hackathon to 50 or so attendees (ideally 12-15 teams)
-* We posted a [Hackathon CFP](bit.ly/devfestnyc-2016-hackcfp) to solicit applicants
+* We posted a [**Hackathon CFP**](http://bit.ly/devfestnyc-2016-hackcfp) to solicit applicants
 * We will invite a selected subset to form teams ahead of time, and assign them a mentor to help formulate ideas _before_ the event
 * Mentors will work with teams to ensure that both technology and business choices are made meaningfully, and that team roles are set ahead of start time.
 <br/><br/>
 
 By the time you arrive at the event, all you should have left to do -- is *CODE*. It is our hope that the process helps you by providing more structure and guidance early in the process, and helps us by allowing judges and audience to see a richer and more complete product pitch that they can really envision using in their daily lives.
 <br/>
-Interested in trying out for a team? [Sign up now](bit.ly/devfestnyc-2016-hackcfp) and start planning your next steps.
+Interested in trying out for a team? [**Sign up now**](http://bit.ly/devfestnyc-2016-hackcfp) and start planning your next steps.
 <br/><br/>
 
 ### **THE RULES**
