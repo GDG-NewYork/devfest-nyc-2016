@@ -148,7 +148,7 @@
       },
       {
         "name": "Joey Mejias",
-        "photoUrl": "http://photos3.meetupstatic.com/photos/member/1/6/1/f/member_242585663.jpeg",
+        "photoUrl": "http://photos3.meetupstatic.com/photos/member/7/7/5/1/highres_261390545.jpeg",
         "socials": [
           {
             "icon": "twitter",
@@ -161,7 +161,7 @@
             "name": "Linked In"
           }
         ],
-        "title": "Social Media"
+        "title": "Event MC & Social Media"
       },
       {
         "name": "Guillermo Sainz",
@@ -202,6 +202,11 @@
             "icon": "linkedin",
             "link": "https://www.linkedin.com/in/sreeprasadatrit",
             "name": "Linked In"
+          },
+          {
+            "icon": "github",
+            "link": "https://github.com/sreeprasad",
+            "name": "GitHub"
           }
         ],
         "title": "Hackathon Chair"
@@ -256,6 +261,11 @@
         "name": "Kathy Chang",
         "photoUrl": "http://photos4.meetupstatic.com/photos/member/1/9/f/a/member_259686650.jpeg",
         "socials": [
+          {
+            "icon": "github",
+            "link": "https://github.com/nychang",
+            "name": "GitHub"
+          }
         ],
         "title": "Hackathon Mentor"
       }
