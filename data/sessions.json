@@ -204,7 +204,7 @@
         "language": "English",
         "complexity": "Beginner",
         "tags": [
-            "Containers", "Kubernetes", "Cloud","IoT"
+            "Cloud","Containers"
         ]
     },
 
@@ -272,8 +272,9 @@
         "id": 20205,
         "title": "Angular2 For Startups",
         "description": "TBA",
+        "speakers": [ ],
         "tags": [
-            "Angular2", "Web"
+            "Web", "Angular"
         ]
     },
     "20206": {
@@ -282,7 +283,7 @@
         "description": "In most JS frameworks, having dynamic metadata driven by route dependencies can be tricky. In most cases Google (and other search engines) will run an AJAX Crawl, and your JS to update the page may not work. In this talk we will go over the value of SEO, how to implement dynamic metadata, and a quick bit on how to make sure you're getting crawled correctly.",
         "speakers": [ 21],
         "tags": [
-            "Angular2", "Web", "SEO"
+            "Web", "SEO", "Angular"
         ]
     },
 
