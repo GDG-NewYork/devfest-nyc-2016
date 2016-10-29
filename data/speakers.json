@@ -870,5 +870,43 @@
               "link": "http://facebook.com/sreenet"
           }
       ]
-    }
+    },
+
+    "24": {
+    "id": 24,
+    "featured": true,
+    "name": "Ben Milton",
+    "title": "Junior Developer",
+    "company": "Condé Nast",
+    "companyLogo": "/images/dfnyc/logo_conde_nast.png",
+    "country": "New York, USA",
+    "photoUrl": "/images/dfnyc/speaker_milton.jpg",
+    "shortBio": "Junior Developer on the Vogue team at Condé Nast.",
+    "bio": "Ben is a Junior Developer on the Vogue team at Condé Nast. He has experience in Javascript web development and has worked at a small e-comm startup and as a legislative analyst. Away from work, he is likely enjoying a bacon cheeseburger and a (relatively) affordable scotch.",
+    "tags": [
+        "JavaScript",
+        "NodeJS",
+        "Web"
+    ],
+    "badges": [
+
+    ],
+    "socials": [
+        {
+            "icon": "linkedin",
+            "name": "LinkedIn",
+            "link": "https://www.linkedin.com/in/benjaminmilton"
+        },
+        {
+            "icon": "twitter",
+            "name": "Twitter",
+            "link": "https://twitter.com/BenjaminMilton/"
+        },
+        {
+            "icon": "github",
+            "name": "GitHub",
+            "link": "https://github.com/bencmilton"
+        }
+    ]
+  }
 }

@@ -292,7 +292,11 @@
     "20207": {
         "id": 20207,
         "title": "TBA - Graph QL talk",
-        "description": " "
+        "description": " ",
+        "speakers": [ 24],
+        "tags": [
+            "Web", "GraphQL"
+        ]
     },
     "20208": {
         "id": 20208,
