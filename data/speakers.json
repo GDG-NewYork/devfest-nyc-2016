@@ -794,5 +794,81 @@
               "link": "https://github.com/MichaelSolati"
           }
       ]
+    },
+
+    "22": {
+      "id": 22,
+      "featured": true,
+      "name": "Juarez Filho",
+      "title": "Google Developer Expert",
+      "company": "",
+      "companyLogo": "/images/dfnyc/logo-gde.png",
+      "country": "Maceio, Brazil",
+      "photoUrl": "/images/dfnyc/speaker_juarez.jpg",
+      "shortBio": "Juarez is passionate about traveling and also to tell his adventures with Web Technologies and Google Products.",
+      "bio": "Juarez is passionate about traveling and also to tell his adventures with Web Technologies and Google Products. He joined the Google Developers Group program in 2014 and in 2016 got a Google Developer Expert nomination to help communities to learn, discover and have fun with Web Technologies.",
+      "tags": [
+          "Firebase",
+          "Angular",
+          "Web"
+      ],
+      "badges": [
+
+      ],
+      "socials": [
+          {
+              "icon": "linkedin",
+              "name": "LinkedIn",
+              "link": "https://www.linkedin.com/in/juarezpaf"
+          },
+          {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "https://twitter.com/juarezpaf"
+          },
+          {
+              "icon": "github",
+              "name": "GitHub",
+              "link": "https://github.com/juarezpaf"
+          }
+      ]
+    },
+
+    "23": {
+      "id": 23,
+      "featured": true,
+      "name": "Sree Sreenivasan",
+      "title": "Chief Digital Officer, NYC",
+      "company": "City of New York (@nycgov)",
+      "companyLogo": "/images/dfnyc/logo_nyc.png",
+      "country": "New York City, USA",
+      "photoUrl": "/images/dfnyc/speaker_sree.jpg",
+      "shortBio": "Sree Sreenivasan is Chief Digital Officer of NYC. Sree works with startups and tech companies to help them thrive in the world’s greatest city.",
+      "bio": "Sree Sreenivasan is Chief Digital Officer of NYC, and started in his new position on Oct 17, 2016. In announcing his role, Mayor Bill deBlasio (@NYCMayor) tweeted, “Welcome, @sree, as NYC’s new CDO! And onward to becoming the most tech-friendly, transparent, digitally equitable city in the world.” Sree works with City agencies and colleagues throughout the five boroughs to fulfill the goals laid out in that tweet and also works with startups and tech companies to help them thrive in the world’s greatest city. Before coming to City Hall, Sree spent three years as Chief Digital Officer of The Met and also worked for 21 years at Columbia University, teaching digital media at Columbia Journalism School and a year as the university’s first CDO. In 2015, he was named to Fast Company’s list of the 100 most creative people in business and in 2009 to Ad Age’s list of 25 people to follow on Twitter.",
+      "tags": [
+          "Mobile",
+          "Web",
+          "Government"
+      ],
+      "badges": [
+
+      ],
+      "socials": [
+          {
+              "icon": "linkedin",
+              "name": "LinkedIn",
+              "link": "http://LinkedIn.com/in/Sreenivasan"
+          },
+          {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "https://twitter.com/sree"
+          },
+          {
+              "icon": "facebook",
+              "name": "Facebook",
+              "link": "http://facebook.com/sreenet"
+          }
+      ]
     }
 }
