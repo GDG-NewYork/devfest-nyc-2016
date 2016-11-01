@@ -132,20 +132,20 @@
 
         ],
         "socials": [
-            {
-                "icon": "linkedin",
-                "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/TBD/"
-            },
+          {
+              "icon": "linkedin",
+              "name": "LinkedIn",
+              "link": "https://www.linkedin.com/in/leighscherrer",
+          },
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/TBD/"
+                "link": "https://twitter.com/leighsch",
             },
             {
                 "icon": "github",
                 "name": "GitHub",
-                "link": "https://github.com/TBD/"
+                "link": "https://github.com/leighsn"
             }
         ]
     },
