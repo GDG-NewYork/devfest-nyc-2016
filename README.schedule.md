@@ -4,13 +4,13 @@
 
 ####``` LOGISTICS ```
 
-```08:30am``` **Registration & Breakfast**
-```09:00am``` **Announcements**, _DevFest NYC Organizers_
-```12:00pm``` **Lunch: Pick up and go**
-```14:50pm``` **Coffee: Pick up and go**
-```17:30pm``` **Day 1 Sessions End**
-```18:00pm``` **==== After Party: Drinks & Demos ====**
-```21:00pm``` **Doors Close**
+ * ```08:30am``` **Registration & Breakfast** 
+ * ```09:00am``` **Announcements**, _DevFest NYC Organizers_
+ * ```12:00pm``` **Lunch: Pick up and go**
+ * ```14:50pm``` **Coffee: Pick up and go**
+ * ```17:30pm``` **Day 1 Sessions End**
+ * ```18:00pm``` **==== After Party: Drinks & Demos ====**
+ * ```21:00pm``` **Doors Close**
 
 </br>
 ####```TECH TALKS TRACK ```
@@ -57,6 +57,7 @@
 
 <br/>
 ####```HACKATHON TRACK```
+
 ```09:30am``` **Meet Your Mentors** _Team Checkin_
 ```13:30pm``` **Meet Your Mentors** _Review Plan_
 ```17:30pm``` **Meet Your Mentors** _Review Progress_
