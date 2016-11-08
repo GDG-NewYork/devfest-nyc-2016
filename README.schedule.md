@@ -15,8 +15,8 @@
 </br>
 ####```TECH TALKS TRACK ```
 
- * ```09:30am``` **How to create a startup with Angular2 and Firebase**, _Juarez Filho_ (GDE: Web)
- * ```10:10am``` **Introducing the G Suite APIs**, _Wesley Chun_ (Google Developer Advocate)
+ * ```09:30am``` **How to create a startup with Angular2 and Firebase**, [_Juarez Filho_](images/speakers/speaker_juarez.jpg) (GDE: Web)
+ * ```10:10am``` **Introducing the G Suite APIs**, [_Wesley Chun_](images/speakers/speaker_wes.jpg) (Google Developer Advocate)
  * ```10:50am``` **Tools & Libraries for Progressive Web Apps**, _Jeffrey Posnick_ (Google Web Developer Relations)
 
 ---
