@@ -81,7 +81,6 @@
         ]
     },
 
-
     "3": {
         "id": 3,
         "featured": true,
@@ -276,7 +275,7 @@
     "8": {
         "id": 8,
         "featured": false,
-        "name": "Ike Arias",
+        "name": "Isaac Arias",
         "title": "Cloud Technologies Expert",
         "company": "Apprenda",
         "companyLogo": "/images/dfnyc/logo_apprenda.png",
@@ -873,40 +872,78 @@
     },
 
     "24": {
-    "id": 24,
-    "featured": true,
-    "name": "Ben Milton",
-    "title": "Junior Developer",
-    "company": "Condé Nast",
-    "companyLogo": "/images/dfnyc/logo_condenast.png",
-    "country": "New York, USA",
-    "photoUrl": "/images/dfnyc/speaker_milton.jpg",
-    "shortBio": "Junior Developer on the Vogue team at Condé Nast.",
-    "bio": "Ben is a Junior Developer on the Vogue team at Condé Nast. He has experience in Javascript web development and has worked at a small e-comm startup and as a legislative analyst. Away from work, he is likely enjoying a bacon cheeseburger and a (relatively) affordable scotch.",
-    "tags": [
-        "JavaScript",
-        "NodeJS",
-        "Web"
-    ],
-    "badges": [
+        "id": 24,
+        "featured": true,
+        "name": "Ben Milton",
+        "title": "Junior Developer",
+        "company": "Condé Nast",
+        "companyLogo": "/images/dfnyc/logo_condenast.png",
+        "country": "New York, USA",
+        "photoUrl": "/images/dfnyc/speaker_milton.jpg",
+        "shortBio": "Junior Developer on the Vogue team at Condé Nast.",
+        "bio": "Ben is a Junior Developer on the Vogue team at Condé Nast. He has experience in Javascript web development and has worked at a small e-comm startup and as a legislative analyst. Away from work, he is likely enjoying a bacon cheeseburger and a (relatively) affordable scotch.",
+        "tags": [
+            "JavaScript",
+            "NodeJS",
+            "Web"
+        ],
+        "badges": [
 
-    ],
-    "socials": [
-        {
-            "icon": "linkedin",
-            "name": "LinkedIn",
-            "link": "https://www.linkedin.com/in/benjaminmilton"
-        },
-        {
-            "icon": "twitter",
-            "name": "Twitter",
-            "link": "https://twitter.com/BenjaminMilton/"
-        },
-        {
-            "icon": "github",
-            "name": "GitHub",
-            "link": "https://github.com/bencmilton"
-        }
-    ]
-  }
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/benjaminmilton"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/BenjaminMilton/"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/bencmilton"
+            }
+        ]
+    },
+
+    "25": {
+        "id": 25,
+        "featured": true,
+        "name": "Wesley Chun",
+        "title": "Google Developer Advocate",
+        "company": "Google",
+        "companyLogo": "/images/dfnyc/logo_google.png",
+        "country": "New York, USA",
+        "photoUrl": "/images/speakers/speaker_wes.jpg",
+        "shortBio": "Google Developer Advocate, Bestselling Author 'Core Python' ",
+        "bio": "MSCS. Author of Prentice Hall's bestselling 'Core Python' series, Co-author 'Python Web Development with Django'. Developer Advocate at Google. Principal at CyberWeb (cyberwebconsulting.com), a consultancy specializing in Python training. Wesley has over 25 years of programming, teaching, and writing experience, including being one of the original engineers of Yahoo!Mail. He holds degrees in CS, Math, and Music from the University of California. Wesley is a Fellow of the Python Software Foundation.",
+        "tags": [
+            "Apps",
+            "python",
+            "GSuite"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/wesleychun"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/wescpy/"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/wescpy"
+            }
+        ]
+    }
 }

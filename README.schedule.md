@@ -42,7 +42,7 @@
 
  * ```15:30am``` **Intro to Kubernetes**, _Chris Gaun & Issac Arias_ (Apprenda)
  * ```16:10am``` **Firebase Primitives**, _Frank Van Puffelen_ (Google Developer Advocate)
- * ```16:50am``` **Firebase Analytics**, _Mike Sibony_ (Google Software Engineer)
+ * ```16:50am``` **Firebase Analytics**, _Mika Sibony_ (Google Software Engineer)
 
 <br/>
 ####``` WORKSHOPS TRACK```
