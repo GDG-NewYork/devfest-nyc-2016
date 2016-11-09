@@ -6,9 +6,9 @@
         "name": "Joshua Gordon",
         "title": "Developr Advocate",
         "company": "Google",
-        "companyLogo": "/images/dfnyc/logo_google.png",
+        "companyLogo": "/images/logos/logo_google.png",
         "country": "New York, USA",
-        "photoUrl": "https://pbs.twimg.com/profile_images/727563430052253700/BOeTAInh.jpg",
+        "photoUrl": "/images/speakers/speaker_josh.jpg",
         "shortBio": "Josh Gordon is a Developer Advocate at Google working on TensorFlow.",
         "bio": "Josh Gordon is a Developer Advocate at Google working on TensorFlow. He’s interested in teaching and computer science education. He can often be found exploring central park on his bike. ",
         "tags": [
@@ -49,9 +49,9 @@
         "name": "Jeffrey Posnick",
         "title": "Chrome Developer Relations",
         "company": "Google",
-        "companyLogo": "/images/dfnyc/logo_google.png",
+        "companyLogo": "/images/logos/logo_google.png",
         "country": "New York, USA",
-        "photoUrl": "https://pbs.twimg.com/profile_images/671767628986359809/Ildp0k1k.jpg",
+        "photoUrl": "/images/speakers/speaker_jeff.jpg",
         "shortBio": "Jeff is a member of the Chrome Web Developer Relations team at Google. ",
         "bio": "TBD",
         "tags": [
@@ -66,17 +66,17 @@
             {
                 "icon": "linkedin",
                 "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/TBD/"
+                "link": "https://www.linkedin.com/in/jeffposnick"
             },
             {
                 "icon": "twitter",
                 "name": "Twitter",
-                "link": "https://twitter.com/TBD/"
+                "link": "https://twitter.com/jeffposnick"
             },
             {
                 "icon": "github",
                 "name": "GitHub",
-                "link": "https://github.com/TBD/"
+                "link": "https://github.com/jeffposnick"
             }
         ]
     },
@@ -87,14 +87,14 @@
         "name": "Yufeng Guo",
         "title": "Developer Advocate, Google Cloud Team",
         "company": "Google",
-        "companyLogo": "/images/dfnyc/logo_google.png",
+        "companyLogo": "/images/logos/logo_google.png",
         "country": "New York, USA",
-        "photoUrl": "/images/dfnyc/speaker_yufeng.jpg",
+        "photoUrl": "/images/speakers/speaker_yufeng.jpg",
         "shortBio": "Developer Advocate, Google Cloud Team.",
         "bio": "Yufeng has been building computers since elementary school and lives at the intersection of hardware and software. As a Google Developer Advocate, Yufeng bridges the gap between the developer community and engineering teams.  He is interested in combining IoT devices, big data, and machine learning, and loves learning new technologies.",
         "tags": [
             "Machine Learning",
-            "Google Cloud",
+            "Cloud Computing",
             "Tensor Flow"
         ],
         "badges": [
@@ -102,9 +102,19 @@
         ],
         "socials": [
             {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/yufeng"
+            },
+            {
                 "icon": "twitter",
                 "name": "Twitter",
                 "link": "https://twitter.com/YufengG/"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/yufengg"
             }
         ]
     },
@@ -115,15 +125,13 @@
         "name": "Leigh Scherrer",
         "title": "Web Developer & Instructor",
         "company": "The Flatiron School",
-        "companyLogo": "/images/dfnyc/fs-logo.png",
+        "companyLogo": "/images/logos/logo_fs.png",
         "country": "New York, USA",
         "photoUrl": "https://pbs.twimg.com/profile_images/762299156471934976/F5kZbSE0.jpg",
         "shortBio": "Web Developer, Teacher, & Lover of Most Things JavaScript and Ruby",
         "bio": "Web Developer, Teacher, & Lover of Most Things JavaScript and Ruby",
         "tags": [
             "Web",
-            "JavaScript",
-            "Ruby",
             "React",
             "Workshop"
         ],
@@ -145,6 +153,11 @@
                 "icon": "github",
                 "name": "GitHub",
                 "link": "https://github.com/leighsn"
+            },
+            {
+                "icon": "website",
+                "name": "Website",
+                "link": "https://flatironschool.com/programs/nyc-web-developer-career-course/"
             }
         ]
     },
@@ -155,16 +168,14 @@
         "name": "Jeffrey E Katz",
         "title": "Lead Instructor",
         "company": "The Flatiron School",
-        "companyLogo": "/images/dfnyc/fs-logo.png",
+        "companyLogo": "/images/logos/logo_fs.png",
         "country": "New York, USA",
-        "photoUrl": "/images/dfnyc/speaker_katz.png",
+        "photoUrl": "/images/speakers/speaker_katz.jpg",
         "shortBio": "Lead Instructor, Web Development",
         "bio": "Long Bio TBA ",
         "tags": [
-            "Rails",
-            "Design Patterns",
-            "JavaScript",
             "Web",
+            "React",
             "Workshop"
         ],
         "badges": [
@@ -174,17 +185,12 @@
             {
                 "icon": "linkedin",
                 "name": "LinkedIn",
-                "link": "https://www.linkedin.com/in/TBD/"
+                "link": "https://www.linkedin.com/in/jeff-katz-5417a65"
             },
             {
-                "icon": "twitter",
-                "name": "Twitter",
-                "link": "https://twitter.com/TBD/"
-            },
-            {
-                "icon": "github",
-                "name": "GitHub",
-                "link": "https://github.com/TBD/"
+                "icon": "website",
+                "name": "Website",
+                "link": "https://flatironschool.com/programs/nyc-web-developer-career-course/"
             }
         ]
     },
@@ -195,16 +201,14 @@
         "name": "Sophie DeBenedetto",
         "title": "Web Development Instructor,",
         "company": "The Flatiron School",
-        "companyLogo": "/images/dfnyc/fs-logo.png",
+        "companyLogo": "/images/logos/logo_fs.png",
         "country": "New York, USA",
-        "photoUrl": "https://avatars1.githubusercontent.com/u/8999596?v=3&s=400",
+        "photoUrl": "/images/speakers/speaker_sophie.jpg",
         "shortBio": "Web Development Instructor",
         "bio": "Web developer and teacher, always looking for the next bug to squash, always working to give my students the love of that chase. Areas of interest include Ruby on Rails, Ember, React + Redux. Dabbles in Elixir and Phoenix. ",
         "tags": [
-            "Rails",
-            "Design Patterns",
-            "JavaScript",
             "Web",
+            "React",
             "Workshop"
         ],
         "badges": [
@@ -227,7 +231,7 @@
                 "link": "https://github.com/SophieDeBenedetto"
             },
             {
-                "icon": "link",
+                "icon": "website",
                 "name": "Blog",
                 "link": "http://www.thegreatcodeadventure.com/"
             }
@@ -240,15 +244,14 @@
         "name": "Chris Gaun",
         "title": "Cloud Technologies Expert",
         "company": "Apprenda",
-        "companyLogo": "/images/dfnyc/logo_apprenda.png",
+        "companyLogo": "/images/logos/logo_apprenda.png",
         "country": "New York, USA",
-        "photoUrl": "https://pbs.twimg.com/profile_images/720983826688786433/Rpx2knU8.jpg",
+        "photoUrl": "/images/speakers/speaker_chris.jpg",
         "shortBio": "Physics nerd turned tech geek at Apprenda and rocking Kubernetes",
         "bio": "Physics nerd turned tech geek at Apprenda and rocking Kubernetes. He formerly worked as an analyst at Gartner covering public IaaS. ",
         "tags": [
-            "Kubernetes",
-            "Containers",
-            "Cloud Computing"
+            "Cloud Computing",
+            "Kubernetes"
         ],
         "badges": [
 
@@ -278,15 +281,14 @@
         "name": "Isaac Arias",
         "title": "Cloud Technologies Expert",
         "company": "Apprenda",
-        "companyLogo": "/images/dfnyc/logo_apprenda.png",
+        "companyLogo": "/images/logos/logo_apprenda.png",
         "country": "New York, USA",
-        "photoUrl": "https://pbs.twimg.com/profile_images/765632294740758528/BQSxFvlg.jpg",
+        "photoUrl": "/images/speakers/speaker_ike.jpg",
         "shortBio": "Ike Arias runs global team of engineers at Apprenda. His team of developers solely focus on contributing to upstream Kubernetes.",
         "bio": "Ike Arias runs global team of engineers at Apprenda. His team of developers solely focus on contributing to upstream Kubernetes.",
         "tags": [
-            "Kubernetes",
-            "Containers",
-            "Cloud Computing"
+            "Cloud Computing",
+            "Kubernetes"
         ],
         "badges": [
 
@@ -316,9 +318,9 @@
         "name": "Faisal Abid",
         "title": "Google Developer Expert, Web Technologies",
         "company": "Ven Chat",
-        "companyLogo": "/images/dfnyc/logo-gde.png",
+        "companyLogo": "/images/logos/logo_gde.png",
         "country": "Toronto, Canada",
-        "photoUrl": "https://pbs.twimg.com/profile_images/609773106312413184/DYeKjqPx.jpg",
+        "photoUrl": "/images/speakers/speaker_faisal.jpg",
         "shortBio": "Faisal is a Google Developer Expert, Entrepreneur and Engineer. He is a programming language enthusiast and loves solving software engineering challenges across the stack.",
         "bio": "Faisal is a Google Developer Expert, Entrepreneur and Engineer. He is a programming language enthusiast and loves solving software engineering challenges across the stack.",
         "tags": [
@@ -327,7 +329,6 @@
             "GDE"
         ],
         "badges": [
-
         ],
         "socials": [
             {
@@ -354,9 +355,9 @@
         "name": "Mike Nakhimovich",
         "title": "Senior Android Engineer",
         "company": "New York Times",
-        "companyLogo": "/images/dfnyc/logo_nyt_dev.png",
+        "companyLogo": "/images/logos/logo_nyt_dev.png",
         "country": "New York, USA",
-        "photoUrl": "https://pbs.twimg.com/profile_images/735455823938396161/DmC7AtFP.jpg",
+        "photoUrl": "/images/speakers/speaker_mikhail.jpg",
         "shortBio": "Google Developer Expert (Android). Android Developer @New York Times",
         "bio": "Google Developer Expert Android, Android Developer @New York Times, CoFounder of http://friendlyrobot.nyc : NY's friendliest Android dev shop. ",
         "tags": [
@@ -387,14 +388,13 @@
         "name": "Murat Yener",
         "title": "Android Geek & Google Developer Expert",
         "company": "Intel",
-        "companyLogo": "/images/dfnyc/logo_intel.png",
+        "companyLogo": "/images/logos/logo_intel.png",
         "country": "Mountain View, USA",
-        "photoUrl": "https://pbs.twimg.com/profile_images/707094519951429632/rUnMDUrX.jpg",
+        "photoUrl": "images/speakers/speaker_murat.jpg",
         "shortBio": "Code geek, Open Source committer, Java Champion and Google Developer Expert (Android) working at Intel",
         "bio": "Murat Yener is a code geek, open source committer, Java Champion and Google Developer Expert on Android, who is working at Intel as an Android developer. He is the author of Expert Android Studio and Professional Java EE Design Patterns books from Wiley. He has extensive experience with developing Android, Java, web, JavaEE, and OSGi applications, in addition to teaching courses and mentoring. Murat is an  Eclipse committer and one of the initial committers of the Eclipse Libra project. Murat has been a user group leader at GDG Istanbul since 2009, organizing, participating, and speaking at events. He is also a regular speaker at major conferences such as DroidCon, JavaOne and Devoxx.",
         "tags": [
             "Android",
-            "Java",
             "GDE",
             "Open Source"
         ],
@@ -426,14 +426,15 @@
         "name": "Liam Spradlin",
         "title": "Design Lead, Touchlab",
         "company": "Google",
-        "companyLogo": "images/dfnyc/logo_touchlab.png",
+        "companyLogo": "images/logos/logo_touchlab.png",
         "country": "New York, USA",
-        "photoUrl": "images/dfnyc/speaker_liam.jpeg",
+        "photoUrl": "images/speakers/speaker_liam.jpg",
         "shortBio": "Design Lead, TouchLab. Google Developer Expert",
         "bio": "Design Lead, TouchLab. Google Developer Expert",
         "tags": [
+            "Android",
             "Design",
-            "Android"
+            "GDE"
         ],
         "badges": [
 
@@ -463,14 +464,15 @@
         "name": "Mika Sibony",
         "title": "Software Engineer",
         "company": "Google",
-        "companyLogo": "/images/dfnyc/logo_google.png",
+        "companyLogo": "/images/logos/logo_google.png",
         "country": "Mountain View, USA",
-        "photoUrl": "/images/dfnyc/speaker_mika.jpg",
+        "photoUrl": "/images/speakers/speaker_mika.jpg",
         "shortBio": "Software Engineer, Google Firebase Team.",
         "bio": "Software Engineer, Google Firebase Team",
         "tags": [
             "Firebase",
-            "Analytics"
+            "Analytics",
+            "Android"
         ],
         "badges": [
 
@@ -490,14 +492,15 @@
         "name": "Frank Van Puffelen",
         "title": "Developer Advocate, Firebase",
         "company": "Google",
-        "companyLogo": "/images/dfnyc/logo_google.png",
+        "companyLogo": "/images/logos/logo_google.png",
         "country": "Mountain View, USA",
-        "photoUrl": "https://pbs.twimg.com/profile_images/501368041267933187/gNk85_-j_400x400.jpeg",
+        "photoUrl": "/images/speakers/speaker_puf.jpeg",
         "shortBio": "Software Engineer, Google Firebase Team.",
-        "bio": "Software Engineer, Google Firebase Team",
+        "bio": "Software Engineer & Developer Advocate, Google Firebase Team",
         "tags": [
             "Firebase",
-            "Analytics"
+            "Android",
+            "Web"
         ],
         "badges": [
 
@@ -527,14 +530,15 @@
         "name": "Andreas Mueller",
         "title": "Research Engineer, Machine Learning Author, scikit-learn Core Developer",
         "company": "Center for Data Science at NYU",
-        "companyLogo": "/images/dfnyc/logo_nyu.png",
+        "companyLogo": "/images/logos/logo_columbia.jpg",
         "country": "New York, USA",
-        "photoUrl": "https://pbs.twimg.com/profile_images/626083612459462657/P_fICj8M.jpg",
-        "shortBio": "Author, 'Introduction to Machine Learning with Python' and scikit-learn enthusiast",
-        "bio": " working on open source and open science. Machine learner, python geek and scikit-learn enthusiast.",
+        "photoUrl": "/images/speakers/speaker_andreas.jpg",
+        "shortBio": "Author, 'Introduction to Machine Learning with Python', sci-kit learn core contributor and lecturer at Data Science Institute, Columbia University",
+        "bio": "Andreas is a lecturer at the Data Science Institute at Columbia University and author of the O'Reilly book 'Introduction to machine learning with Python', describing a practical approach to machine learning with python and scikit-learn. He is a core developer of the scikit-learn machine learning library, and has been co-maintaining it for several years. He's also a Software Carpentry instructor. In the past, he worked at the NYU Center for Data Science on open source and open science, and as Machine Learning Scientist at Amazon",
         "tags": [
+            "Machine Learning",
             "Python",
-            "Machine Learning"
+            "Open Source"
         ],
         "badges": [
 
@@ -564,14 +568,15 @@
       "name": "Israel Ferrer Camacho",
       "title": "Android Engineer",
       "company": "Twitter",
-      "companyLogo": "/images/dfnyc/logo_twitter.png",
+      "companyLogo": "/images/logos/logo_twitter.png",
       "country": "New York, USA",
-      "photoUrl": "/images/dfnyc/speaker_rallat.jpeg",
+      "photoUrl": "/images/speakers/speaker_rallat.jpeg",
       "shortBio": "Israel has been developing Android apps since Cupcake. He is really interested in building reusable, testable and maintainable code, without forgetting to delight users with Material design experiences. Israel is currently working as Android developer at Twitter.",
       "bio": "",
       "tags": [
           "Android",
-          "Design"
+          "Design",
+          "GDE"
       ],
       "badges": [
 
@@ -601,14 +606,15 @@
       "name": "Lex Dreitser",
       "title": "Founder",
       "company": "VRVU",
-      "companyLogo": "/images/dfnyc/logo-vrvu.png",
+      "companyLogo": "/images/logos/logo_vrvu.png",
       "country": "New York, USA",
-      "photoUrl": "/images/dfnyc/speaker_lex.jpg",
+      "photoUrl": "/images/speakers/speaker_lex.jpg",
       "shortBio": "Lex is an award winning VR/AR developer, founder of VRVU, and host of the Build-Run podcast.",
       "bio": "Lex is an award winning VR/AR developer. Over 90% of Virtual Reality is made with Unity®. Lex is likely the foremost Unity® expert in NYC. When he’s not deep in code, developing the future of VR/AR for major brands, he runs NYC VR University – an official Unity® meetup where he and his team teach the community how to make VR and AR for free. He hosts a 360 video podcast for Unity® developers called Build and Run Build-Run.com. Join him on VRathon.com, an episodic iterative VR hackathon where you’re able to participate through 360 video.",
       "tags": [
           "Unity",
-          "Virtual Reality"
+          "Virtual Reality",
+          "AR"
       ],
       "badges": [
 
@@ -643,16 +649,15 @@
       "name": "Donn Felker",
       "title": "Google Developer Expert",
       "company": "Caster.io, Fragmented Podcast",
-      "companyLogo": "/images/dfnyc/logo-gde.png",
+      "companyLogo": "/images/logos/logo_gde.png",
       "country": "New York, USA",
-      "photoUrl": "https://pbs.twimg.com/profile_images/672192415105593344/BlDm62KP.jpg",
+      "photoUrl": "/images/speakers/speaker_donn.jpg",
       "shortBio": "Co-Host of the Fragmented Podcast. Lead instructor at Caster.IO. International Speaker on topics of Android and more. Author of multiple Android Books. Loves Chipotle and donuts.",
       "bio": "Co-Host of the Fragmented Podcast. Lead instructor at Caster.IO. International Speaker on topics of Android and more. Author of multiple Android Books. Loves Chipotle and donuts.",
       "tags": [
           "Android",
           "Realm",
-          "Mobile",
-          "Database"
+          "GDE"
       ],
       "badges": [
 
@@ -687,15 +692,14 @@
       "name": "Westbrook Johnson",
       "title": "Front End Developer",
       "company": "Photo Shelter",
-      "companyLogo": "/images/dfnyc/logo_photoshelter.png",
+      "companyLogo": "/images/logos/logo_photoshelter.png",
       "country": "New York, USA",
-      "photoUrl": "/images/dfnyc/speaker_westbrook.png",
+      "photoUrl": "/images/speakers/speaker_westbrook.png",
       "shortBio": "Westbrook leads front end development at PhotoShelter where he and his team work to bring modern products to wide array of photographer and organizational user looking to manage media assets in the cloud. ",
       "bio": "Westbrook leads front end development at PhotoShelter where he and his team work to bring modern products to wide array of photographer and organizational user looking to manage media assets in the cloud. With the advent of web components he envisions a revolution of new first class elements that make building high quality web experiences easier and faster than ever before. When he's not coding, you'll probably find him in front of a music stand with his trombone, or slurping a delicious bowl of ramen with him lovely wife.",
       "tags": [
           "Polymer",
-          "Web",
-          "Components"
+          "Web"
       ],
       "badges": [
 
@@ -720,15 +724,14 @@
       "name": "Oscar Perez",
       "title": "Software Engineer II",
       "company": "Condé Nast",
-      "companyLogo": "/images/dfnyc/logo_condenast.png",
+      "companyLogo": "/images/logos/logo_condenast.png",
       "country": "New York, USA",
-      "photoUrl": "https://pbs.twimg.com/profile_images/522787248463286272/TluKZqsI.jpeg",
+      "photoUrl": "/images/speakers/speaker_oscar.jpeg",
       "shortBio": "Software Engineer at Condé Nast's Digital Strategies and Initiatives department. Student in the Georgia Tech's OMSCS program.",
       "bio": "Oscar is a Software Engineer at Condé Nast. In the past he has worked at BlackBerry and a couple startups. Oscar has experience in desktop, mobile, and web development. He's also working on his Master's degree at Georgia Tech. While away from work/school, he's often found at the gym.",
       "tags": [
-          "AMP",
-          "NodeJS",
-          "Web"
+          "Web",
+          "Accelerated Mobile Pages"
       ],
       "badges": [
 
@@ -763,22 +766,22 @@
       "name": "Michael Solati",
       "title": "Meteor & Angular Developer",
       "company": "Checkmate Creations",
-      "companyLogo": "/images/dfnyc/logo_checkmate.png",
+      "companyLogo": "/images/logos/logo_checkmate.png",
       "country": "New York, USA",
-      "photoUrl": "/images/dfnyc/speaker_solati.jpg",
+      "photoUrl": "/images/speakers/speaker_solati.jpg",
       "shortBio": "Michael Solati is a Meteor and Angular developer with a love for Google tech. He works at a web shop in New Haven called Checkmate Creations while also is the organizer for GDG New Haven.",
       "bio": "Michael Solati is a Meteor and Angular developer with a love for Google tech. He works at a web shop in New Haven called Checkmate Creations while also is the organizer for GDG New Haven.",
       "tags": [
+          "Web",
           "Angular",
-          "Meteor",
-          "Web"
+          "Meteor"
       ],
       "badges": [
 
       ],
       "socials": [
           {
-              "icon": "link",
+              "icon": "website",
               "name": "Website",
               "link": "https://www.michaelsolati.com/"
           },
@@ -801,15 +804,15 @@
       "name": "Juarez Filho",
       "title": "Google Developer Expert",
       "company": "",
-      "companyLogo": "/images/dfnyc/logo-gde.png",
+      "companyLogo": "/images/logos/logo_gde.png",
       "country": "Maceio, Brazil",
-      "photoUrl": "/images/dfnyc/speaker_juarez.jpg",
+      "photoUrl": "/images/speakers/speaker_juarez.jpg",
       "shortBio": "Juarez is passionate about traveling and also to tell his adventures with Web Technologies and Google Products.",
       "bio": "Juarez is passionate about traveling and also to tell his adventures with Web Technologies and Google Products. He joined the Google Developers Group program in 2014 and in 2016 got a Google Developer Expert nomination to help communities to learn, discover and have fun with Web Technologies.",
       "tags": [
+          "Web",
           "Firebase",
-          "Angular",
-          "Web"
+          "Angular"
       ],
       "badges": [
 
@@ -839,15 +842,15 @@
       "name": "Sree Sreenivasan",
       "title": "Chief Digital Officer, NYC",
       "company": "City of New York (@nycgov)",
-      "companyLogo": "/images/dfnyc/logo_nyc.png",
-      "country": "New York City, USA",
-      "photoUrl": "/images/dfnyc/speaker_sree.jpg",
+      "companyLogo": "/images/logos/logo_nyc.png",
+      "country": "New York, USA",
+      "photoUrl": "/images/speakers/speaker_sree.jpg",
       "shortBio": "Sree Sreenivasan is Chief Digital Officer of NYC. Sree works with startups and tech companies to help them thrive in the world’s greatest city.",
       "bio": "Sree Sreenivasan is Chief Digital Officer of NYC, and started in his new position on Oct 17, 2016. In announcing his role, Mayor Bill deBlasio (@NYCMayor) tweeted, “Welcome, @sree, as NYC’s new CDO! And onward to becoming the most tech-friendly, transparent, digitally equitable city in the world.” Sree works with City agencies and colleagues throughout the five boroughs to fulfill the goals laid out in that tweet and also works with startups and tech companies to help them thrive in the world’s greatest city. Before coming to City Hall, Sree spent three years as Chief Digital Officer of The Met and also worked for 21 years at Columbia University, teaching digital media at Columbia Journalism School and a year as the university’s first CDO. In 2015, he was named to Fast Company’s list of the 100 most creative people in business and in 2009 to Ad Age’s list of 25 people to follow on Twitter.",
       "tags": [
-          "Mobile",
-          "Web",
-          "Government"
+          "Policy",
+          "Training",
+          "Startups"
       ],
       "badges": [
 
@@ -856,7 +859,7 @@
           {
               "icon": "linkedin",
               "name": "LinkedIn",
-              "link": "http://LinkedIn.com/in/Sreenivasan"
+              "link": "http://linkedIn.com/in/Sreenivasan"
           },
           {
               "icon": "twitter",
@@ -877,15 +880,14 @@
         "name": "Ben Milton",
         "title": "Junior Developer",
         "company": "Condé Nast",
-        "companyLogo": "/images/dfnyc/logo_condenast.png",
+        "companyLogo": "/images/logos/logo_condenast.png",
         "country": "New York, USA",
-        "photoUrl": "/images/dfnyc/speaker_milton.jpg",
+        "photoUrl": "/images/speakers/speaker_milton.jpg",
         "shortBio": "Junior Developer on the Vogue team at Condé Nast.",
         "bio": "Ben is a Junior Developer on the Vogue team at Condé Nast. He has experience in Javascript web development and has worked at a small e-comm startup and as a legislative analyst. Away from work, he is likely enjoying a bacon cheeseburger and a (relatively) affordable scotch.",
         "tags": [
-            "JavaScript",
-            "NodeJS",
-            "Web"
+            "Web",
+            "GraphQL"
         ],
         "badges": [
 
@@ -915,14 +917,14 @@
         "name": "Wesley Chun",
         "title": "Google Developer Advocate",
         "company": "Google",
-        "companyLogo": "/images/dfnyc/logo_google.png",
-        "country": "New York, USA",
+        "companyLogo": "/images/logos/logo_google.png",
+        "country": "Mountain View, USA",
         "photoUrl": "/images/speakers/speaker_wes.jpg",
         "shortBio": "Google Developer Advocate, Bestselling Author 'Core Python' ",
         "bio": "MSCS. Author of Prentice Hall's bestselling 'Core Python' series, Co-author 'Python Web Development with Django'. Developer Advocate at Google. Principal at CyberWeb (cyberwebconsulting.com), a consultancy specializing in Python training. Wesley has over 25 years of programming, teaching, and writing experience, including being one of the original engineers of Yahoo!Mail. He holds degrees in CS, Math, and Music from the University of California. Wesley is a Fellow of the Python Software Foundation.",
         "tags": [
-            "Apps",
-            "python",
+            "Web",
+            "Python",
             "GSuite"
         ],
         "badges": [
@@ -945,5 +947,188 @@
                 "link": "https://github.com/wescpy"
             }
         ]
+    },
+
+    "26": {
+        "id": 26,
+        "featured": true,
+        "name": "Wilson Lee",
+        "title": "Software Engineer",
+        "company": "Broadway.com",
+        "companyLogo": "/images/logos/logo_broadway.png",
+        "country": "New York, USA",
+        "photoUrl": "/images/speakers/speaker_wilson.jpeg",
+        "shortBio": "Android & Front-End Web Developer at Broadway.com ",
+        "bio": "Wilson is a developer at Broadway.com, focusing on web front-end and Android development. He is passionate about bringing together complex data and intuitive UI on web and mobile platforms. Away from work, he is an avid fan of musical theatre and comic books.",
+        "tags": [
+            "Web",
+            "Anroid"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/wilsonyhlee"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "https://twitter.com/wilsonyhlee"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "https://github.com/wilsonyhlee"
+            }
+        ]
+    },
+
+    "27": {
+      "id": 27,
+      "featured": true,
+      "name": "Antonino Rau",
+      "title": "Software Architect",
+      "company": "Condé Nast",
+      "companyLogo": "/images/logos/logo_condenast.png",
+      "country": "New York, USA",
+      "photoUrl": "/images/speakers/speaker_antonino.jpg",
+      "shortBio": "Software Architect & Technology Manager at Conde Nast",
+      "bio": "Technical Architect specialized in Content Intelligence with expertise in Natural Language Processing, Machine Learning, Object Oriented Analysis and Design.",
+      "tags": [
+          "Web",
+          "Machine Learning",
+          "Panelist"
+      ],
+      "badges": [
+
+      ],
+      "socials": [
+          {
+              "icon": "linkedin",
+              "name": "LinkedIn",
+              "link": "https://www.linkedin.com/in/antoninorau"
+          },
+          {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "https://twitter.com/antoninorau"
+          },
+          {
+              "icon": "github",
+              "name": "GitHub",
+              "link": "https://github.com/cnantoninor"
+          }
+      ]
+    },
+
+    "28": {
+      "id": 28,
+      "featured": true,
+      "name": "Jeffrey Smith",
+      "title": "Manager, Tech at x.ai",
+      "company": "x.ai",
+      "companyLogo": "/images/logos/logo_xai.png",
+      "country": "New York, USA",
+      "photoUrl": "/images/speakers/speaker_jeffsmith.jpg",
+      "shortBio": "Jeff Smith builds large-scale artificial intelligence systems and the teams behind them. He is a frequent speaker, blogger, and the author of Reactive Machine Learning Systems.",
+      "bio": "Jeff Smith builds large-scale artificial intelligence systems and the teams behind them. He is a frequent speaker, blogger, and the author of Reactive Machine Learning Systems, an upcoming book on how to build real world machine learning systems using functional programming, the actor model, and cartoon animals.",
+      "tags": [
+          "Web",
+          "Machine Learning",
+          "Panelist"
+      ],
+      "badges": [
+
+      ],
+      "socials": [
+          {
+              "icon": "linkedin",
+              "name": "LinkedIn",
+              "link": "https://www.linkedin.com/in/jeffksmithjr"
+          },
+          {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "https://twitter.com/jeffksmithjr"
+          },
+          {
+              "icon": "website",
+              "name": "Website",
+              "link": "http://www.reactivemachinelearning.com/"
+          }
+      ]
+    },
+
+    "29": {
+      "id": 29,
+      "featured": true,
+      "name": "Cesar Anton Dorantes",
+      "title": "Google Developer Expert (Web/Apps)",
+      "company": "NBCUniversal / EPAM",
+      "companyLogo": "/images/logos/logo_gde.png",
+      "country": "New York, USA",
+      "photoUrl": "/images/speakers/speaker_cesar.png",
+      "shortBio": "Google Developer Expert from LatAm, Analytics Technology Consultant @NBC Universal & Senior Software Engineer @ EPAM. Technical Writer, passionate about web technologies, drones and alternative energy sources.",
+      "bio": "Google Developer Expert from LatAm, Analytics Technology Consultant @ NBC Universal & Senior Software Engineer @ EPAM. Technical Writer, passionate about web technologies, drones and alternative energy sources.",
+      "tags": [
+          "Web",
+          "Firebase",
+          "Apps"
+      ],
+      "badges": [
+
+      ],
+      "socials": [
+          {
+              "icon": "linkedin",
+              "name": "LinkedIn",
+              "link": "https://www.linkedin.com/in/cesaranton"
+          },
+          {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "https://twitter.com/reicek"
+          },
+          {
+              "icon": "website",
+              "name": "Website",
+              "link": "https://developers.google.com/experts/people/cesar-anton-dorantes"
+          }
+      ]
+    },
+
+    "30": {
+      "id": 29,
+      "featured": true,
+      "name": "James Green",
+      "title": "Community Support",
+      "company": "Sketchfab",
+      "companyLogo": "/images/logos/logo_sketchfab.png",
+      "country": "New York, USA",
+      "photoUrl": "/images/speakers/speaker_james.jpg",
+      "shortBio": "Jack of all trades at Sketchfab, Craft beer enthusiast, Pokémon master.",
+      "bio": "Jack of all trades at Sketchfab, Craft beer enthusiast, Pokémon master.",
+      "tags": [
+          "Web",
+          "Vitual Reality"
+      ],
+      "badges": [
+
+      ],
+      "socials": [
+          {
+              "icon": "linkedin",
+              "name": "LinkedIn",
+              "link": "https://www.linkedin.com/in/jamestg"
+          },
+          {
+              "icon": "website",
+              "name": "Website",
+              "link": "https://blog.sketchfab.com/meet-james-our-favorite-community-support-guy/"
+          }
+      ]
     }
 }

@@ -5,17 +5,17 @@
       {
         "name": "Google",
         "url": "http://google.com",
-        "logoUrl": "../images/dfnyc/logo_google.png"
+        "logoUrl": "../images/logos/logo_google.png"
       },
       {
         "name": "NYT",
         "url": "http://developers.nytimes.com",
-        "logoUrl": "../images/dfnyc/logo_nyt_dev.png"
+        "logoUrl": "../images/logos/logo_nyt_dev.png"
       },
       {
         "name": "Condé Nast",
         "url": "http://creativity.condenast.com/",
-        "logoUrl": "../images/dfnyc/logo_condenast.png"
+        "logoUrl": "../images/logos/logo_condenast.png"
       }
     ]
   },
@@ -35,7 +35,7 @@
       {
         "name": "O'Reilly Partner",
         "url": "https://oreilly.com",
-        "logoUrl": "../images/dfnyc/logo-oreilly.jpg"
+        "logoUrl": "../images/logos/logo_oreilly.png"
       }
     ]
   },
