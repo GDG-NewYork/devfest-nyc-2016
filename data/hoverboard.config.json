@@ -138,9 +138,9 @@
       }
     ]
   },
-  
+
   "callToAction": {
-    "url": "http://bit.ly/devfestnyc-2016-cfp"
+    "url": "http://www.meetup.com/gdgnyc/events/231372162/"
   },
 
   "tickets": {
@@ -170,7 +170,7 @@
   "teamPageText": "team-page-text",
   "statistics": [
     {
-      "counter": 200,
+      "counter": 250,
       "caption": "attendees"
     },
     {
@@ -182,7 +182,7 @@
       "caption": "tracks"
     },
     {
-      "counter": 20,
+      "counter": 30,
       "caption": "talks"
     }
   ],

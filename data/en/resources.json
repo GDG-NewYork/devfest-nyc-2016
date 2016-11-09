@@ -43,7 +43,7 @@
   "early-ticket"            : "Early Bird",
   "early-ticket-starts"     : "Oct 19",
   "early-ticket-ends"       : "Nov 1",
-  "early-ticket-info"       : "limited quantities available",
+  "early-ticket-info"       : "Sold Out",
 
   "lazy-ticket"             : "Regular",
   "lazy-ticket-starts"      : "Oct 19",
@@ -77,8 +77,8 @@
   "featured-people-title"   : "Our Speakers",
   "featured-people-view-all": "View all speakers",
 
-  "action-title"            : "Speaker CFP is Open",
-  "action"                  : "Submit Proposal",
+  "action-title"            : "Pre-Event (Nov 18) Meetup @Google NYC",
+  "action"                  : "RSVP Now",
   "location-title"          : "Flatiron School, NYC",
   "location-description"    : "Flatiron School is an outcomes-focused coding bootcamp that has helped thousands of learners become valuable programmers.",
   "location-address"        : "11 Broadway #260, New York, NY 10004",

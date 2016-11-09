@@ -69,7 +69,7 @@
 
 
   {
-    "title": "Program & Planning",
+    "title": "Event Program",
     "members": [
       {
         "name": "Leigh Scherrer",
@@ -161,7 +161,7 @@
             "name": "Linked In"
           }
         ],
-        "title": "Event MC & Social Media"
+        "title": "Social Media"
       },
       {
         "name": "Guillermo Sainz",
@@ -179,13 +179,6 @@
           }
         ],
         "title": "Digital Marketing"
-      },
-      {
-        "name": "Raghav Bansal",
-        "photoUrl": "http://photos2.meetupstatic.com/photos/member/3/0/7/b/member_257532411.jpeg",
-        "socials": [
-        ],
-        "title": "Social Media"
       }
     ]
   },
