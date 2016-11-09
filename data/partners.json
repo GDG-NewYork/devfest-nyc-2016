@@ -16,6 +16,11 @@
         "name": "Condé Nast",
         "url": "http://creativity.condenast.com/",
         "logoUrl": "../images/logos/logo_condenast.png"
+      },
+      {
+        "name": "Caster.io",
+        "url": "https://caster.io",
+        "logoUrl": "../images/logos/logo_casterio.png"
       }
     ]
   },
