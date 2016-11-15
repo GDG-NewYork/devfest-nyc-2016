@@ -21,7 +21,7 @@
     },
     "19002": {
         "id": 19002,
-        "title": "Welcome & Announcements",
+        "title": "Welcome",
         "description": "Welcome from GDG Organizers. Get a sense of tracks and options. Then off we go..",
         "image": "/images/dfnyc/talk.jpeg"
     },
@@ -33,9 +33,15 @@
     },
     "19004": {
         "id": 19004,
-        "title": "Wrap-up ",
-        "description": "Thank you!!",
+        "title": "Community Conversations",
+        "description": "Lightning talks from community members",
         "image": "/images/dfnyc/talk.jpeg"
+    },
+    "19005": {
+        "id": 19005,
+        "title": "Social Hour",
+        "description": "Drinks, Networking & Activities",
+        "image": "/images/dfnyc/thanks.jpeg"
     },
 
 
@@ -57,7 +63,6 @@
         "description": "Thank you!!",
         "image": "/images/dfnyc/talk.jpeg"
     },
-
 
 
     "19100": {
@@ -86,19 +91,51 @@
     },
     "20103": {
         "id": 20103,
-        "title": "Hackathon: Voting & Surveys",
-        "description": "Judges Deliberate. Audience votes, completes survey!"
+        "title": "Hackathon: Audience & Judges Decision",
+        "description": "Judges Deliberate. Audience votes, completes survey!",
+        "image": "/images/dfnyc/hack.jpg"
     },
     "20104": {
         "id": 20104,
-        "title": "Hackathon: Raffle & Prizes",
-        "description": "Present final prizes! Raffle for audience."
+        "title": "Hackathon: Survey & Prizes",
+        "description": "Present final prizes! Raffle for audience.",
+        "image": "/images/dfnyc/hack.jpg"
     },
+
 
 
 
     "19201": {
         "id": 19201,
+        "title": "How to create a Startup with Angular 2 and Firebase",
+        "description": "Come up with an idea and make it true is not easy. Combining the latest version of Angular and Firebase you'll have the tools and infrastructure you need to build your idea and make it grow.",
+        "speakers": [ 22],
+        "tags": [
+            "Firebase", "Web"
+        ]
+    },
+    "19202": {
+        "id": 19202,
+        "title": "Introducing the GSuite APIs",
+        "description": "You may be familiar with Google's G Suite suite of productivity applications like Google Drive, Sheets, Calendar, Slides, Gmail, etc. But in addition to their user interfaces, each of these products also has a developer API. In this talk, we'll introduce you to the APIs so that you can dream up an application to make daily work even more efficient, whether it be a web or mobile app. Access to our APIs is enabled through a set of Client Libraries for a variety of languages. Users who may have tried & failed, run into roadblocks, been confused about using our APIs, or had security issues may find solutions to those issues in this talk. To keep things interesting, we'll attempt to do live demos of most of the APIs.",
+        "speakers": [ 25],
+        "tags": [
+            "Web", "Apps", "GSuite"
+        ]
+    },
+    "19203": {
+        "id": 19203,
+        "title": "Tools & Libraries for Progressive Web Apps",
+        "description": "TBA",
+        "speakers": [ 2],
+        "tags": [
+            "Web", "Tools"
+        ]
+    },
+
+
+    "19204": {
+        "id": 19204,
         "title": "Starry Night with TensorFlow",
         "description": "Deep Learning has led to impressive results in image classification, but can also be used to explore new possibilities in art. In this talk, I'll introduce Deep Learning using examples in TensorFlow, and demo open source code you can use to train your own image classifier, and create your own dreamlike and blended artwork. At the end, I'll share my favorite educational resources you can use to learn more about machine learning, and of course all about TensorFlow.",
         "speakers": [ 1],
@@ -108,8 +145,8 @@
             "Machine Learning", "Android"
         ]
     },
-    "19202": {
-        "id": 19202,
+    "19205": {
+        "id": 19205,
         "title": "Engineering Open Source Machine Learning Software",
         "description": "This talk lays out the principles guiding the design of scikit-learn, focussing on usability and maintainability. I'm also discussing some continuing challenges, like feature creep and increasing complexity, and future directions.",
         "speakers": [ 15],
@@ -119,8 +156,8 @@
             "Machine Learning", "Open Source"
         ]
     },
-    "19203": {
-        "id": 19203,
+    "19206": {
+        "id": 19206,
         "title": "Cloud Machine Learning APIs for fun and profit with Harry Potter",
         "description": "The entranceways to the dorms at Hogwarts were guarded by paintings that talked and asked for passwords. In this talk, see a real-world Harry Potter style personal 'security' system that can understand spoken passwords and see the people and objects that wish to gain entrance. Learn about how machine learning APIs will enable the next generation of smart devices, and explore other applications of machine learning in the real-world, both in present and in the future.",
         "speakers": [ 3],
@@ -132,68 +169,36 @@
     },
 
 
-    "19204": {
-        "id": 19204,
-        "title": "Tools & Libraries for Progressive Web Apps",
-        "description": "TBA",
-        "speakers": [ 2],
-        "tags": [
-            "Web", "Tools"
-        ]
-    },
-    "19205": {
-        "id": 19205,
-        "title": "Introduction to Google Flutter",
-        "description": "Have you heard of Flutter? Chances are no! Get a head start and learn about this upcoming technology that lets you write native apps running 60fps on both iOS and Android with the same codebase!",
-        "speakers": [ 9],
-        "tags": [
-            "Dart", "Web", "Mobile"
-        ]
-    },
-    "19206": {
-        "id": 19206,
-        "title": "Google AMP At Scale",
-        "description": "Google AMP (Accelerated Mobile Pages) makes the mobile web faster and predictable. Come learn about themotivations, challenges and outcomes of implementing Google AMP across 10 digital publications.",
-        "speakers": [ 20],
-        "tags": [
-            "Web", "AMP"
-        ]
-    },
-
-
     "19207": {
         "id": 19207,
         "title": "Fireside Chat: Sree Srinivasan, Chief Digial Office (NYC)",
         "description": " ",
-        "speakers": [ ],
+        "speakers": [ 23],
         "language": "English",
         "tags": [
             "Mobile", "Government"
         ]
     },
-
     "19208": {
         "id": 19208,
-        "title": "Panel: The Future of Education & Competency-Based Learning",
-        "description": " ",
-        "speakers": [ ],
-        "language": "English",
-        "tags": [
-            "Panel", "Education"
-        ]
-    },
-
-    "19209": {
-        "id": 19209,
-        "title": "Panel: The Future of Machine Learning",
-        "description": " ",
-        "speakers": [ ],
+        "title": "Panel: What's Next For Machine Learning?",
+        "description": "What's next for machine learning? We'll discuss its usage and future in deep learning, open source, computer vision, media advertising and conversational commerce.",
+        "speakers": [1, 15, 27, 28, 32],
         "language": "English",
         "tags": [
             "Panel", "Machine Learning"
         ]
     },
-
+    "19209": {
+        "id": 19209,
+        "title": "Android Continuous Integration",
+        "description": "Automatising the build and release project will save you time and prevent you from manual mistakes… as long as it is done correctly. This talk will explore which tools and techniques you should use to automatise your Android project and how to correctly apply Continuous Integration – from Jenkins to Gradle scripting – and provide useful tricks and release strategies. Android testing will be showcased and the talk will also propose strategies on how and when apply tests in conjunction with a CI process.",
+        "speakers": [ 33],
+        "language": "English",
+        "tags": [
+            "Android", "Performance", "Testing"
+        ]
+    },
 
 
     "19210": {
@@ -207,7 +212,6 @@
             "Cloud","Containers"
         ]
     },
-
     "19211": {
         "id": 19211,
         "title": "Firebase Primitives",
@@ -217,7 +221,6 @@
             "Firebase", "Mobile", "Web"
         ]
     },
-
     "19212": {
         "id": 19212,
         "title": "Firebase Analytics",
@@ -227,8 +230,6 @@
             "Firebase", "Mobile", "Web","Analytics"
         ]
     },
-
-
 
     "20201": {
         "id": 20201,
@@ -250,7 +251,7 @@
     },
     "20203": {
         "id": 20203,
-        "title": "Smoke and Mirrors",
+        "title": "Smoke and Mirrors in Android UI",
         "description": "Have you ever watched a trick and wondered, how did they do that? I wonder the same when using some great apps. In this talk I am going to talk about some of the smoke and mirrors used in the framework and one of my favorite apps: Google photos. I will show you some of the tricks behind them and how you can use them in your app!",
         "speakers": [ 16],
         "tags": [
@@ -258,9 +259,26 @@
         ]
     },
 
-
     "20204": {
         "id": 20204,
+        "title": "Introduction to Google Flutter",
+        "description": "Have you heard of Flutter? Chances are no! Get a head start and learn about this upcoming technology that lets you write native apps running 60fps on both iOS and Android with the same codebase!",
+        "speakers": [ 9],
+        "tags": [
+            "Dart", "Web", "Mobile"
+        ]
+    },
+    "20205": {
+        "id": 20205,
+        "title": "Google AMP At Scale",
+        "description": "Google AMP (Accelerated Mobile Pages) makes the mobile web faster and predictable. Come learn about themotivations, challenges and outcomes of implementing Google AMP across 10 digital publications.",
+        "speakers": [ 20],
+        "tags": [
+            "Web", "AMP"
+        ]
+    },
+    "20206": {
+        "id": 20206,
         "title": "Polymer 2.0: What is it, why do you care, when can you take it home.",
         "description": "Polymer 2.0 is coming, look busy... Together we'll remember how the W3C has given us four really awesome news specs that come together like Voltron to empower front end developers like never before. We'll also look at how we've been making use of these powers, and the responsibilities that come with them, at PhotoShelter where web components continue to been a central part of major modernization work. Then we'll peer into the future and take a look at what's on deck with Polymer 2.0, some of the great new tools that will come with it, and how you too can start building the future, today!",
         "speakers": [ 19],
@@ -268,31 +286,11 @@
             "Polymer", "Web", "Web Components"
         ]
     },
-    "20205": {
-        "id": 20205,
-        "title": "How to create a Startup with Angular 2 and Firebase",
-        "description": "Come up with an idea and make it true is not easy. Combining the latest version of Angular and Firebase you'll have the tools and infrastructure you need to build your idea and make it grow.",
-        "speakers": [ 22],
-        "tags": [
-            "Web", "Angular"
-        ]
-    },
-    "20206": {
-        "id": 20206,
-        "title": "Angular2 & SEO",
-        "description": "In most JS frameworks, having dynamic metadata driven by route dependencies can be tricky. In most cases Google (and other search engines) will run an AJAX Crawl, and your JS to update the page may not work. In this talk we will go over the value of SEO, how to implement dynamic metadata, and a quick bit on how to make sure you're getting crawled correctly.",
-        "speakers": [ 21],
-        "tags": [
-            "Web", "SEO", "Angular"
-        ]
-    },
-
-
 
     "20207": {
         "id": 20207,
-        "title": "TBA - Graph QL talk",
-        "description": " ",
+        "title": "A Dose of GraphQL: A Cure for Ar-REST-ed Development",
+        "description": "GraphQL is a specification developed by Facebook that brings a more declarative approach to APIs than the current standard, REST. Come for a discussion of core GraphQL concepts, as well as lessons learned from using it in production at vogue.com. No knowledge of GraphQL is needed, but a basic knowledge of REST APIs will be helpful.",
         "speakers": [ 24],
         "tags": [
             "Web", "GraphQL"
@@ -300,13 +298,21 @@
     },
     "20208": {
         "id": 20208,
-        "title": "TBA - IoT Talk",
-        "description": " "
+        "title": "ngmeta gotchu: SEO Performance in Angular",
+        "description": "In most JS frameworks, having dynamic metadata driven by route dependencies can be tricky. In most cases Google (and other search engines) will run an AJAX Crawl, and your JS to update the page may not work. In this talk we will go over the value of SEO, how to implement dynamic metadata, and a quick bit on how to make sure you're getting crawled correctly.",
+        "speakers": [ 21],
+        "tags": [
+            "Web", "Angular"
+        ]
     },
     "20209": {
         "id": 20209,
-        "title": "TBA ",
-        "description": " "
+        "title": "Interactive UI for Complex (and Unusual) Data with D3.js",
+        "description": "D3.js empowers developers to bring complex data to life. I will first give a brief introduction to this popular JavaScript library. Then I will dive deep into two unconventional use cases: the newly launched interactive theatre seating charts on Broadway.com and a dashboard for legislative data from the US Congress.",
+        "speakers": [ 26],
+        "tags": [
+            "Web", "Mobile"
+        ]
     },
 
 
@@ -326,7 +332,7 @@
         "title": "Android Performance Workshop",
         "description": "We will be going through an interactive workshop fixing common performance issues.  Topics will include: speeding up json serialization, scroll performance and startup time.",
         "image": "/images/dfnyc/bg.jpg",
-        "speakers": [ 10 ],
+        "speakers": [ 10, 34],
         "tags": [
             "Android", "Performance"
         ]
@@ -372,22 +378,32 @@
             "Android", "Mobile", "Libraries","Open Source"
         ]
     },
+
     "20303": {
         "id": 20303,
-        "title": "Workshop SUN-7",
-        "description": "TBA",
-        "image": "/images/dfnyc/bg.jpg",
+        "title": "Sketchfab: Developing for 3D and WebVR",
+        "description": "Sketchfab is the leading platform for publishing and sharing 3D models and Virtual Reality scenes. In this session, we will give a brief overview of the Sketchfab APIs and show off some in-the-wild examples.",
+        "speakers": [ 30, 31],
         "tags": [
-            "Android"
+            "Web", "WebVR"
         ]
     },
     "20304": {
         "id": 20304,
-        "title": "Workshop SUN-8",
-        "description": "TBA",
-        "image": "/images/dfnyc/bg.jpg",
+        "title": "Getting started with WebRTC",
+        "description": "From API to codecs, main things you need to know to start integrating WebRTC on your projects.",
+        "speakers": [ 29],
         "tags": [
-            "Android"
+            "Web", "WebRTC"
+        ]
+    },
+    "20305": {
+        "id": 20305,
+        "title": "Scratch your Blockly Itch: How to run an Hour of Code",
+        "description": "Scratch and Blockly are visual programming environments that are popular for teaching beginners to code. But they are also tools for creating fun and familiar experiences for new classes of devices. In this talk I'll share my experiences with these platorms as well as tips & insights for running an Hour of Code in December.",
+        "speakers": [ 35],
+        "tags": [
+            "Web", "Mobile", "EdTech"
         ]
     }
 
