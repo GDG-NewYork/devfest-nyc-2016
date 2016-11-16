@@ -171,7 +171,7 @@
 
     "19207": {
         "id": 19207,
-        "title": "Fireside Chat: Sree Srinivasan, Chief Digial Office (NYC)",
+        "title": "Fireside Chat: Sree Srinivasan, Chief Digital Officer (NYC)",
         "description": "A conversation on 'How we're making NYC the most tech-friendly, most transparent and most digitally-equitable city in the world' ",
         "speakers": [ 23],
         "language": "English",
@@ -361,7 +361,7 @@
     "20301": {
         "id": 20301,
         "title": "Tensor Flow & Deep Learning (without a Phd)",
-        "description": "Google has recently open-sourced its framework for machine learning and neural networks called Tensorflow. With this new tool, deep machine learning transitions from an area of research into mainstream software engineering. In this session, we will teach you how to choose the right neural network for your problem and how to make it behave. Familiarity with differential equations is no longer required. Instead, a couple of lines of Tensor Flow Python, and a bag of `tricks of the trade` will do the job. No previous Python knowledge required,",
+        "description": "Google has recently open-sourced its framework for machine learning and neural networks called Tensorflow. With this new tool, deep machine learning transitions from an area of research into mainstream software engineering. In this session, we will teach you how to choose the right neural network for your problem and how to make it behave. Familiarity with differential equations is no longer required. Instead, a couple of lines of Tensor Flow Python, and a bag of tricks of the trade will do the job. No previous Python knowledge required.",
         "image": "/images/dfnyc/bg.jpg",
         "speakers": [ 3 ],
         "tags": [
