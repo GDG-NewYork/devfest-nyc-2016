@@ -126,7 +126,7 @@
     "19203": {
         "id": 19203,
         "title": "Tools & Libraries for Progressive Web Apps",
-        "description": "TBA",
+        "description": "Jeff will cover Lighthouse, an automated test suite that helps guides developers on their Progressive Web App journey. He'll also explain how service worker libraries can jumpstart your Progressive Web App development, making it easier to create web apps that load instantly while following best practices.",
         "speakers": [ 2],
         "tags": [
             "Web", "Tools"
@@ -172,7 +172,7 @@
     "19207": {
         "id": 19207,
         "title": "Fireside Chat: Sree Srinivasan, Chief Digial Office (NYC)",
-        "description": " ",
+        "description": "A conversation on 'How we're making NYC the most tech-friendly, most transparent and most digitally-equitable city in the world' ",
         "speakers": [ 23],
         "language": "English",
         "tags": [
@@ -224,7 +224,7 @@
     "19212": {
         "id": 19212,
         "title": "Firebase Analytics",
-        "description": "TBA",
+        "description": "At the heart of Firebase is Firebase Analytics, a free and unlimited analytics tool that provides insight into app usage and user engagement. In this talk, you will learn how to optimize usage of your apps with the various tools and integrations that Firebase Analytics offers. We'll also look at  some of the cool new features that have been announced since I/O",
         "speakers": [ 13],
         "tags": [
             "Firebase", "Mobile", "Web","Analytics"

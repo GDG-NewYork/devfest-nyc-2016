@@ -53,7 +53,7 @@
         "country": "New York, USA",
         "photoUrl": "/images/speakers/speaker_jeff.jpg",
         "shortBio": "Jeff is a member of the Chrome Web Developer Relations team at Google. ",
-        "bio": "TBD",
+        "bio": "Jeff Posnick has worked for the past nine years as a member of Google's Developer Relations team, and is based in NYC. He's currently focused on building tools and libraries that take the work out of using service workers.",
         "tags": [
             "Web",
             "Progressive Web Apps",
@@ -172,7 +172,7 @@
         "country": "New York, USA",
         "photoUrl": "/images/speakers/speaker_katz.jpg",
         "shortBio": "Lead Instructor, Web Development",
-        "bio": "Long Bio TBA ",
+        "bio": "Lead Instructor, Web Development at Flatiron School",
         "tags": [
             "Web",
             "React",
@@ -466,9 +466,9 @@
         "company": "Google",
         "companyLogo": "/images/logos/logo_google.png",
         "country": "Mountain View, USA",
-        "photoUrl": "/images/speakers/speaker_mika.jpg",
-        "shortBio": "Software Engineer, Google Firebase Team.",
-        "bio": "Software Engineer, Google Firebase Team",
+        "photoUrl": "/images/speakers/speaker_mika.png",
+        "shortBio": "Front-End Software Engineer, Firebase Team @Google",
+        "bio": "Mika is a Front-end Software Engineer for Firebase at Google. She is passionate about helping developers gain insight into their user behaviour and engagement, and helping them make informed decisions to improve their app. Before Firebase Analytics, Mika worked on Google Analytics and Google Trends. She holds a Master's of Bioinformatics from The University of Toronto, and a Bachelor's degree in Computer Science from Ben Gurion University.",
         "tags": [
             "Firebase",
             "Analytics",
