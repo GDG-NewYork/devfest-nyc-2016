@@ -53,7 +53,7 @@
         "country": "New York, USA",
         "photoUrl": "/images/speakers/speaker_jeff.jpg",
         "shortBio": "Jeff is a member of the Chrome Web Developer Relations team at Google. ",
-        "bio": "TBD",
+        "bio": "Jeff Posnick has worked for the past nine years as a member of Google's Developer Relations team, and is based in NYC. He's currently focused on building tools and libraries that take the work out of using service workers.",
         "tags": [
             "Web",
             "Progressive Web Apps",
@@ -172,7 +172,7 @@
         "country": "New York, USA",
         "photoUrl": "/images/speakers/speaker_katz.jpg",
         "shortBio": "Lead Instructor, Web Development",
-        "bio": "Long Bio TBA ",
+        "bio": "Lead Instructor, Web Development at Flatiron School",
         "tags": [
             "Web",
             "React",
@@ -466,9 +466,9 @@
         "company": "Google",
         "companyLogo": "/images/logos/logo_google.png",
         "country": "Mountain View, USA",
-        "photoUrl": "/images/speakers/speaker_mika.jpg",
-        "shortBio": "Software Engineer, Google Firebase Team.",
-        "bio": "Software Engineer, Google Firebase Team",
+        "photoUrl": "/images/speakers/speaker_mika.png",
+        "shortBio": "Front-End Software Engineer, Firebase Team @Google",
+        "bio": "Mika is a Front-end Software Engineer for Firebase at Google. She is passionate about helping developers gain insight into their user behaviour and engagement, and helping them make informed decisions to improve their app. Before Firebase Analytics, Mika worked on Google Analytics and Google Trends. She holds a Master's of Bioinformatics from The University of Toronto, and a Bachelor's degree in Computer Science from Ben Gurion University.",
         "tags": [
             "Firebase",
             "Analytics",
@@ -812,7 +812,8 @@
       "tags": [
           "Web",
           "Firebase",
-          "Angular"
+          "Angular",
+          "GDE"
       ],
       "badges": [
 
@@ -962,7 +963,7 @@
         "bio": "Wilson is a developer at Broadway.com, focusing on web front-end and Android development. He is passionate about bringing together complex data and intuitive UI on web and mobile platforms. Away from work, he is an avid fan of musical theatre and comic books.",
         "tags": [
             "Web",
-            "Anroid"
+            "Android"
         ],
         "badges": [
 
@@ -1076,7 +1077,7 @@
       "tags": [
           "Web",
           "Firebase",
-          "Apps"
+          "GDE"
       ],
       "badges": [
 
@@ -1113,7 +1114,7 @@
       "bio": "Jack of all trades at Sketchfab, Craft beer enthusiast, Pokémon master.",
       "tags": [
           "Web",
-          "Vitual Reality"
+          "Virtual Reality"
       ],
       "badges": [
 
@@ -1130,5 +1131,183 @@
               "link": "https://blog.sketchfab.com/meet-james-our-favorite-community-support-guy/"
           }
       ]
+    },
+
+    "31": {
+      "id": 31,
+      "featured": true,
+      "name": "Guillermo Sainz",
+      "title": "",
+      "company": "Sketchfab",
+      "companyLogo": "/images/logos/logo_sketchfab.png",
+      "country": "New York, USA",
+      "photoUrl": "/images/speakers/speaker_guillermo.jpg",
+      "shortBio": "Front-End Web Developer, digital marketer and VR enthusiast. Growth @Sketchfab, Marketing manager @TEDxNewYork.",
+      "bio": "Front-End Web Developer, digital marketer and VR enthusiast. Growth @Sketchfab, Marketing manager @TEDxNewYork.",
+      "tags": [
+          "Web",
+          "Virtual Reality"
+      ],
+      "badges": [
+
+      ],
+      "socials": [
+          {
+              "icon": "linkedin",
+              "name": "LinkedIn",
+              "link": "https://www.linkedin.com/in/gsainz"
+          },
+          {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "https://twitter.com/guillermosainz"
+          }
+      ]
+    },
+
+    "32": {
+      "id": 32,
+      "featured": true,
+      "name": "Matthew Zeiler",
+      "title": "AI Expert, CoFounder @Clarifai",
+      "company": "Clarifai",
+      "companyLogo": "/images/logos/logo_clarifai.png",
+      "country": "New York, USA",
+      "photoUrl": "/images/speakers/speaker_matt.png",
+      "shortBio": "Matthew Zeiler is an artificial intelligence expert with a Ph.D. in machine learning from NYU. As the founder of Clarifai, Matt is applying his award-winning research to create the best visual recognition solutions for businesses and developers and power the next generation of intelligent apps.",
+      "bio": "Matthew Zeiler is an artificial intelligence expert with a Ph.D. in machine learning from NYU. His groundbreaking research in visual recognition, alongside renowned machine learning pioneers Geoff Hinton and Yann LeCun, has propelled the image recognition industry from theory to real-world practice. As the founder of Clarifai, Matt is applying his award-winning research to create the best visual recognition solutions for businesses and developers and power the next generation of intelligent apps.",
+      "tags": [
+          "Machine Learning",
+          "Computer Vision",
+          "Panelist"
+      ],
+      "badges": [
+
+      ],
+      "socials": [
+          {
+              "icon": "linkedin",
+              "name": "LinkedIn",
+              "link": "https://www.linkedin.com/in/mattzeiler"
+          },
+          {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "https://twitter.com/mattzeiler"
+          }
+      ]
+    },
+
+    "33": {
+      "id": 33,
+      "featured": true,
+      "name": "Enrique López Mañas",
+      "title": "",
+      "company": "Google Developer Expert",
+      "companyLogo": "/images/logos/logo_gde.png",
+      "country": "Munich, Germany",
+      "photoUrl": "/images/speakers/speaker_enrique.jpeg",
+      "shortBio": "Google Developer Expert (Android), Indie Android Developer, 'Android High Performance' Author",
+      "bio": "Google Developer Expert (Android), Indie Android Developer, 'Android High Performance' Author (bit.ly/EnriqueLopezManas)",
+      "tags": [
+          "Android",
+          "Mobile",
+          "GDE"
+      ],
+      "badges": [
+
+      ],
+      "socials": [
+          {
+              "icon": "linkedin",
+              "name": "LinkedIn",
+              "link": "https://www.linkedin.com/in/eenriquelopez"
+          },
+          {
+              "icon": "github",
+              "name": "GitHub",
+              "link": "https://github.com/kikoso"
+          },
+          {
+              "icon": "website",
+              "name": "Website",
+              "link": "http://www.lopez-manas.com/"
+          },
+          {
+              "icon": "twitter",
+              "name": "Twitter",
+              "link": "https://twitter.com/eenriquelopez"
+          }
+      ]
+    },
+
+    "34": {
+        "id": 34,
+        "featured": true,
+        "name": "Brian Plummer",
+        "title": "Senior Android Developer",
+        "company": "New York Times / FriendlyRobot",
+        "companyLogo": "/images/logos/logo_nyt_dev.png",
+        "country": "New York, USA",
+        "photoUrl": "/images/speakers/speaker_brian.jpg",
+        "shortBio": "Passionate Android Developer.Build product @New York Times, CoFounder of http://friendlyrobot.nyc : NY's friendliest Android dev shop. ",
+        "bio": "Passionate Android Developer. Build product @New York Times, CoFounder of http://friendlyrobot.nyc : NY's friendliest Android dev shop. ",
+        "tags": [
+            "Android",
+            "Performance"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/brian-plummer-a566822"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "http://github.com/brianplummer"
+            }
+        ]
+    },
+
+    "35": {
+        "id": 35,
+        "featured": true,
+        "name": "Nitya Narasiman",
+        "title": "Organizer @GDG New York. Startup Engineering @DigitalHV",
+        "company": "GDG New York",
+        "companyLogo": "/images/logos/logo_gdgnyc.png",
+        "country": "New York, USA",
+        "photoUrl": "/images/speakers/speaker_nitya.jpg",
+        "shortBio": "Organizer @GDG New York, Mobile/Web Startup Engineering @DigitalHV. Passionate about Education & Comptency-Based Learning. PhD (Comp Eng).",
+        "bio": "Organizer @GDG New York, Startup Engineering @DigitalHV. Passionate about Education & Comptency-Based Learning. PhD (Comp Eng).",
+        "tags": [
+            "Mobile",
+            "Web",
+            "Education"
+        ],
+        "badges": [
+
+        ],
+        "socials": [
+            {
+                "icon": "linkedin",
+                "name": "LinkedIn",
+                "link": "https://www.linkedin.com/in/nityan"
+            },
+            {
+                "icon": "github",
+                "name": "GitHub",
+                "link": "http://github.com/nitya"
+            },
+            {
+                "icon": "twitter",
+                "name": "Twitter",
+                "link": "http://twitter.com/nitya"
+            }
+        ]
     }
 }
