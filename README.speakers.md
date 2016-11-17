@@ -30,6 +30,8 @@
  28. **Jeffrey K. Smith**, x.ai
  29. **Cesar Anton**, NBCUniversal/EPAM Systens, GDE (Web/Apps)
  30. **James Green**, Sketchfab
+ 31. **Enrique Lopez**, GDE
+ 32. **Brian Plummer**, NY Times
 
 To Be Added (30-35)
  * (5) Education Panelists
