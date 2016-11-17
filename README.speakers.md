@@ -32,6 +32,9 @@
  30. **James Green**, Sketchfab
  31. **Enrique Lopez**, GDE
  32. **Brian Plummer**, NY Times
+ 33. **Nitya Narasimhan**, GDG New York
+ 34. **Guillermo Sainz**, Sketchfab
+ 35. **Matthew Zeiler**, Clarifai
 
 To Be Added (30-35)
  * (5) Education Panelists
