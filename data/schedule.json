@@ -27,13 +27,13 @@
 
             { "startTime": "13:30", "endTime": "15:30", "sessions": [[ 19303 ]]},
             { "startTime": "13:30", "endTime": "14:10", "sessions": [[ 19207 ]]},
-            { "startTime": "14:10", "endTime": "14:40", "sessions": [[ 19208 ]]},
-            { "startTime": "14:40", "endTime": "15:30", "sessions": [[ 19209 ]]},
+            { "startTime": "14:10", "endTime": "14:50", "sessions": [[ 19208 ]]},
+            { "startTime": "14:50", "endTime": "15:30", "sessions": [[ 19209 ]]},
 
             { "startTime": "15:30", "endTime": "17:30", "sessions": [[ 19304 ]]},
             { "startTime": "15:30", "endTime": "16:10", "sessions": [[ 19210 ]]},
-            { "startTime": "16:10", "endTime": "16:40", "sessions": [[ 19211 ]]},
-            { "startTime": "16:40", "endTime": "17:30", "sessions": [[ 19212 ]]},
+            { "startTime": "16:10", "endTime": "16:50", "sessions": [[ 19211 ]]},
+            { "startTime": "16:50", "endTime": "17:30", "sessions": [[ 19212 ]]},
 
             { "startTime": "17:30", "endTime": "18:00", "sessions": [[ 19004 ]]},
             { "startTime": "18:00", "endTime": "20:00", "sessions": [[ 19005 ]]}
