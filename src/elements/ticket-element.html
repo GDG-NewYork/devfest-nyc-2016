@@ -1,4 +1,4 @@
-<link rel="import" href="../../bower_components/polymer/polymer.html">
+<html><head><link rel="import" href="../../bower_components/polymer/polymer.html">
 
 <link rel="import" href="../../bower_components/iron-flex-layout/iron-flex-layout.html">
 <link rel="import" href="../../bower_components/iron-icon/iron-icon.html">
@@ -6,7 +6,7 @@
 <link rel="import" href="../styles/shared-styles.html">
 
 
-<dom-module id="ticket-element">
+</head><body><dom-module id="ticket-element">
 
   <template>
 
@@ -142,56 +142,7 @@
     <div class="overlay" hidden$="{{!soldOut}}">[[soldOutText]]</div>
   </template>
 
-  <script>
-    (function () {
-      'use strict';
-
-      Polymer({
-
-        is: 'ticket-element',
-
-        behaviors: [
-          HOVERBOARD.LocalizeBehavior
-        ],
-
-        properties: {
-          type: {
-            type: String
-          },
-
-          price: {
-            type: Number
-          },
-
-          currency: {
-            type: String
-          },
-
-          starts: {
-            type: String
-          },
-
-          ends: {
-            type: String
-          },
-
-          info: {
-            type: String
-          },
-
-          soldOut: {
-            type: Boolean,
-            value: false
-          },
-
-          soldOutText: {
-            type: String
-          }
-        }
-
-      });
-
-    }());
-  </script>
+  <script>!function(){"use strict";Polymer({is:"ticket-element",behaviors:[HOVERBOARD.LocalizeBehavior],properties:{type:{type:String},price:{type:Number},currency:{type:String},starts:{type:String},ends:{type:String},info:{type:String},soldOut:{type:Boolean,value:!1},soldOutText:{type:String}}})}();</script>
 
 </dom-module>
+</body></html>

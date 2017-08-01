@@ -1,4 +1,4 @@
-<link rel="import" href="../../bower_components/polymer/polymer.html">
+<html><head><link rel="import" href="../../bower_components/polymer/polymer.html">
 
 <link rel="import" href="../../bower_components/iron-flex-layout/iron-flex-layout.html">
 
@@ -9,7 +9,7 @@
 <link rel="import" href="ticket-element.html">
 
 
-<dom-module id="tickets-block">
+</head><body><dom-module id="tickets-block">
 
   <template>
 
@@ -71,48 +71,18 @@
       </div>
       <div class="tickets-wrapper">
         <template is="dom-repeat" items="[[app.data.tickets.elements]]" as="ticket">
-          <ticket-element
-            type="[[localize(ticket.name)]]"
-            price="[[ticket.price]]"
-            currency="[[ticket.currency]]"
-            starts="[[localize(ticket.starts)]]"
-            ends="[[localize(ticket.ends)]]"
-            info="[[localize(ticket.info)]]"
-            sold-out="[[ticket.soldOut]]"
-            sold-out-text="[[localize('sold-out-tickets')]]"
-          ></ticket-element>
+          <ticket-element type="[[localize(ticket.name)]]" price="[[ticket.price]]" currency="[[ticket.currency]]" starts="[[localize(ticket.starts)]]" ends="[[localize(ticket.ends)]]" info="[[localize(ticket.info)]]" sold-out="[[ticket.soldOut]]" sold-out-text="[[localize('sold-out-tickets')]]"></ticket-element>
         </template>
       </div>
       <div class="details">[[localize('tickets-details')]]</div>
       <a href$="[[app.data.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
-        <paper-button class="buy-button" raised>[[localize('buy-ticket')]]</paper-button>
+        <paper-button class="buy-button" raised="">[[localize('buy-ticket')]]</paper-button>
       </a>
     </div>
 
   </template>
 
-  <script>
-    (function () {
-      'use strict';
-
-      Polymer({
-        is: 'tickets-block',
-
-        behaviors: [
-          HOVERBOARD.LocalizeBehavior
-        ],
-
-        ready: function () {
-          HOVERBOARD.Elements.Tickets = this;
-        },
-
-        _trackBuyClick: function (e) {
-          HOVERBOARD.Analytics.trackEvent('ticket', 'buy_click', e.currentTarget.href);
-        }
-
-      });
-
-    }());
-  </script>
+  <script>!function(){"use strict";Polymer({is:"tickets-block",behaviors:[HOVERBOARD.LocalizeBehavior],ready:function(){HOVERBOARD.Elements.Tickets=this},_trackBuyClick:function(t){HOVERBOARD.Analytics.trackEvent("ticket","buy_click",t.currentTarget.href)}})}();</script>
 
 </dom-module>
+</body></html>

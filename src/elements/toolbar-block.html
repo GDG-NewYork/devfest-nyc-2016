@@ -1,4 +1,4 @@
-<link rel="import" href="../../bower_components/polymer/polymer.html">
+<html><head><link rel="import" href="../../bower_components/polymer/polymer.html">
 
 <link rel="import" href="../../bower_components/app-layout/app-toolbar/app-toolbar.html">
 
@@ -14,7 +14,7 @@
 <link rel="import" href="../behaviors/localize-behavior.html">
 
 
-<dom-module id="toolbar-block">
+</head><body><dom-module id="toolbar-block">
 
   <template>
 
@@ -80,25 +80,20 @@
         <paper-icon-button icon="menu" on-tap="togglePanel"></paper-icon-button>
       </div>
       <div class="logo-wrapper">
-        <a href="/" hidden$="{{hideLogo}}" fade>
-          <iron-image
-            class="logo"
-            src="/images/logo-white.svg"
-            sizing="contain"
-            alt="{{localize('title')}}"
-          ></iron-image>
+        <a href="/" hidden$="{{hideLogo}}" fade="">
+          <iron-image class="logo" src="/images/logo-white.svg" sizing="contain" alt="{{localize('title')}}"></iron-image>
         </a>
       </div>
-      <div class="navItem" layout horizontal self-end>
+      <div class="navItem" layout="" horizontal="" self-end="">
         <template is="dom-if" if="[[!app.isPhoneSize]]">
-          <paper-tabs selected="[[app.page]]" attr-for-selected="name" noink>
+          <paper-tabs selected="[[app.page]]" attr-for-selected="name" noink="">
             <template is="dom-repeat" items="[[app.data.navigation]]" as="nav">
-              <paper-tab name="[[nav.route]]" link>
+              <paper-tab name="[[nav.route]]" link="">
                 <a href$="[[nav.permalink]]" class="nav-link">{{localize(nav.route)}}</a>
               </paper-tab>
             </template>
           </paper-tabs>
-          <div class="action-button-wrapper" layout horizontal center-center>
+          <div class="action-button-wrapper" layout="" horizontal="" center-center="">
             <a href$="[[app.data.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">
               <paper-button class="action-button">[[localize('buy-ticket')]]</paper-button>
             </a>
@@ -109,48 +104,7 @@
 
   </template>
 
-  <script>
-    (function () {
-      'use strict';
-
-      Polymer({
-
-        is: 'toolbar-block',
-
-        behaviors: [
-          HOVERBOARD.LocalizeBehavior,
-          HOVERBOARD.UtilsBehavior
-        ],
-
-        properties: {
-          hideLogo: {
-            type: Boolean
-          }
-        },
-
-        observers: [
-          '_stylesChanged(app.headerSettings)'
-        ],
-
-        togglePanel: function () {
-          HOVERBOARD.Elements.Template.toggleDrawer();
-        },
-
-        _stylesChanged: function (headerSettings) {
-          if (headerSettings) {
-            this.customStyle['--header-color'] = headerSettings.fontColor;
-            this.hideLogo = headerSettings.hideLogo;
-            this.updateStyles();
-          }
-        },
-
-        _trackBuyClick: function () {
-          HOVERBOARD.Analytics.trackEvent('ticket', 'buy_click', 'toolbar');
-        }
-
-      });
-
-    }());
-  </script>
+  <script>!function(){"use strict";Polymer({is:"toolbar-block",behaviors:[HOVERBOARD.LocalizeBehavior,HOVERBOARD.UtilsBehavior],properties:{hideLogo:{type:Boolean}},observers:["_stylesChanged(app.headerSettings)"],togglePanel:function(){HOVERBOARD.Elements.Template.toggleDrawer()},_stylesChanged:function(e){e&&(this.customStyle["--header-color"]=e.fontColor,this.hideLogo=e.hideLogo,this.updateStyles())},_trackBuyClick:function(){HOVERBOARD.Analytics.trackEvent("ticket","buy_click","toolbar")}})}();</script>
 
 </dom-module>
+</body></html>

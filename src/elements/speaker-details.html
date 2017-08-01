@@ -1,4 +1,4 @@
-<link rel="import" href="../../bower_components/polymer/polymer.html">
+<html><head><link rel="import" href="../../bower_components/polymer/polymer.html">
 
 <link rel="import" href="../../bower_components/iron-dropdown/iron-dropdown-scroll-manager.html">
 <link rel="import" href="../../bower_components/iron-image/iron-image.html">
@@ -20,7 +20,7 @@
 <link rel="import" href="truncate-marked-text.html">
 
 
-<dom-module id="speaker-details">
+</head><body><dom-module id="speaker-details">
 
   <template>
 
@@ -29,11 +29,10 @@
     <paper-scroll-header-panel id="scrollHeaderPanel" condenses="{{app.isPhoneSize}}" no-reveal="{{!app.isPhoneSize}}">
       <paper-toolbar class="tall">
         <a href="/speakers">
-          <paper-icon-button class="back-button" dialog-dismiss icon="arrow-back"></paper-icon-button>
+          <paper-icon-button class="back-button" dialog-dismiss="" icon="arrow-back"></paper-icon-button>
         </a>
         <div class="middle fallback-image-wrapper" hidden$="{{app.isPhoneSize}}">
-          <iron-image class="fallback-image" src="/images/logo-white.svg"
-                      alt="[[localize('title')]]"></iron-image>
+          <iron-image class="fallback-image" src="/images/logo-white.svg" alt="[[localize('title')]]"></iron-image>
         </div>
         <div id="title" class="bottom title toolbar-title" hidden$="{{!app.isPhoneSize}}">[[speaker.name]]</div>
       </paper-toolbar>
@@ -80,12 +79,8 @@
                       <span class="badge" target="_blank" rel="noopener noreferrer">[[tag]]</span>
                     </template>
                   </div>
-                  <truncate-marked-text
-                    text="[[session.description]]"
-                    characters="220"
-                    break-last-word
-                  ></truncate-marked-text>
-                  <a class="read-more" href$="/schedule/day[[session.day]]?sessionId=[[session.id]]" dialog-dismiss>[[localize('read-more')]]</a>
+                  <truncate-marked-text text="[[session.description]]" characters="220" break-last-word=""></truncate-marked-text>
+                  <a class="read-more" href$="/schedule/day[[session.day]]?sessionId=[[session.id]]" dialog-dismiss="">[[localize('read-more')]]</a>
 
                 </div>
               </div>
@@ -97,87 +92,7 @@
 
   </template>
 
-  <script>
-    (function () {
-      'use strict';
-
-      Polymer({
-
-        is: 'speaker-details',
-
-        behaviors: [
-          Polymer.PaperDialogBehavior,
-          Polymer.NeonAnimationRunnerBehavior,
-          HOVERBOARD.LocalizeBehavior,
-          HOVERBOARD.UtilsBehavior
-        ],
-
-        properties: {
-          speaker: {
-            type: Object,
-            observer: '_speakerChanged',
-            notify: true
-          }
-        },
-
-        listeners: {
-          'neon-animation-finish': '_onNeonAnimationFinish'
-        },
-
-        ready: function () {
-          var title = this.$.title;
-          addEventListener('paper-header-transform', function (e) {
-            var d = e.detail;
-            var m = d.height - d.condensedHeight;
-            var transform = 40 * (d.y / m > 1 ? 1 : d.y / m);
-            Polymer.Base.translate3d(transform + 'px', 0, 0, title);
-          });
-        },
-
-        _speakerChanged: function () {
-          var generatedClass = this._generateClass(this.speaker.tags[0]);
-          this.customStyle['--paper-scroll-header-panel-color'] = 'var(--' + generatedClass + ')';
-          this._previousBrowserColor = HOVERBOARD.Util.getMetaThemeColor();
-          HOVERBOARD.Util.setMetaThemeColor(this.getComputedStyleValue('--' + generatedClass));
-
-          if (this.app.isPhoneSize) {
-            this.$.scrollHeaderPanel.$.headerBg.style.background = 'linear-gradient(to top, rgba(0, 0, 0, 0.4) -10%, rgba(0, 0, 0, 0.1) 50%), url(' + this.speaker.photoUrl + ') 0 / cover no-repeat';
-          }
-          this.updateStyles();
-        },
-
-        _renderOpened: function () {
-          if (this.withBackdrop && !this.app.isPhoneSize) {
-            this.backdropElement.open();
-          }
-          this.playAnimation('entry');
-          this.async(function () {
-            this.$.scrollHeaderPanel.scroll(1, true);
-            this.$.scrollHeaderPanel.notifyResize();
-          });
-          HOVERBOARD.Analytics.trackEvent('speaker', 'open details', this.speaker.name);
-        },
-
-        _renderClosed: function () {
-          HOVERBOARD.Util.setMetaThemeColor(this._previousBrowserColor);
-          this.backdropElement.close();
-          this.playAnimation('exit');
-        },
-
-        _onNeonAnimationFinish: function () {
-          if (this.opened) {
-            Polymer.IronDropdownScrollManager.pushScrollLock(this.$.scrollHeaderPanel);
-            this._finishRenderOpened();
-          } else {
-            Polymer.IronDropdownScrollManager.removeScrollLock(this.$.scrollHeaderPanel);
-            this._finishRenderClosed();
-          }
-
-        }
-
-      });
-
-    }());
-  </script>
+  <script>!function(){"use strict";Polymer({is:"speaker-details",behaviors:[Polymer.PaperDialogBehavior,Polymer.NeonAnimationRunnerBehavior,HOVERBOARD.LocalizeBehavior,HOVERBOARD.UtilsBehavior],properties:{speaker:{type:Object,observer:"_speakerChanged",notify:!0}},listeners:{"neon-animation-finish":"_onNeonAnimationFinish"},ready:function(){var e=this.$.title;addEventListener("paper-header-transform",function(r){var o=r.detail,t=o.height-o.condensedHeight,i=40*(o.y/t>1?1:o.y/t);Polymer.Base.translate3d(i+"px",0,0,e)})},_speakerChanged:function(){var e=this._generateClass(this.speaker.tags[0]);this.customStyle["--paper-scroll-header-panel-color"]="var(--"+e+")",this._previousBrowserColor=HOVERBOARD.Util.getMetaThemeColor(),HOVERBOARD.Util.setMetaThemeColor(this.getComputedStyleValue("--"+e)),this.app.isPhoneSize&&(this.$.scrollHeaderPanel.$.headerBg.style.background="linear-gradient(to top, rgba(0, 0, 0, 0.4) -10%, rgba(0, 0, 0, 0.1) 50%), url("+this.speaker.photoUrl+") 0 / cover no-repeat"),this.updateStyles()},_renderOpened:function(){this.withBackdrop&&!this.app.isPhoneSize&&this.backdropElement.open(),this.playAnimation("entry"),this.async(function(){this.$.scrollHeaderPanel.scroll(1,!0),this.$.scrollHeaderPanel.notifyResize()}),HOVERBOARD.Analytics.trackEvent("speaker","open details",this.speaker.name)},_renderClosed:function(){HOVERBOARD.Util.setMetaThemeColor(this._previousBrowserColor),this.backdropElement.close(),this.playAnimation("exit")},_onNeonAnimationFinish:function(){this.opened?(Polymer.IronDropdownScrollManager.pushScrollLock(this.$.scrollHeaderPanel),this._finishRenderOpened()):(Polymer.IronDropdownScrollManager.removeScrollLock(this.$.scrollHeaderPanel),this._finishRenderClosed())}})}();</script>
 
 </dom-module>
+</body></html>

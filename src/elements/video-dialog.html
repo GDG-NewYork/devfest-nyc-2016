@@ -1,4 +1,4 @@
-<link rel="import" href="../../bower_components/polymer/polymer.html">
+<html><head><link rel="import" href="../../bower_components/polymer/polymer.html">
 
 <link rel="import" href="../../bower_components/iron-flex-layout/iron-flex-layout.html">
 <link rel="import" href="../../bower_components/iron-dropdown/iron-dropdown-scroll-manager.html">
@@ -14,7 +14,7 @@
 <link rel="import" href="../styles/shared-styles.html">
 
 
-<dom-module id="video-dialog">
+</head><body><dom-module id="video-dialog">
 
   <template>
 
@@ -52,79 +52,12 @@
       <span>[[videoTitle]]</span>
     </paper-toolbar>
     <div class="video-wrapper">
-      <google-youtube
-        id="video"
-        class="video"
-        video-id="[[youtubeId]]"
-        width="100%"
-        height="100%"
-        autohide="1"
-        chromeless="[[disableControls"
-      ></google-youtube>
+      <google-youtube id="video" class="video" video-id="[[youtubeId]]" width="100%" height="100%" autohide="1" chromeless="[[disableControls"></google-youtube>
     </div>
 
   </template>
 
-  <script>
-    (function () {
-      'use strict';
-
-      Polymer({
-
-        is: 'video-dialog',
-
-        behaviors: [
-          Polymer.PaperDialogBehavior,
-          Polymer.NeonAnimationRunnerBehavior
-        ],
-
-        properties: {
-          videoTitle: {
-            type: String
-          },
-
-          youtubeId: {
-            type: String
-          },
-
-          disableControls: {
-            type: Boolean,
-            value: false
-          }
-        },
-
-        listeners: {
-          'neon-animation-finish': '_onNeonAnimationFinish'
-        },
-
-        _renderOpened: function () {
-          if (this.withBackdrop) {
-            this.backdropElement.open();
-          }
-          this.playAnimation('entry');
-          this.$.video.play();
-        },
-
-        _renderClosed: function () {
-          this.$.video.seekTo(0);
-          this.$.video.pause();
-          this.backdropElement.close();
-          this.playAnimation('exit');
-        },
-
-        _onNeonAnimationFinish: function () {
-          if (this.opened) {
-            Polymer.IronDropdownScrollManager.pushScrollLock(this);
-            this._finishRenderOpened();
-          } else {
-            Polymer.IronDropdownScrollManager.removeScrollLock(this);
-            this._finishRenderClosed();
-          }
-        }
-
-      });
-
-    })();
-  </script>
+  <script>!function(){"use strict";Polymer({is:"video-dialog",behaviors:[Polymer.PaperDialogBehavior,Polymer.NeonAnimationRunnerBehavior],properties:{videoTitle:{type:String},youtubeId:{type:String},disableControls:{type:Boolean,value:!1}},listeners:{"neon-animation-finish":"_onNeonAnimationFinish"},_renderOpened:function(){this.withBackdrop&&this.backdropElement.open(),this.playAnimation("entry"),this.$.video.play()},_renderClosed:function(){this.$.video.seekTo(0),this.$.video.pause(),this.backdropElement.close(),this.playAnimation("exit")},_onNeonAnimationFinish:function(){this.opened?(Polymer.IronDropdownScrollManager.pushScrollLock(this),this._finishRenderOpened()):(Polymer.IronDropdownScrollManager.removeScrollLock(this),this._finishRenderClosed())}})}();</script>
 
 </dom-module>
+</body></html>

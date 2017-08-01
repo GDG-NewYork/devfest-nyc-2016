@@ -1,4 +1,4 @@
-<link rel="import" href="../../bower_components/polymer/polymer.html">
+<html><head><link rel="import" href="../../bower_components/polymer/polymer.html">
 
 <link rel="import" href="../../bower_components/iron-flex-layout/iron-flex-layout.html">
 
@@ -8,7 +8,7 @@
 <link rel="import" href="../behaviors/localize-behavior.html">
 
 
-<dom-module id="latest-posts">
+</head><body><dom-module id="latest-posts">
 
   <template>
 
@@ -79,41 +79,7 @@
 
   </template>
 
-  <script>
-    (function () {
-      'use strict';
-
-      Polymer({
-
-        is: 'latest-posts',
-
-        behaviors: [
-          HOVERBOARD.LocalizeBehavior,
-          HOVERBOARD.UtilsBehavior
-        ],
-
-        properties: {
-          posts: {
-            type: Array,
-            observer: '_postsChanged'
-          },
-
-          _posts: {
-            type: Array
-          }
-        },
-
-        _postsChanged: function () {
-          var temp = this.posts.slice(0, 2);
-          for (var i = 0, len = temp.length; i < len; i++) {
-            temp[i].url = '/blog/posts/' + temp[i].id + '/';
-          }
-          this._posts = temp;
-        }
-
-      });
-
-    }());
-  </script>
+  <script>!function(){"use strict";Polymer({is:"latest-posts",behaviors:[HOVERBOARD.LocalizeBehavior,HOVERBOARD.UtilsBehavior],properties:{posts:{type:Array,observer:"_postsChanged"},_posts:{type:Array}},_postsChanged:function(){for(var s=this.posts.slice(0,2),t=0,o=s.length;t<o;t++)s[t].url="/blog/posts/"+s[t].id+"/";this._posts=s}})}();</script>
 
 </dom-module>
+</body></html>

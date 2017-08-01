@@ -1,4 +1,4 @@
-<link rel="import" href="../../bower_components/polymer/polymer.html">
+<html><head><link rel="import" href="../../bower_components/polymer/polymer.html">
 
 <link rel="import" href="../../bower_components/iron-icon/iron-icon.html">
 <link rel="import" href="../../bower_components/iron-dropdown/iron-dropdown-scroll-manager.html">
@@ -21,7 +21,7 @@
 <link rel="import" href="truncate-marked-text.html">
 
 
-<dom-module id="session-details">
+</head><body><dom-module id="session-details">
 
   <template>
 
@@ -36,32 +36,31 @@
       }
     </style>
 
-    <paper-scroll-header-panel id="scrollHeaderPanel" no-reveal>
+    <paper-scroll-header-panel id="scrollHeaderPanel" no-reveal="">
       <paper-toolbar class="tall">
-        <paper-icon-button class="back-button" dialog-dismiss icon="arrow-back"></paper-icon-button>
+        <paper-icon-button class="back-button" dialog-dismiss="" icon="arrow-back"></paper-icon-button>
         <div class="middle fallback-image-wrapper">
-          <iron-image class="fallback-image" src="/images/logo-white.svg"
-                      alt="[[app.data.title]]"></iron-image>
+          <iron-image class="fallback-image" src="/images/logo-white.svg" alt="[[app.data.title]]"></iron-image>
         </div>
       </paper-toolbar>
       <div class="content">
-        <paper-menu-button horizontal-align="right" share-menu>
+        <paper-menu-button horizontal-align="right" share-menu="">
           <paper-fab class="float-button dropdown-trigger" icon="share"></paper-fab>
           <div class="dropdown-content">
             <paper-icon-item on-tap="share" share="gplus">
-              <iron-icon icon="gplus" item-icon></iron-icon>
+              <iron-icon icon="gplus" item-icon=""></iron-icon>
               Google+
             </paper-icon-item>
             <paper-icon-item on-tap="share" share="facebook">
-              <iron-icon icon="facebook" item-icon></iron-icon>
+              <iron-icon icon="facebook" item-icon=""></iron-icon>
               Facebook
             </paper-icon-item>
             <paper-icon-item on-tap="share" share="twitter">
-              <iron-icon icon="twitter" item-icon></iron-icon>
+              <iron-icon icon="twitter" item-icon=""></iron-icon>
               Twitter
             </paper-icon-item>
             <paper-icon-item on-tap="share" share="copy">
-              <iron-icon icon="link" item-icon></iron-icon>
+              <iron-icon icon="link" item-icon=""></iron-icon>
               [[localize('copy-link')]]
             </paper-icon-item>
           </div>
@@ -124,13 +123,9 @@
                       <a class="badge" href$="[[badge.link]]" target="_blank" rel="noopener noreferrer">[[badge.name]]</a>
                     </template>
                   </div>
-                  <truncate-marked-text
-                    text="[[speaker.bio]]"
-                    characters="220"
-                    break-last-word
-                  ></truncate-marked-text>
+                  <truncate-marked-text text="[[speaker.bio]]" characters="220" break-last-word=""></truncate-marked-text>
 
-                  <a class="read-more" href$="/speakers/[[speaker.id]]" dialog-dismiss>[[localize('read-more')]]</a>
+                  <a class="read-more" href$="/speakers/[[speaker.id]]" dialog-dismiss="">[[localize('read-more')]]</a>
                 </div>
               </div>
             </template>
@@ -141,80 +136,7 @@
 
   </template>
 
-  <script>
-    (function () {
-      'use strict';
-
-      Polymer({
-
-        is: 'session-details',
-
-        behaviors: [
-          Polymer.PaperDialogBehavior,
-          Polymer.NeonAnimationRunnerBehavior,
-          HOVERBOARD.LocalizeBehavior,
-          HOVERBOARD.UtilsBehavior,
-          HOVERBOARD.ShareBehavior
-        ],
-
-        properties: {
-          session: {
-            type: Object,
-            observer: '_sessionChanged'
-          }
-        },
-
-        listeners: {
-          'neon-animation-finish': '_onNeonAnimationFinish'
-        },
-
-        _openVideo: function () {
-          HOVERBOARD.Elements.Template.openVideo(this.session.title, this.session.videoId, true);
-        },
-
-        _concatArray: function (array) {
-          return array ? array.join(', ') : '';
-        },
-
-        _sessionChanged: function () {
-          var generatedClass = this._generateClass(this.session.mainTag);
-          this.customStyle['--paper-scroll-header-panel-color'] = 'var(--' + generatedClass + ')';
-          this._previousBrowserColor = HOVERBOARD.Util.getMetaThemeColor();
-          HOVERBOARD.Util.setMetaThemeColor(this.getComputedStyleValue('--' + generatedClass));
-          this.updateStyles();
-        },
-
-        _renderOpened: function () {
-          if (this.withBackdrop && window.innerWidth > 960) {
-            this.backdropElement.open();
-          }
-          this.playAnimation('entry');
-          this.async(function () {
-            this.$.scrollHeaderPanel.scrollToTop(true);
-            this.$.scrollHeaderPanel.notifyResize();
-          });
-          HOVERBOARD.Analytics.trackEvent('session', 'open details', this.session.title);
-        },
-
-        _renderClosed: function () {
-          HOVERBOARD.Util.setMetaThemeColor(this._previousBrowserColor);
-          this.backdropElement.close();
-          this.playAnimation('exit');
-        },
-
-        _onNeonAnimationFinish: function () {
-          if (this.opened) {
-            Polymer.IronDropdownScrollManager.pushScrollLock(this.$.scrollHeaderPanel);
-            this._finishRenderOpened();
-          } else {
-            Polymer.IronDropdownScrollManager.removeScrollLock(this.$.scrollHeaderPanel);
-            this._finishRenderClosed();
-          }
-        }
-
-      });
-
-    }());
-  </script>
+  <script>!function(){"use strict";Polymer({is:"session-details",behaviors:[Polymer.PaperDialogBehavior,Polymer.NeonAnimationRunnerBehavior,HOVERBOARD.LocalizeBehavior,HOVERBOARD.UtilsBehavior,HOVERBOARD.ShareBehavior],properties:{session:{type:Object,observer:"_sessionChanged"}},listeners:{"neon-animation-finish":"_onNeonAnimationFinish"},_openVideo:function(){HOVERBOARD.Elements.Template.openVideo(this.session.title,this.session.videoId,!0)},_concatArray:function(e){return e?e.join(", "):""},_sessionChanged:function(){var e=this._generateClass(this.session.mainTag);this.customStyle["--paper-scroll-header-panel-color"]="var(--"+e+")",this._previousBrowserColor=HOVERBOARD.Util.getMetaThemeColor(),HOVERBOARD.Util.setMetaThemeColor(this.getComputedStyleValue("--"+e)),this.updateStyles()},_renderOpened:function(){this.withBackdrop&&window.innerWidth>960&&this.backdropElement.open(),this.playAnimation("entry"),this.async(function(){this.$.scrollHeaderPanel.scrollToTop(!0),this.$.scrollHeaderPanel.notifyResize()}),HOVERBOARD.Analytics.trackEvent("session","open details",this.session.title)},_renderClosed:function(){HOVERBOARD.Util.setMetaThemeColor(this._previousBrowserColor),this.backdropElement.close(),this.playAnimation("exit")},_onNeonAnimationFinish:function(){this.opened?(Polymer.IronDropdownScrollManager.pushScrollLock(this.$.scrollHeaderPanel),this._finishRenderOpened()):(Polymer.IronDropdownScrollManager.removeScrollLock(this.$.scrollHeaderPanel),this._finishRenderClosed())}})}();</script>
 
 </dom-module>
+</body></html>

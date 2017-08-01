@@ -1,4 +1,4 @@
-<link rel="import" href="../../bower_components/polymer/polymer.html">
+<html><head><link rel="import" href="../../bower_components/polymer/polymer.html">
 
 <link rel="import" href="../../bower_components/paper-button/paper-button.html">
 
@@ -6,7 +6,7 @@
 <link rel="import" href="../behaviors/localize-behavior.html">
 
 
-<dom-module id="call-to-action">
+</head><body><dom-module id="call-to-action">
 
   <template>
 
@@ -48,32 +48,13 @@
     <div class="container container-narrow">
       <h4 class="heading">{{localize('action-title')}}</h4>
       <a href$="[[app.data.callToAction.url]]" target="_blank" rel="noopener noreferrer">
-        <paper-button class="primary" raised>{{localize('action')}}</paper-button>
+        <paper-button class="primary" raised="">{{localize('action')}}</paper-button>
       </a>
     </div>
 
   </template>
 
-  <script>
-    (function () {
-      'use strict';
-
-      Polymer({
-
-        is: 'call-to-action',
-
-        behaviors: [
-          HOVERBOARD.LocalizeBehavior
-        ],
-
-        playVideo: function () {
-          HOVERBOARD.Elements.Template.openVideo(this.localize(this.app.data.callToAction.videoTitle),
-            this.app.data.callToAction.videoId, true);
-        }
-
-      });
-
-    }());
-  </script>
+  <script>!function(){"use strict";Polymer({is:"call-to-action",behaviors:[HOVERBOARD.LocalizeBehavior],playVideo:function(){HOVERBOARD.Elements.Template.openVideo(this.localize(this.app.data.callToAction.videoTitle),this.app.data.callToAction.videoId,!0)}})}();</script>
 
 </dom-module>
+</body></html>

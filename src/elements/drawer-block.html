@@ -1,4 +1,4 @@
-<link rel="import" href="../../bower_components/polymer/polymer.html">
+<html><head><link rel="import" href="../../bower_components/polymer/polymer.html">
 
 <link rel="import" href="../../bower_components/app-layout/app-toolbar/app-toolbar.html">
 
@@ -13,7 +13,7 @@
 <link rel="import" href="../styles/shared-styles.html">
 
 
-<dom-module id="drawer-block">
+</head><body><dom-module id="drawer-block">
 
   <template>
 
@@ -79,8 +79,7 @@
 
     <paper-toolbar class="tall">
       <div class="top">
-        <iron-image class="logo" src="/images/logo-white.svg" sizing="contain"
-                    alt="[[localize('title')]]"></iron-image>
+        <iron-image class="logo" src="/images/logo-white.svg" sizing="contain" alt="[[localize('title')]]"></iron-image>
       </div>
       <div class="bottom">
         <span class="dates">[[localize('dates')]]</span>
@@ -88,50 +87,19 @@
       </div>
     </paper-toolbar>
     <nav>
-      <paper-menu
-        class="navigation list"
-        attr-for-selected="name"
-        selected="{{pageData.page}}"
-        selected-class="selected"
-      >
+      <paper-menu class="navigation list" attr-for-selected="name" selected="{{pageData.page}}" selected-class="selected">
         <template is="dom-repeat" items="[[app.data.navigation]]" as="nav">
           <a class="navigation-link" name="[[nav.route]]" href$="[[nav.permalink]]" on-tap="closeDrawer">{{localize(nav.route)}}</a>
         </template>
         <a class="navigation-link" href$="[[app.data.tickets.url]]" target="_blank" rel="noopener noreferrer" on-tap="_trackBuyClick">[[localize('buy-ticket')]]
-          <iron-icon
-            class="open-in-new"
-            icon="open-in-new"
-          ></iron-icon>
+          <iron-icon class="open-in-new" icon="open-in-new"></iron-icon>
         </a>
       </paper-menu>
     </nav>
 
   </template>
 
-  <script>
-    (function () {
-      'use strict';
-
-      Polymer({
-
-        is: 'drawer-block',
-
-        behaviors: [
-          HOVERBOARD.LocalizeBehavior
-        ],
-
-        closeDrawer: function () {
-          HOVERBOARD.Elements.Template.closeDrawer();
-        },
-
-        _trackBuyClick: function () {
-          HOVERBOARD.Analytics.trackEvent('ticket', 'buy_click', 'drawer');
-          this.closeDrawer();
-        }
-
-      });
-
-    }());
-  </script>
+  <script>!function(){"use strict";Polymer({is:"drawer-block",behaviors:[HOVERBOARD.LocalizeBehavior],closeDrawer:function(){HOVERBOARD.Elements.Template.closeDrawer()},_trackBuyClick:function(){HOVERBOARD.Analytics.trackEvent("ticket","buy_click","drawer"),this.closeDrawer()}})}();</script>
 
 </dom-module>
+</body></html>

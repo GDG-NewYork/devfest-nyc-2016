@@ -1,4 +1,4 @@
-<link rel="import" href="../../bower_components/polymer/polymer.html">
+<html><head><link rel="import" href="../../bower_components/polymer/polymer.html">
 
 <link rel="import" href="../../bower_components/iron-flex-layout/iron-flex-layout.html">
 <link rel="import" href="../../bower_components/iron-image/iron-image.html">
@@ -8,7 +8,7 @@
 <link rel="import" href="../../bower_components/paper-ripple/paper-ripple.html">
 
 
-<dom-module id="photo-block">
+</head><body><dom-module id="photo-block">
 
   <template>
 
@@ -75,40 +75,25 @@
 
     <div class="photo-wrapper">
       <div class="photo big">
-        <iron-image
-          class="placeholder-color"
-          src="[[app.data.gallery.photos.big]]"
-          sizing="cover"
-          preload fade
-        ></iron-image>
+        <iron-image class="placeholder-color" src="[[app.data.gallery.photos.big]]" sizing="cover" preload="" fade=""></iron-image>
         <a class="open-photos" href$="[[app.data.gallery.albumUrl]]" target="_blank" rel="noopener noreferrer">
           <paper-ripple></paper-ripple>
-          <span>[[localize('click-to-view-photos')]] <iron-icon icon="open-in-new"/></span>
+          <span>[[localize('click-to-view-photos')]] <iron-icon icon="open-in-new"></iron-icon></span>
         </a>
       </div>
       <div class="vertical-block">
         <div class="photo">
-          <iron-image
-            class="placeholder-color"
-            src="[[app.data.gallery.photos.small.0]]"
-            sizing="cover"
-            preload fade
-          ></iron-image>
+          <iron-image class="placeholder-color" src="[[app.data.gallery.photos.small.0]]" sizing="cover" preload="" fade=""></iron-image>
           <a class="open-photos" href$="[[app.data.gallery.albumUrl]]" target="_blank" rel="noopener noreferrer">
             <paper-ripple></paper-ripple>
-            <span>[[localize('click-to-view-photos')]] <iron-icon icon="open-in-new"/></span>
+            <span>[[localize('click-to-view-photos')]] <iron-icon icon="open-in-new"></iron-icon></span>
           </a>
         </div>
         <div class="photo">
-          <iron-image
-            class="placeholder-color"
-            src="[[app.data.gallery.photos.small.1]]"
-            sizing="cover"
-            preload fade
-          ></iron-image>
+          <iron-image class="placeholder-color" src="[[app.data.gallery.photos.small.1]]" sizing="cover" preload="" fade=""></iron-image>
           <a class="open-photos" href$="[[app.data.gallery.albumUrl]]" target="_blank" rel="noopener noreferrer">
             <paper-ripple></paper-ripple>
-            <span>[[localize('click-to-view-photos')]] <iron-icon icon="open-in-new"/></span>
+            <span>[[localize('click-to-view-photos')]] <iron-icon icon="open-in-new"></iron-icon></span>
           </a>
         </div>
       </div>
@@ -116,21 +101,7 @@
 
   </template>
 
-  <script>
-    (function () {
-      'use strict';
-
-      Polymer({
-
-        is: 'photo-block',
-
-        behaviors: [
-          HOVERBOARD.LocalizeBehavior
-        ]
-
-      });
-
-    }());
-  </script>
+  <script>!function(){"use strict";Polymer({is:"photo-block",behaviors:[HOVERBOARD.LocalizeBehavior]})}();</script>
 
 </dom-module>
+</body></html>

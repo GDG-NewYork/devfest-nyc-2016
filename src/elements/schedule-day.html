@@ -1,4 +1,4 @@
-<link rel="import" href="../../bower_components/polymer/polymer.html">
+<html><head><link rel="import" href="../../bower_components/polymer/polymer.html">
 
 <link rel="import" href="../../bower_components/iron-image/iron-image.html">
 <link rel="import" href="../../bower_components/iron-icon/iron-icon.html">
@@ -10,7 +10,7 @@
 <link rel="import" href="../behaviors/utils-behavior.html">
 
 
-<dom-module id="schedule-day">
+</head><body><dom-module id="schedule-day">
 
   <template>
 
@@ -163,30 +163,28 @@
     </style>
 
     <template is="dom-repeat" items="[[day.timeslots]]" as="timeslot">
-      <div class="timeslot" layout vertical$="{{app.isPhoneSize}}" horizontal$="{{!app.isPhoneSize}}">
+      <div class="timeslot" layout="" vertical$="{{app.isPhoneSize}}" horizontal$="{{!app.isPhoneSize}}">
 
         <div class="start-time">
           <span class="hours">[[_splitText(timeslot.startTime, ':', 0)]]</span>
           <span class="minutes">[[_splitText(timeslot.startTime, ':', 1)]]</span>
         </div>
 
-        <div class="sessions-wrapper" layout vertical$="{{app.isPhoneSize}}" horizontal$="{{!app.isPhoneSize}}"
-             flex$="{{!app.isPhoneSize}}">
+        <div class="sessions-wrapper" layout="" vertical$="{{app.isPhoneSize}}" horizontal$="{{!app.isPhoneSize}}" flex$="{{!app.isPhoneSize}}">
           <template is="dom-repeat" items="[[timeslot.sessions]]" as="session">
-            <div class="session" layout vertical flex$="{{!app.isPhoneSize}}">
-              <template is="dom-repeat" items="[[session]]" as="subSession"
-                        filter="{{_filterSession(filters.splices)}}">
+            <div class="session" layout="" vertical="" flex$="{{!app.isPhoneSize}}">
+              <template is="dom-repeat" items="[[session]]" as="subSession" filter="{{_filterSession(filters.splices)}}">
 
-                <a href$="/schedule/[[name]]?sessionId=[[subSession.id]]" class="sub-session" with-background$="[[subSession.image]]" layout flex-auto>
-                  <paper-card layout flex-auto>
+                <a href$="/schedule/[[name]]?sessionId=[[subSession.id]]" class="sub-session" with-background$="[[subSession.image]]" layout="" flex-auto="">
+                  <paper-card layout="" flex-auto="">
 
                     <template is="dom-if" if="[[subSession.image]]">
-                      <iron-image src="[[subSession.image]]" sizing="cover" fit preload></iron-image>
+                      <iron-image src="[[subSession.image]]" sizing="cover" fit="" preload=""></iron-image>
                     </template>
 
-                    <div class="overlay" relative layout vertical flex>
+                    <div class="overlay" relative="" layout="" vertical="" flex="">
 
-                      <div class="sub-session-content" flex>
+                      <div class="sub-session-content" flex="">
                         <h2 class="session-title">[[subSession.title]]</h2>
                         <ul class="session-meta">
                           <template is="dom-if" if="[[subSession.language]]">
@@ -202,20 +200,19 @@
                       </div>
 
                       <template is="dom-if" if="[[subSession.tags]]">
-                        <div class="tags" layout horizontal center>
+                        <div class="tags" layout="" horizontal="" center="">
                           <iron-icon icon="tags"></iron-icon>
                           <span>[[_joinArray(subSession.tags)]]</span>
                         </div>
                       </template>
 
                       <template is="dom-if" if="[[subSession.speakers.length]]">
-                        <div class="speaker-block" layout horizontal wrap relative>
-                          <div class="image-overlay"
-                               style$="background-color: [[_getCustomStyleValue(subSession.mainTag)]]" fit></div>
+                        <div class="speaker-block" layout="" horizontal="" wrap="" relative="">
+                          <div class="image-overlay" style$="background-color: [[_getCustomStyleValue(subSession.mainTag)]]" fit=""></div>
                           <template is="dom-repeat" items="[[subSession.speakers]]" as="speaker">
-                            <div class="speaker" layout horizontal center>
+                            <div class="speaker" layout="" horizontal="" center="">
                               <iron-icon icon="account"></iron-icon>
-                              <div class="person-detail" flex>
+                              <div class="person-detail" flex="">
                                 <span class="speaker-name">[[speaker.name]]</span>
                                 <div class="speaker-title">
                                   [[speaker.company]] / [[speaker.country]]
@@ -240,78 +237,7 @@
 
   </template>
 
-  <script>
-    (function () {
-      'use strict';
-
-      Polymer({
-
-        is: 'schedule-day',
-
-        behaviors: [
-          Polymer.NeonSharedElementAnimatableBehavior,
-          HOVERBOARD.UtilsBehavior
-        ],
-
-        properties: {
-          app: {
-            type: Object
-          },
-
-          day: {
-            type: Object
-          },
-
-          filters: {
-            type: Array,
-            value: []
-          },
-
-          animationConfig: {
-            type: Object,
-            value: function () {
-              return {
-                'entry': [{
-                  name: 'fade-in-animation',
-                  animation: 'fade-in-animation',
-                  node: this,
-                  timing: {
-                    delay: 500
-                  }
-                }],
-                'exit': [{
-                  name: 'fade-out-animation',
-                  animation: 'fade-out-animation',
-                  node: this
-                }]
-              };
-            }
-          }
-        },
-
-        _splitText: function (text, divider, index) {
-          return text.split(divider)[index];
-        },
-
-        _getCustomStyleValue: function (value) {
-          return this.getComputedStyleValue('--' + this._generateClass(value));
-        },
-
-        _joinArray: function (array) {
-          return array.join(', ');
-        },
-
-        _filterSession: function () {
-          var filters = this.filters || [];
-          if (!filters.length) return false;
-          return function (session) {
-            return filters.indexOf(session.mainTag) > -1;
-          };
-        }
-
-      });
-
-    }());
-  </script>
+  <script>!function(){"use strict";Polymer({is:"schedule-day",behaviors:[Polymer.NeonSharedElementAnimatableBehavior,HOVERBOARD.UtilsBehavior],properties:{app:{type:Object},day:{type:Object},filters:{type:Array,value:[]},animationConfig:{type:Object,value:function(){return{entry:[{name:"fade-in-animation",animation:"fade-in-animation",node:this,timing:{delay:500}}],exit:[{name:"fade-out-animation",animation:"fade-out-animation",node:this}]}}}},_splitText:function(e,t,n){return e.split(t)[n]},_getCustomStyleValue:function(e){return this.getComputedStyleValue("--"+this._generateClass(e))},_joinArray:function(e){return e.join(", ")},_filterSession:function(){var e=this.filters||[];return!!e.length&&function(t){return e.indexOf(t.mainTag)>-1}}})}();</script>
 
 </dom-module>
+</body></html>

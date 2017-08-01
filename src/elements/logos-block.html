@@ -1,4 +1,4 @@
-<link rel="import" href="../../bower_components/polymer/polymer.html">
+<html><head><link rel="import" href="../../bower_components/polymer/polymer.html">
 
 <link rel="import" href="../../bower_components/iron-flex-layout/iron-flex-layout.html">
 <link rel="import" href="../../bower_components/iron-image/iron-image.html">
@@ -8,7 +8,7 @@
 <link rel="import" href="../behaviors/localize-behavior.html">
 <link rel="import" href="../styles/shared-styles.html">
 
-<dom-module id="logos-block">
+</head><body><dom-module id="logos-block">
 
   <template>
 
@@ -73,45 +73,20 @@
           <div class="logos">
             <template is="dom-repeat" items="[[block.logos]]" as="logo">
               <a class="logo-item" href="[[logo.url]]" title="[[logo.name]]" target="_blank" rel="noopener noreferrer">
-                <iron-image
-                  class$="logo-img [[block.logosClass]]"
-                  src="[[logo.logoUrl]]"
-                  width$="{{logo.width}}"
-                  height$="{{logo.height}}"
-                  sizing="contain"
-                  preload fade
-                ></iron-image>
+                <iron-image class$="logo-img [[block.logosClass]]" src="[[logo.logoUrl]]" width$="{{logo.width}}" height$="{{logo.height}}" sizing="contain" preload="" fade=""></iron-image>
               </a>
             </template>
           </div>
         </div>
       </template>
       <a class="block-link" href$="[[app.data.partnershipProposition]]" target="_blank" rel="noopener noreferrer" on-tap="_trackClick">
-        <paper-button class="primary" raised>[[localize('become-a-partner')]]</paper-button>
+        <paper-button class="primary" raised="">[[localize('become-a-partner')]]</paper-button>
       </a>
     </div>
 
   </template>
 
-  <script>
-    (function () {
-      'use strict';
-
-      Polymer({
-
-        is: 'logos-block',
-
-        behaviors: [
-          HOVERBOARD.LocalizeBehavior
-        ],
-
-        _trackClick: function () {
-          HOVERBOARD.Analytics.trackEvent('sponsors', 'open proposition', 'Become a partner');
-        }
-
-      });
-
-    }());
-  </script>
+  <script>!function(){"use strict";Polymer({is:"logos-block",behaviors:[HOVERBOARD.LocalizeBehavior],_trackClick:function(){HOVERBOARD.Analytics.trackEvent("sponsors","open proposition","Become a partner")}})}();</script>
 
 </dom-module>
+</body></html>
